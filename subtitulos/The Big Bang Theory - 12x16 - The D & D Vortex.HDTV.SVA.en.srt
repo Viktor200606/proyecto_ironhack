@@ -1,0 +1,1919 @@
+﻿1
+00:00:01,527 --> 00:00:03,360
+All right,
+Professor Proton fans,
+
+2
+00:00:03,429 --> 00:00:05,629
+get ready to meet
+Dr. Sheldon Cooper
+
+3
+00:00:05,698 --> 00:00:09,166
+and Dr. Amy Farrah Fowler,
+a pair of real-life scientists
+
+4
+00:00:09,235 --> 00:00:11,702
+who may win the Nobel Prize.
+
+5
+00:00:11,770 --> 00:00:13,737
+That's like
+the Kids' Choice Award,
+
+6
+00:00:13,806 --> 00:00:18,141
+but with more science
+and less slime.
+
+7
+00:00:18,210 --> 00:00:19,676
+Hi, thanks for having us.
+
+8
+00:00:19,745 --> 00:00:20,978
+Kids' Choice Award?
+
+9
+00:00:21,046 --> 00:00:22,746
+Why would they let kids
+choose anything?
+
+10
+00:00:22,815 --> 00:00:25,682
+They're basically
+human larvae.
+
+11
+00:00:25,751 --> 00:00:28,318
+Well, they are kind of
+our target audience.
+
+12
+00:00:31,957 --> 00:00:33,924
+Greetings, children.
+
+13
+00:00:33,993 --> 00:00:36,493
+Toys, am I right?
+
+14
+00:00:36,562 --> 00:00:39,663
+He is. He has hundreds of them.
+
+15
+00:00:39,732 --> 00:00:41,265
+So you two have
+discovered something
+
+16
+00:00:41,333 --> 00:00:43,600
+that a lot of people
+are really excited about.
+
+17
+00:00:43,669 --> 00:00:45,102
+We have.
+
+18
+00:00:45,170 --> 00:00:46,737
+Now, before
+you explain it,
+
+19
+00:00:46,805 --> 00:00:50,407
+keep in mind that our
+average viewer is this many.
+
+20
+00:00:50,476 --> 00:00:54,278
+Okay, imagine you're
+looking in a mirror.
+
+21
+00:00:54,346 --> 00:00:56,847
+The image you see
+looks just like you.
+
+22
+00:00:56,915 --> 00:00:58,882
+That's called symmetrical.
+
+23
+00:00:58,951 --> 00:01:01,351
+Now imagine you have
+a billion mirrors,
+
+24
+00:01:01,420 --> 00:01:04,288
+and each of them reflects
+one thing about you correctly
+
+25
+00:01:04,356 --> 00:01:06,890
+and a billion things
+about you incorrectly.
+
+26
+00:01:06,959 --> 00:01:09,226
+And imagine the set
+of incorrect things
+
+27
+00:01:09,295 --> 00:01:12,729
+are floating in an abstract
+n-dimensional hyperspace.
+
+28
+00:01:12,798 --> 00:01:16,733
+Now imagine there was never
+a mirror to begin with.
+
+29
+00:01:18,337 --> 00:01:19,569
+Oh, was that
+a doorbell?
+
+30
+00:01:19,638 --> 00:01:20,937
+I didn't
+hear anything.
+
+31
+00:01:24,877 --> 00:01:27,210
+Huh, there it is again.
+
+32
+00:01:27,279 --> 00:01:28,578
+Sheldon, why don't
+you answer it?
+
+33
+00:01:28,647 --> 00:01:30,881
+But I don't know who it is.
+
+34
+00:01:30,949 --> 00:01:34,818
+Maybe it's a special guest who
+I invited just to surprise you.
+
+35
+00:01:34,887 --> 00:01:36,920
+Why don't you open it up
+and find out.
+
+36
+00:01:36,989 --> 00:01:39,089
+This is a terrible message
+to send to children.
+
+37
+00:01:39,158 --> 00:01:40,490
+Children, you never
+open the door
+
+38
+00:01:40,559 --> 00:01:42,392
+if you don't know
+who's on the other side.
+
+39
+00:01:42,461 --> 00:01:44,494
+You always make your
+mommy or daddy do it
+
+40
+00:01:44,563 --> 00:01:46,763
+while you hide under the bed
+and try to imagine
+
+41
+00:01:46,832 --> 00:01:49,900
+what your superhero name will be
+when you avenge their deaths.
+
+42
+00:01:49,968 --> 00:01:52,669
+I'll get it.
+
+43
+00:01:52,738 --> 00:01:54,905
+But it can't be The Silver
+Shadow-- that's mine.
+
+44
+00:01:57,376 --> 00:01:59,009
+Hello.
+
+45
+00:02:01,213 --> 00:02:04,181
+Captain on the bridge!
+Captain on the bridge!
+
+46
+00:02:05,484 --> 00:02:06,950
+You're William Shatner.
+
+47
+00:02:07,019 --> 00:02:08,285
+You can call me Bill.
+
+48
+00:02:08,354 --> 00:02:09,686
+Ooh, can I call you Captain?
+No.
+
+49
+00:02:09,755 --> 00:02:11,655
+Please?
+No.
+
+50
+00:02:11,724 --> 00:02:13,757
+Please?
+
+51
+00:02:13,826 --> 00:02:15,125
+Sure.
+
+52
+00:02:16,662 --> 00:02:19,029
+And w-will you call me
+Science Officer Cooper?
+
+53
+00:02:19,098 --> 00:02:20,864
+This has got to stop.
+
+54
+00:02:20,933 --> 00:02:23,700
+I think you know
+how to make it stop.
+
+55
+00:02:23,769 --> 00:02:26,303
+Put her there,
+Science Officer Cooper.
+
+56
+00:02:28,674 --> 00:02:31,608
+Put her there,
+Science Officer Cooper.
+
+57
+00:02:35,247 --> 00:02:37,547
+Oh, poor Shatner.
+
+58
+00:02:37,616 --> 00:02:39,983
+Poor Shatner?
+I have to eat lunch now.
+
+59
+00:02:40,052 --> 00:02:43,153
+Look, Sheldon's
+pretty embarrassed,
+
+60
+00:02:43,222 --> 00:02:44,788
+so when he gets here,
+we should...
+
+61
+00:02:44,857 --> 00:02:47,190
+Make fun of him?
+A lot.
+
+62
+00:02:47,259 --> 00:02:48,992
+Guys, don't you think
+that's a little mean?
+
+63
+00:02:49,061 --> 00:02:49,708
+Yeah.
+
+64
+00:02:49,732 --> 00:02:51,295
+Okay, just so we're
+all on the same page.
+
+65
+00:02:51,296 --> 00:02:52,396
+Yeah.
+
+66
+00:02:52,464 --> 00:02:53,797
+- Hello.
+- Hey.
+
+67
+00:02:53,866 --> 00:02:55,532
+So, Sheldon,
+did you get
+
+68
+00:02:55,601 --> 00:02:57,946
+William Shatner's autograph,
+or maybe his dry cleaning bill?
+
+69
+00:02:58,971 --> 00:03:01,304
+Very funny, get it all out.
+
+70
+00:03:01,373 --> 00:03:02,873
+Like you did on William Shatner?
+
+71
+00:03:04,943 --> 00:03:07,010
+Raj, do you have
+something to add?
+
+72
+00:03:07,079 --> 00:03:10,080
+You brought shame upon
+yourself and your family.
+
+73
+00:03:10,149 --> 00:03:13,150
+It's not funny,
+but it's true.
+
+74
+00:03:13,218 --> 00:03:16,019
+I will admit the meeting
+did not go the way I wanted.
+
+75
+00:03:16,088 --> 00:03:19,189
+Because you barfed where no man
+has barfed before?
+
+76
+00:03:20,559 --> 00:03:23,860
+Well, the next time I meet him,
+it will go better.
+
+77
+00:03:23,929 --> 00:03:26,696
+Next time? What makes you think
+there's gonna be a next time?
+
+78
+00:03:26,765 --> 00:03:29,833
+Wil will give me another chance.
+He thinks the world of me.
+
+79
+00:03:29,902 --> 00:03:32,035
+Aw. One of the reasons
+I love you
+
+80
+00:03:32,104 --> 00:03:34,738
+is you actually believe that.
+
+81
+00:03:34,807 --> 00:03:36,247
+Thank you.
+
+82
+00:03:36,248 --> 00:03:39,248
+<b><font color="#00FF00">♪ The Big Bang Theory 12x16 ♪</font></b>
+<font color="#00FFFF">The D & D Vortex</font>
+Original Air Date on Feb
+
+83
+00:03:39,249 --> 00:03:42,579
+♪ Our whole universe
+was in a hot, dense state ♪
+
+84
+00:03:42,648 --> 00:03:45,882
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+85
+00:03:45,951 --> 00:03:47,451
+♪ The Earth began to cool ♪
+
+86
+00:03:47,519 --> 00:03:50,253
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+87
+00:03:50,322 --> 00:03:52,756
+♪ We built the Wall ♪
+♪ <i>We built the pyramids</i> ♪
+
+88
+00:03:52,825 --> 00:03:55,459
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+89
+00:03:55,527 --> 00:03:57,360
+♪ That all started
+with a big bang ♪
+
+90
+00:03:57,429 --> 00:03:58,962
+♪ <i>Bang!</i> ♪
+
+91
+00:03:58,986 --> 00:04:00,986
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+92
+00:04:06,666 --> 00:04:09,867
+Wil Wheaton. Wil Wheaton.
+
+93
+00:04:09,936 --> 00:04:11,869
+Wil Wheaton.
+
+94
+00:04:18,111 --> 00:04:19,477
+Wil Wheaton.
+
+95
+00:04:19,546 --> 00:04:20,745
+Wil Wheaton.
+
+96
+00:04:21,815 --> 00:04:24,282
+Wil Wheaton.
+
+97
+00:04:24,351 --> 00:04:26,884
+Now's not a good time, Sheldon.
+
+98
+00:04:26,953 --> 00:04:29,887
+For what?
+You.
+
+99
+00:04:29,956 --> 00:04:32,557
+I need to apologize.
+
+100
+00:04:32,626 --> 00:04:34,559
+- Apology accepted.
+- Wil, come on,
+
+101
+00:04:34,628 --> 00:04:35,727
+I cast fireball,
+
+102
+00:04:35,795 --> 00:04:37,328
+you need to roll
+your dexterity save.
+
+103
+00:04:37,397 --> 00:04:38,763
+I'll be right there.
+
+104
+00:04:38,832 --> 00:04:41,065
+Are you playing
+Dungeons & Dragons?
+
+105
+00:04:41,134 --> 00:04:42,600
+- No.
+- Would you hurry up,
+
+106
+00:04:42,669 --> 00:04:44,569
+man, the map says
+this dungeon's
+
+107
+00:04:44,638 --> 00:04:47,405
+full of dragons.
+
+108
+00:04:47,474 --> 00:04:50,908
+Still no.
+Who are you playing with?
+
+109
+00:04:50,977 --> 00:04:53,444
+Ugh... it's just some friends,
+you don't know them.
+
+110
+00:04:53,513 --> 00:04:54,445
+Wheaton, get back here.
+
+111
+00:04:54,514 --> 00:04:55,780
+Hobgoblins
+are at the gate,
+
+112
+00:04:55,849 --> 00:04:59,617
+and you're at the door
+buying Girl Scout Cookies.
+
+113
+00:05:01,888 --> 00:05:03,688
+Is that William Shat...?
+Nope.
+
+114
+00:05:07,761 --> 00:05:10,762
+Hey, you guys want to read
+my fan fiction mash-up,
+
+115
+00:05:10,830 --> 00:05:12,430
+"Captain Marvelous Mrs. Maisel"?
+
+116
+00:05:14,067 --> 00:05:16,000
+- Nope. - No.
+- Certainly not.
+
+117
+00:05:16,069 --> 00:05:17,502
+You don't even know
+what it's about.
+
+118
+00:05:17,570 --> 00:05:18,936
+Is it about
+a superhero
+
+119
+00:05:19,005 --> 00:05:20,705
+who finds her voice
+by doing stand-up?
+
+120
+00:05:20,774 --> 00:05:23,808
+That's so much better
+than what I had.
+
+121
+00:05:24,944 --> 00:05:27,845
+Mine is just a Jewish girl
+that flies.
+
+122
+00:05:27,914 --> 00:05:30,715
+I'd read that.
+
+123
+00:05:30,784 --> 00:05:33,117
+Guys, guys,
+Wil Wheaton
+
+124
+00:05:33,186 --> 00:05:35,320
+hosts a secret
+celebrity D&D game.
+
+125
+00:05:35,388 --> 00:05:36,688
+How do you know?
+Who was there?
+
+126
+00:05:36,756 --> 00:05:38,389
+Why are you damp?
+
+127
+00:05:38,458 --> 00:05:40,792
+I was trying to peek
+in Wil's window,
+
+128
+00:05:40,860 --> 00:05:42,327
+and he turned the sprinklers on.
+
+129
+00:05:42,395 --> 00:05:45,863
+Oh, that means they
+must be really famous.
+
+130
+00:05:45,932 --> 00:05:47,799
+I'm almost positive
+I heard William Shatner.
+
+131
+00:05:47,867 --> 00:05:50,068
+I wonder who else is playing.
+
+132
+00:05:50,136 --> 00:05:53,838
+I-I bet we can use graph theory
+to determine who Wil knows
+
+133
+00:05:53,907 --> 00:05:56,207
+and who is likely to play D&D.
+Yes.
+
+134
+00:05:56,276 --> 00:06:01,179
+Okay, obviously he's connected
+to the whole <i>Next Gen</i> cast...
+
+135
+00:06:01,247 --> 00:06:04,382
+So this is the rest
+of our night, huh?
+
+136
+00:06:04,451 --> 00:06:06,417
+Oh, no,
+
+137
+00:06:06,486 --> 00:06:08,753
+this is the rest of our lives.
+
+138
+00:06:10,423 --> 00:06:15,059
+And Josh Brolin gets
+you to every Avenger.
+
+139
+00:06:15,128 --> 00:06:17,195
+Kevin Smith's
+in this article
+
+140
+00:06:17,263 --> 00:06:18,696
+about celebrities who play D&D.
+
+141
+00:06:18,765 --> 00:06:20,231
+Oh! A-And he was
+on Wil's podcast,
+
+142
+00:06:20,300 --> 00:06:21,899
+so they know each other.
+
+143
+00:06:21,968 --> 00:06:23,234
+G-Go on his Instagram,
+
+144
+00:06:23,303 --> 00:06:24,463
+see if you can find anything.
+
+145
+00:06:24,504 --> 00:06:26,337
+Yeah, he-he posted something
+an hour ago:
+
+146
+00:06:26,406 --> 00:06:27,872
+"#GameNight."
+
+147
+00:06:27,941 --> 00:06:30,742
+That looks like Wil's house.
+
+148
+00:06:30,810 --> 00:06:32,243
+William Shatner,
+
+149
+00:06:32,312 --> 00:06:34,445
+Kevin Smith--
+who else could be there?
+
+150
+00:06:34,514 --> 00:06:36,881
+Do you see what I see
+over his shoulder?
+
+151
+00:06:36,950 --> 00:06:39,584
+Is that a ghost?
+
+152
+00:06:40,820 --> 00:06:42,754
+I think it's Stuart.
+
+153
+00:06:45,024 --> 00:06:48,459
+That <i>is</i> Stuart.
+What-What's he doing there?
+
+154
+00:06:48,528 --> 00:06:50,461
+Maybe he died in Wil's house
+
+155
+00:06:50,530 --> 00:06:53,131
+and he can't leave
+until he solves his own murder.
+
+156
+00:06:55,135 --> 00:06:58,403
+Why would Wil invite
+Stuart and not us?
+
+157
+00:06:58,471 --> 00:07:00,304
+I know the answer.
+Yeah.
+
+158
+00:07:00,373 --> 00:07:02,240
+We all know the answer.
+
+159
+00:07:16,656 --> 00:07:17,922
+Hey, guys.
+
+160
+00:07:17,991 --> 00:07:20,425
+You're home late.
+
+161
+00:07:20,493 --> 00:07:22,727
+Uh, yeah.
+
+162
+00:07:22,796 --> 00:07:26,464
+I had a crazy night.
+I went to the pharmacy.
+
+163
+00:07:26,533 --> 00:07:29,600
+I like to be there when
+the new decongestants drop.
+
+164
+00:07:29,669 --> 00:07:31,769
+Cut the crap.
+We know where you were.
+
+165
+00:07:31,838 --> 00:07:33,171
+We know what
+you were doing.
+
+166
+00:07:33,239 --> 00:07:37,341
+Yeah, I just told you. I was
+at CVS breathing my ass off.
+
+167
+00:07:37,410 --> 00:07:38,654
+Oh, you were breathing,
+all right.
+
+168
+00:07:38,678 --> 00:07:40,678
+You were breathing the
+rarefied air of celebrities.
+
+169
+00:07:40,747 --> 00:07:41,991
+I don't know what
+you're talking about.
+
+170
+00:07:42,015 --> 00:07:43,181
+Then why are
+you trembling?
+
+171
+00:07:43,249 --> 00:07:45,016
+I'm always trembling.
+
+172
+00:07:45,084 --> 00:07:46,851
+We know you were
+at Wil's D&D game.
+
+173
+00:07:46,920 --> 00:07:47,985
+We saw you on Instagram.
+
+174
+00:07:48,054 --> 00:07:49,632
+We just want to know
+how you got invited.
+
+175
+00:07:49,656 --> 00:07:53,825
+I can't talk about it or they
+won't invite me back next week.
+
+176
+00:07:53,893 --> 00:07:55,526
+So there's another
+game next week.
+
+177
+00:07:55,595 --> 00:07:57,595
+I didn't mean to say that.
+
+178
+00:07:57,664 --> 00:07:59,464
+Who's in it?
+I can't tell you!
+
+179
+00:07:59,532 --> 00:08:01,966
+How do we get invited?
+I don't know!
+
+180
+00:08:02,035 --> 00:08:04,469
+How many hit dice are they
+playing the wereboar as having?
+
+181
+00:08:04,537 --> 00:08:08,105
+12d8 + 24--
+I mean, I don't know!
+
+182
+00:08:14,280 --> 00:08:15,813
+Hey, Stuart.
+
+183
+00:08:15,882 --> 00:08:17,962
+I don't want to play anymore.
+It's too much pressure.
+
+184
+00:08:19,452 --> 00:08:21,886
+Why, what happened?
+I've-I've said too much.
+
+185
+00:08:21,955 --> 00:08:23,621
+You haven't said anything.
+
+186
+00:08:23,690 --> 00:08:26,791
+Not to you, to them.
+Who's them?
+
+187
+00:08:26,860 --> 00:08:29,560
+Ah! Now I <i>have</i> said too much!
+
+188
+00:08:32,565 --> 00:08:34,632
+But y-you blocked
+your number, right?
+
+189
+00:08:34,701 --> 00:08:35,833
+Relax,
+
+190
+00:08:35,902 --> 00:08:39,303
+this is not my first
+creepy phone call.
+
+191
+00:08:39,372 --> 00:08:42,907
+It's like riding a bike...
+slowly past a girl's house.
+
+192
+00:08:44,577 --> 00:08:45,710
+Hello.
+
+193
+00:08:45,778 --> 00:08:46,911
+Wil,
+
+194
+00:08:46,980 --> 00:08:48,546
+Bill Shatner here.
+
+195
+00:08:50,383 --> 00:08:53,251
+Is this Howard?
+
+196
+00:08:53,319 --> 00:08:56,821
+Of course not. It-It's Shatner.
+
+197
+00:08:56,890 --> 00:09:00,491
+If you don't believe me, ask my
+good friend, Christopher Walken.
+
+198
+00:09:00,560 --> 00:09:03,261
+Hello, Bill and I are just
+
+199
+00:09:03,329 --> 00:09:06,731
+hanging out...
+
+200
+00:09:06,799 --> 00:09:08,766
+at The Polo Lounge.
+
+201
+00:09:08,835 --> 00:09:12,403
+Mr. Shatner, Mr. Walken,
+here are your martinis.
+
+202
+00:09:12,472 --> 00:09:13,749
+What are you doing?
+
+203
+00:09:13,773 --> 00:09:15,451
+I'm filling out the world.
+You're ruining it.
+
+204
+00:09:15,475 --> 00:09:17,041
+No, he's not.
+
+205
+00:09:17,110 --> 00:09:19,877
+Thanks, Wil.
+
+206
+00:09:26,953 --> 00:09:29,098
+Sheldon, why are you walking
+everywhere? Just get a horse.
+
+207
+00:09:29,122 --> 00:09:32,256
+I had a horse.
+It got hit by a train.
+
+208
+00:09:32,325 --> 00:09:33,591
+Get another one.
+
+209
+00:09:33,660 --> 00:09:35,092
+I can't just replace Chauncey.
+
+210
+00:09:35,161 --> 00:09:37,194
+I'm still in the
+grieving process.
+
+211
+00:09:39,999 --> 00:09:41,299
+Hey.
+
+212
+00:09:41,367 --> 00:09:43,768
+Hey, Leonard, I have an opening
+in my D&D game next week,
+
+213
+00:09:43,836 --> 00:09:45,948
+and I was wondering if you
+were interested in playing.
+
+214
+00:09:45,972 --> 00:09:47,471
+Well, yes, thank you.
+
+215
+00:09:47,540 --> 00:09:49,073
+Okay, great.
+
+216
+00:09:49,142 --> 00:09:51,375
+Now, here's the thing,
+you can't tell anyone.
+
+217
+00:09:51,444 --> 00:09:53,144
+I'm serious,
+not Howard, not Raj,
+
+218
+00:09:53,212 --> 00:09:54,812
+and certainly not Sheldon.
+
+219
+00:09:54,881 --> 00:09:56,247
+Okay.
+
+220
+00:09:56,316 --> 00:09:57,660
+I'm really sorry
+to put you in a position
+
+221
+00:09:57,684 --> 00:09:58,616
+where you have to lie
+to your friends...
+
+222
+00:09:58,685 --> 00:10:00,585
+See you there!
+
+223
+00:10:02,055 --> 00:10:04,622
+You come face to face
+with a massive monster
+
+224
+00:10:04,691 --> 00:10:06,223
+with a gaping maw
+
+225
+00:10:06,292 --> 00:10:11,162
+full of teeth, three huge legs,
+and flailing tentacles.
+
+226
+00:10:11,230 --> 00:10:13,431
+What do you do?
+
+227
+00:10:13,499 --> 00:10:16,667
+Fellas, it looks like
+we're facing a, an otyugh.
+
+228
+00:10:18,304 --> 00:10:20,404
+Here's the plan...
+
+229
+00:10:20,473 --> 00:10:22,573
+Hold on there, Bill.
+
+230
+00:10:22,642 --> 00:10:24,108
+Now what, Kareem?
+
+231
+00:10:25,578 --> 00:10:29,146
+How do we know
+it's not a Neo-otyugh?
+
+232
+00:10:29,215 --> 00:10:30,648
+Same way I know
+the difference
+
+233
+00:10:30,717 --> 00:10:32,350
+between an owlbear
+and a bugbear.
+
+234
+00:10:32,418 --> 00:10:34,318
+Does that answer
+your question?
+
+235
+00:10:34,387 --> 00:10:36,687
+No.
+
+236
+00:10:40,393 --> 00:10:41,859
+Look, there's one way
+to settle this:
+
+237
+00:10:41,928 --> 00:10:43,461
+we chop it up
+and look at the pieces.
+
+238
+00:10:43,529 --> 00:10:46,364
+Oh, come on, why do you always
+got to attack everything?
+
+239
+00:10:46,432 --> 00:10:47,743
+Why can't we just try
+talking to it?
+
+240
+00:10:47,767 --> 00:10:51,869
+Big surprise, Podcast
+here wants to talk.
+
+241
+00:10:51,938 --> 00:10:53,971
+What do you think, Leonard?
+
+242
+00:10:58,044 --> 00:11:01,779
+I think this is the greatest day
+of my entire life.
+
+243
+00:11:01,848 --> 00:11:05,316
+It's all right, buddy,
+one day you'll meet a girl.
+
+244
+00:11:11,572 --> 00:11:13,004
+Hey, how was your lecture?
+
+245
+00:11:13,073 --> 00:11:15,083
+Oh, it was so good.
+
+246
+00:11:15,084 --> 00:11:17,351
+I-I-I mean, it-it started great,
+
+247
+00:11:17,420 --> 00:11:19,820
+and then the, the middle
+was great,
+
+248
+00:11:19,889 --> 00:11:21,500
+and then the ending was like...
+
+249
+00:11:21,524 --> 00:11:22,524
+So great.
+
+250
+00:11:25,161 --> 00:11:29,697
+Leonard, if you went to House
+of Pies again, just say it.
+
+251
+00:11:29,765 --> 00:11:31,209
+Wait, if you think I'm lying,
+
+252
+00:11:31,233 --> 00:11:32,513
+why do you think
+I'm eating pies?
+
+253
+00:11:32,568 --> 00:11:35,202
+Why don't you think I'm...
+having an affair?
+
+254
+00:11:35,271 --> 00:11:38,639
+Listen, i-it's fine, just
+next time, bring me a slice.
+
+255
+00:11:38,708 --> 00:11:42,209
+Okay, well, if you
+really want to know,
+
+256
+00:11:42,278 --> 00:11:43,777
+I'll tell you where I was.
+
+257
+00:11:43,846 --> 00:11:46,547
+I was at Wil's D&D game,
+but that's all I can say.
+
+258
+00:11:46,615 --> 00:11:49,216
+Oh, fun.
+Were there famous people there?
+
+259
+00:11:49,285 --> 00:11:53,187
+Ah, sorry, I-I-I can't
+tell you that.
+
+260
+00:11:53,255 --> 00:11:55,155
+Okay, well, yes,
+
+261
+00:11:55,224 --> 00:11:59,059
+but I-I-I-I can't
+tell you who.
+
+262
+00:11:59,128 --> 00:12:01,061
+Well, no, I-I can
+tell you Shatner,
+
+263
+00:12:01,130 --> 00:12:03,297
+but that's only because
+you already knew that one.
+
+264
+00:12:03,365 --> 00:12:04,898
+Well, I'm glad you had fun.
+
+265
+00:12:04,967 --> 00:12:06,500
+Yeah.
+
+266
+00:12:06,569 --> 00:12:08,836
+Ugh, I wish I could tell you
+who else was there.
+
+267
+00:12:08,904 --> 00:12:10,904
+I can't, I promised.
+
+268
+00:12:10,973 --> 00:12:13,507
+Yeah, if it makes you feel
+better, I couldn't care less.
+
+269
+00:12:13,576 --> 00:12:15,843
+That's true,
+
+270
+00:12:15,911 --> 00:12:18,145
+you don't care, so there's
+no harm in telling you.
+
+271
+00:12:18,214 --> 00:12:19,913
+Okay, you really
+don't have to.
+
+272
+00:12:19,982 --> 00:12:22,516
+All right,
+I'll tell you. Uh...
+
+273
+00:12:22,585 --> 00:12:24,318
+Kevin Smith was there,
+
+274
+00:12:24,386 --> 00:12:28,021
+and-and, uh, this really
+tall guy named Kareem.
+
+275
+00:12:28,090 --> 00:12:30,991
+Wait-wait,
+K-Kareem Abdul-Jabbar?
+
+276
+00:12:31,060 --> 00:12:34,194
+I don't know, it was, uh,
+Kareem something Jabbar.
+
+277
+00:12:36,432 --> 00:12:37,931
+How do you know him?
+
+278
+00:12:38,000 --> 00:12:39,566
+How do you not know him?
+
+279
+00:12:39,635 --> 00:12:42,169
+Well, I know him now
+'cause he was there.
+
+280
+00:12:42,238 --> 00:12:43,170
+Wow.
+
+281
+00:12:43,239 --> 00:12:46,073
+That is so cool.
+
+282
+00:12:46,142 --> 00:12:47,741
+Oh, a-and that, uh,
+the guy that played
+
+283
+00:12:47,810 --> 00:12:49,176
+the werewolf on-on <i>True Blood,</i>
+
+284
+00:12:49,245 --> 00:12:52,012
+he was there.
+Wh-- Joe Manganiello?
+
+285
+00:12:52,081 --> 00:12:56,583
+Uh, yeah.
+From <i>Magic Mike?</i>
+
+286
+00:12:56,652 --> 00:12:59,286
+What's that?
+
+287
+00:12:59,355 --> 00:13:01,421
+Okay, okay,
+
+288
+00:13:01,490 --> 00:13:05,926
+did he look... like this?
+
+289
+00:13:05,995 --> 00:13:08,729
+He had his clothes on,
+but, yeah.
+
+290
+00:13:10,166 --> 00:13:11,765
+I can't believe you
+met Joe Manganiello.
+
+291
+00:13:11,834 --> 00:13:13,066
+Is he nice?
+Oh, he's so nice.
+
+292
+00:13:13,135 --> 00:13:16,103
+I-I-I rolled my dice
+underneath the couch,
+
+293
+00:13:16,172 --> 00:13:19,473
+and he just lifted
+it up, one hand.
+
+294
+00:13:19,542 --> 00:13:22,409
+Oh, I-I bet he did.
+
+295
+00:13:24,947 --> 00:13:27,114
+Hi. Okay, can you guys
+keep a secret?
+
+296
+00:13:27,183 --> 00:13:28,315
+Yeah.
+Sure.
+
+297
+00:13:28,384 --> 00:13:30,751
+Good, 'cause I can't.
+
+298
+00:13:30,820 --> 00:13:32,920
+Leonard played
+Dungeons & Dragons
+
+299
+00:13:32,988 --> 00:13:34,421
+with the hot guy
+from <i>Magic Mike.</i>
+
+300
+00:13:34,490 --> 00:13:38,058
+I never got to see that movie.
+Seriously?
+
+301
+00:13:38,127 --> 00:13:39,560
+Yeah, Howie made us leave
+
+302
+00:13:39,628 --> 00:13:41,595
+as soon as he realized
+it wasn't about magic.
+
+303
+00:13:42,898 --> 00:13:46,266
+Well, I have seen that movie
+one or seven times,
+
+304
+00:13:46,335 --> 00:13:48,268
+and trust me, it is magic.
+
+305
+00:13:50,139 --> 00:13:52,439
+- Which guy?
+- That one.
+
+306
+00:13:52,508 --> 00:13:54,975
+Abracadabra.
+
+307
+00:13:57,079 --> 00:13:59,746
+Hey, you know what was fun?
+
+308
+00:13:59,815 --> 00:14:02,616
+That time we played
+Dungeons & Dragons.
+
+309
+00:14:02,685 --> 00:14:06,687
+That was fun.
+We should play that more.
+
+310
+00:14:08,824 --> 00:14:10,958
+Sorry, what now?
+
+311
+00:14:16,699 --> 00:14:18,265
+Hey, what are you guys
+doing here?
+
+312
+00:14:18,334 --> 00:14:20,767
+Oh, I, uh, think Sheldon
+might have left something.
+
+313
+00:14:20,836 --> 00:14:22,970
+Oh, you mean, besides his lunch?
+
+314
+00:14:26,242 --> 00:14:28,842
+You are so funny, Wil.
+
+315
+00:14:28,911 --> 00:14:32,145
+We were just talking
+about how funny you are.
+
+316
+00:14:32,214 --> 00:14:33,881
+Yeah, Leonard told you,
+didn't he?
+
+317
+00:14:33,949 --> 00:14:35,382
+- Yeah. Mm-hmm.
+- Yup. - Yeah.
+
+318
+00:14:35,451 --> 00:14:37,050
+It's Manganiello?
+
+319
+00:14:37,119 --> 00:14:38,685
+- Uh-huh. - Mm-hmm.
+- Mm-hmm.
+
+320
+00:14:38,754 --> 00:14:39,987
+Feel good about yourselves?
+
+321
+00:14:40,055 --> 00:14:41,989
+- Nope. - No.
+- Yeah.
+
+322
+00:14:44,393 --> 00:14:46,960
+Oh, we're going
+with no? No.
+
+323
+00:14:49,265 --> 00:14:51,965
+Hey, guys.
+
+324
+00:14:52,034 --> 00:14:53,800
+What are you
+smiling about?
+
+325
+00:14:53,869 --> 00:14:56,036
+What? This is my regular face.
+
+326
+00:14:56,105 --> 00:14:58,005
+No, it's not.
+
+327
+00:14:58,073 --> 00:15:00,908
+Y-Your regular face
+is more like this...
+
+328
+00:15:02,978 --> 00:15:07,748
+No, no, i-it's-it's more
+in the eyebrows, like this...
+
+329
+00:15:10,619 --> 00:15:13,387
+Okay, make your jokes.
+
+330
+00:15:13,455 --> 00:15:14,821
+I'm still in a great mood.
+
+331
+00:15:17,426 --> 00:15:20,027
+Hey.
+
+332
+00:15:20,095 --> 00:15:21,428
+Wait, what?
+
+333
+00:15:22,631 --> 00:15:25,365
+Why?
+
+334
+00:15:25,434 --> 00:15:28,101
+Oh, come on, but...
+
+335
+00:15:29,238 --> 00:15:32,940
+O-Okay, fine.
+
+336
+00:15:33,008 --> 00:15:35,909
+Huh, Raj was right,
+it is more in the eyebrows.
+
+337
+00:15:37,179 --> 00:15:38,512
+What was that all about?
+
+338
+00:15:38,580 --> 00:15:40,380
+Wil kicked me out
+of his D&D game.
+
+339
+00:15:41,850 --> 00:15:43,884
+You were
+in Wil's D&D game?
+
+340
+00:15:43,953 --> 00:15:45,786
+With William Shatner?
+And you didn't tell us?
+
+341
+00:15:45,854 --> 00:15:48,588
+I'm sorry,
+Wil made me promise not to.
+
+342
+00:15:48,657 --> 00:15:50,223
+I thought
+we were friends.
+
+343
+00:15:50,292 --> 00:15:52,559
+Oh, come on, you guys
+would do the same thing.
+
+344
+00:15:52,628 --> 00:15:54,227
+No, we wouldn't!
+I told you when I was
+
+345
+00:15:54,296 --> 00:15:55,862
+in spin class with
+Scarlett Johansson.
+
+346
+00:15:55,931 --> 00:15:57,898
+It didn't even turn out
+to be Scarlett Johansson.
+
+347
+00:15:57,967 --> 00:16:00,734
+Well, that's her
+fault, not mine!
+
+348
+00:16:00,803 --> 00:16:02,235
+It doesn't matter
+
+349
+00:16:02,304 --> 00:16:05,138
+because Penny blabbed about it
+and now I'm out.
+
+350
+00:16:06,675 --> 00:16:09,209
+So there's an open seat.
+
+351
+00:16:10,546 --> 00:16:12,112
+Wil!
+Wil Wheaton!
+
+352
+00:16:12,181 --> 00:16:14,114
+Open! Open!
+
+353
+00:16:15,684 --> 00:16:17,884
+No. No. No.
+
+354
+00:16:17,953 --> 00:16:19,252
+Hell no.
+
+355
+00:16:19,321 --> 00:16:22,889
+Look, we know Leonard is out.
+You need to fill a seat.
+
+356
+00:16:22,958 --> 00:16:25,292
+It should be one of us.
+
+357
+00:16:25,361 --> 00:16:26,727
+Or give me another chance.
+
+358
+00:16:26,795 --> 00:16:29,396
+I think me and Joe Manganiello
+were really hitting it off.
+
+359
+00:16:29,465 --> 00:16:32,432
+Joe Manganiello was there?
+From <i>Magic Mike?</i>
+
+360
+00:16:32,501 --> 00:16:35,168
+You guys suck.
+
+361
+00:16:35,237 --> 00:16:37,170
+Agreed. You guys suck.
+Let's go, Wil.
+
+362
+00:16:37,239 --> 00:16:38,772
+No.
+
+363
+00:16:39,808 --> 00:16:41,508
+All of you.
+
+364
+00:16:41,577 --> 00:16:43,410
+You're just
+trying to use me
+
+365
+00:16:43,479 --> 00:16:45,245
+to get close
+to my famous friends.
+
+366
+00:16:45,314 --> 00:16:46,913
+Do you know how
+that makes me feel?
+
+367
+00:16:46,982 --> 00:16:49,149
+Flattered?
+
+368
+00:16:49,218 --> 00:16:51,151
+Used.
+
+369
+00:16:51,220 --> 00:16:54,454
+I was gonna
+guess that.
+
+370
+00:16:54,523 --> 00:16:56,490
+One of the worst things
+about being a celebrity
+
+371
+00:16:56,558 --> 00:16:59,860
+is you never know if people
+like you for you.
+
+372
+00:16:59,928 --> 00:17:03,330
+Well, thanks
+for letting me know.
+
+373
+00:17:04,900 --> 00:17:07,501
+You're right, that was
+really crappy of us.
+
+374
+00:17:07,569 --> 00:17:11,338
+Yeah, I guess we just got
+caught up in the excitement.
+
+375
+00:17:11,407 --> 00:17:14,274
+We're sorry, Wil.
+We do like you for you.
+
+376
+00:17:14,343 --> 00:17:15,776
+And if it makes
+you feel
+
+377
+00:17:15,844 --> 00:17:18,084
+any better, I don't even really
+consider you a celebrity.
+
+378
+00:17:23,752 --> 00:17:26,186
+Should we go or do you want
+to wait for the sprinklers?
+
+379
+00:17:32,071 --> 00:17:33,938
+Guys, I-I still feel
+a little bad about Wil.
+
+380
+00:17:34,006 --> 00:17:35,206
+Me, too.
+
+381
+00:17:35,274 --> 00:17:38,642
+Yeah. We should invite him
+to come play with us.
+
+382
+00:17:38,711 --> 00:17:40,845
+Ask him to bring
+some chips
+
+383
+00:17:40,913 --> 00:17:42,446
+because we're all out.
+
+384
+00:17:42,515 --> 00:17:44,448
+Hey, Wil, this is Leonard.
+
+385
+00:17:44,517 --> 00:17:45,683
+Make it Bugles.
+
+386
+00:17:45,751 --> 00:17:47,251
+No, no, no, no, no,
+pretzel sticks.
+
+387
+00:17:47,320 --> 00:17:48,752
+No, no, no, Bugles.
+
+388
+00:17:49,889 --> 00:17:51,689
+We're gonna play some D&D
+
+389
+00:17:51,757 --> 00:17:53,068
+and thought you might
+want to join us.
+
+390
+00:17:53,092 --> 00:17:54,303
+Thank you, Leonard, but actually
+
+391
+00:17:54,327 --> 00:17:55,960
+I can't do it tonight.
+
+392
+00:17:56,028 --> 00:17:57,962
+Uh, how about another time?
+
+393
+00:17:58,030 --> 00:18:00,798
+Okay, great. Thanks. Bye.
+
+394
+00:18:00,867 --> 00:18:02,800
+Okay, where were we?
+
+395
+00:18:06,172 --> 00:18:10,274
+I was about to go all
+<i>Wrath of Khan</i> on the ogres.
+
+396
+00:18:10,343 --> 00:18:11,809
+Oh, man, that's it.
+
+397
+00:18:11,878 --> 00:18:14,678
+Put another dollar
+in the <i>Star Trek</i> jar, Bill.
+
+398
+00:18:14,747 --> 00:18:17,214
+Worth it.
+
+399
+00:18:18,618 --> 00:18:22,786
+Speaking of putting
+dollars in things...
+
+400
+00:18:25,791 --> 00:18:28,292
+I loved you
+in <i>Magic Mike.</i>
+
+401
+00:18:28,361 --> 00:18:30,361
+Thanks.
+
+402
+00:18:30,429 --> 00:18:31,962
+Switch places with me.
+
+403
+00:18:34,267 --> 00:18:37,568
+Are we playing musical chairs
+or Dungeons & Dragons?
+
+404
+00:18:37,637 --> 00:18:41,071
+Yeah, let's teach that ogre
+what my broadsword tastes like.
+
+405
+00:18:41,140 --> 00:18:44,408
+I like your moxie.
+
+406
+00:18:44,477 --> 00:18:47,311
+Aw, and I like
+your grandpa words.
+
+407
+00:18:53,219 --> 00:18:56,720
+My dad and I watched you win
+back-to-back championships.
+
+408
+00:18:56,789 --> 00:19:00,925
+And I watched you sniff Joe's
+hair when he wasn't looking.
+
+409
+00:19:04,997 --> 00:19:07,331
+Thank you again for inviting us,
+and don't worry,
+
+410
+00:19:07,400 --> 00:19:08,866
+we won't tell the guys.
+
+411
+00:19:08,935 --> 00:19:11,368
+You know what, why don't
+you tell the guys?
+
+412
+00:19:11,437 --> 00:19:13,203
+In fact, let's all
+take a picture
+
+413
+00:19:13,272 --> 00:19:14,772
+and send it to
+them right now.
+
+414
+00:19:20,413 --> 00:19:22,179
+That's weird.
+
+415
+00:19:26,919 --> 00:19:29,219
+We deserve that.
+
+416
+00:19:32,157 --> 00:19:39,157
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

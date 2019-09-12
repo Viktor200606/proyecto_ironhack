@@ -1,0 +1,1779 @@
+﻿1
+00:00:01,924 --> 00:00:03,642
+How much time do we have?
+
+2
+00:00:03,726 --> 00:00:05,827
+Uh, t-minus five hours,
+37 minutes
+
+3
+00:00:05,895 --> 00:00:07,462
+To onset of meteor shower.
+
+4
+00:00:07,513 --> 00:00:10,382
+Okay, our position
+is 34.48 degrees north,
+
+5
+00:00:10,450 --> 00:00:11,566
+118.31 west.
+
+6
+00:00:11,634 --> 00:00:12,818
+That means the azimuth
+
+7
+00:00:12,902 --> 00:00:14,135
+Should be...
+
+8
+00:00:14,187 --> 00:00:17,439
+168.22 degrees relative
+to magnetic north
+
+9
+00:00:17,440 --> 00:00:20,058
+With an elevation
+of 49.93.
+
+10
+00:00:20,126 --> 00:00:21,410
+Anything yet?
+
+11
+00:00:21,477 --> 00:00:25,447
+Uh, we have a signal,
+but there's no frame lock.
+
+12
+00:00:25,498 --> 00:00:27,365
+Ha. How about now?
+- We did it.
+
+13
+00:00:27,450 --> 00:00:30,819
+We have the west
+coast feed of HBO.
+
+14
+00:00:30,870 --> 00:00:33,705
+<i>Ooh, Real Sex.</i>
+
+15
+00:00:33,706 --> 00:00:35,424
+Big deal. Every time
+I watch that show
+
+16
+00:00:35,491 --> 00:00:37,709
+
+
+17
+00:00:37,794 --> 00:00:41,596
+All right, let's see
+what's on the east coast feed.
+
+18
+00:00:43,015 --> 00:00:44,349
+<i>Oh, hey. Dune.</i>
+
+19
+00:00:46,018 --> 00:00:47,969
+Not a great movie,
+
+20
+00:00:48,020 --> 00:00:49,921
+But look
+at that beautiful desert.
+
+21
+00:00:51,607 --> 00:00:54,374
+Too bad Sheldon
+couldn't come with us.
+
+22
+00:00:54,442 --> 00:00:56,459
+Oh it's just not the same without him.
+
+23
+00:01:04,719 --> 00:01:06,669
+<i>Oh, this sucks
+I'm switching back to Real Sex.</i>
+
+24
+00:01:12,806 --> 00:01:16,525
+Sheldon's log.
+star date 63345.3
+
+25
+00:01:16,610 --> 00:01:18,394
+While my colleagues are off
+
+26
+00:01:18,478 --> 00:01:20,195
+Observing the Leonid
+meteor shower,
+
+27
+00:01:20,280 --> 00:01:22,865
+I have remained behind
+to complete my paper
+
+28
+00:01:22,866 --> 00:01:26,166
+On the decays of highly excited
+massive string states.
+
+29
+00:01:26,202 --> 00:01:28,203
+Although my research is going well
+
+30
+00:01:28,288 --> 00:01:31,707
+I do miss the warmth of human companionship.
+
+31
+00:01:33,927 --> 00:01:35,878
+Hahaha.
+
+32
+00:02:03,995 --> 00:02:07,031
+And good evening to you,
+Siam Palace.
+
+33
+00:02:07,098 --> 00:02:08,666
+This is Sheldon Cooper.
+
+34
+00:02:08,700 --> 00:02:10,101
+Yeah, I'm going to be
+dining alone this evening,
+
+35
+00:02:10,152 --> 00:02:12,603
+So I'll be reducing
+my usual order.
+
+36
+00:02:12,655 --> 00:02:15,473
+I'd like to start
+with one quarter
+
+37
+00:02:15,541 --> 00:02:17,208
+Of the assorted appetizers plate
+
+38
+00:02:17,276 --> 00:02:21,229
+And, uh, one half
+of the golden treasure for two.
+
+39
+00:02:22,047 --> 00:02:23,197
+Oh, for heaven's sake
+
+40
+00:02:23,265 --> 00:02:24,765
+In the mid-18th century,
+
+41
+00:02:24,817 --> 00:02:27,652
+King Rama IV of Siam
+divided a huge empire
+
+42
+00:02:27,736 --> 00:02:29,570
+Amongst the colonial powers
+of Europe
+
+43
+00:02:29,621 --> 00:02:31,272
+In order to preserve his throne.
+
+44
+00:02:31,323 --> 00:02:33,207
+Surely, you,
+his cultural descendant,
+
+45
+00:02:33,275 --> 00:02:35,743
+Can handle pad Thai
+and dumplings.
+
+46
+00:02:35,794 --> 00:02:37,578
+Sheldon help!
+
+47
+00:02:37,629 --> 00:02:40,048
+I need to go--
+but you keep in mind
+
+48
+00:02:40,132 --> 00:02:41,499
+That my sharply worded comments
+
+49
+00:02:41,583 --> 00:02:43,634
+On yelp.Com recently took down
+a local muffin store.
+
+50
+00:02:48,173 --> 00:02:50,658
+Penny. Penny. Penny.
+
+51
+00:02:52,062 --> 00:02:53,479
+Come in! Hurry!
+
+52
+00:02:55,063 --> 00:02:56,113
+Penny?
+
+53
+00:02:56,181 --> 00:02:57,481
+I'm back here.
+
+54
+00:03:02,153 --> 00:03:04,972
+Penny. Penny. Penny.
+
+55
+00:03:05,023 --> 00:03:08,309
+Oh, for god's sakes,
+I'm in the bathroom!
+
+56
+00:03:08,376 --> 00:03:11,662
+Shall I come back
+at a better time?
+
+57
+00:03:11,730 --> 00:03:14,281
+Get in here! Hurry!
+
+58
+00:03:17,282 --> 00:03:18,282
+Don't you dare knock.
+
+59
+00:03:22,883 --> 00:03:23,583
+Hello.
+
+60
+00:03:24,977 --> 00:03:25,732
+I slipped in the shower,
+
+61
+00:03:25,733 --> 00:03:27,733
+And I think I dislocated my shoulder.
+
+62
+00:03:29,168 --> 00:03:30,451
+Not surprising.
+
+63
+00:03:30,502 --> 00:03:32,587
+You have no safety mat
+or adhesive stickers
+
+64
+00:03:32,671 --> 00:03:34,539
+To allow for purchase on a surface
+
+65
+00:03:34,623 --> 00:03:37,175
+With a low coefficient
+of static friction.
+
+66
+00:03:37,243 --> 00:03:39,277
+What?
+
+67
+00:03:39,345 --> 00:03:41,646
+Tubs are slippery.
+
+68
+00:03:41,714 --> 00:03:43,965
+I know. I slipped.
+
+69
+00:03:44,016 --> 00:03:46,000
+I have a series
+of whimsical duck stickers
+
+70
+00:03:46,051 --> 00:03:48,052
+On the bottom of my tub.
+
+71
+00:03:48,120 --> 00:03:49,187
+Yeah, okay, whatever.
+
+72
+00:03:49,255 --> 00:03:51,022
+Will you just turn the water off
+and help me up?
+
+73
+00:03:52,107 --> 00:03:54,008
+They're holding
+umbrellas.
+
+74
+00:03:54,059 --> 00:03:55,727
+what?
+
+75
+00:03:55,794 --> 00:03:57,278
+The ducks in my tub.
+
+76
+00:03:57,346 --> 00:03:58,646
+Uh-huh.
+
+77
+00:03:58,647 --> 00:04:00,647
+They're whimsical because ducks
+have neither the need for
+
+78
+00:04:00,650 --> 00:04:02,735
+Nor the ability to use umbrellas.
+
+79
+00:04:03,819 --> 00:04:06,187
+Oh, my god. I got to go
+to the emergency room.
+
+80
+00:04:06,238 --> 00:04:08,489
+Well, assuming you're correct
+that your right humerus
+
+81
+00:04:08,540 --> 00:04:10,158
+Is no longer seated
+in the glenoid socket,
+
+82
+00:04:10,209 --> 00:04:12,810
+I would certainly think so.
+Okay, can you drive me?
+
+83
+00:04:12,878 --> 00:04:14,245
+I don't drive.
+
+84
+00:04:14,330 --> 00:04:15,396
+Well, I can't drive!
+
+85
+00:04:15,464 --> 00:04:18,249
+Well, it seems we've reached
+an impasse.
+
+86
+00:04:18,334 --> 00:04:19,584
+Ow.
+
+87
+00:04:19,668 --> 00:04:22,403
+I could call you a cab
+or an ambulance.
+No, no, no.
+
+88
+00:04:22,471 --> 00:04:23,104
+I can't wait that long.
+
+89
+00:04:23,155 --> 00:04:24,472
+You got to help me, please.
+
+90
+00:04:25,741 --> 00:04:28,493
+All right. Let it never be said
+that Sheldon Lee Cooper
+
+91
+00:04:28,578 --> 00:04:30,612
+Ignored the pleas
+of a damsel in distress.
+
+92
+00:04:30,663 --> 00:04:32,430
+No one's saying that.
+Let's go.
+
+93
+00:04:32,498 --> 00:04:34,165
+Well, it does seem rather ironic
+
+94
+00:04:34,250 --> 00:04:36,418
+That for want
+of 99-cent adhesive ducks,
+
+95
+00:04:36,419 --> 00:04:39,487
+We both might die
+in a fiery car crash.
+
+96
+00:04:40,840 --> 00:04:42,540
+I wish Penny didn't for want
+didn't have to work.
+
+97
+00:04:42,625 --> 00:04:43,675
+She loves camping.
+
+98
+00:04:43,759 --> 00:04:45,293
+Yeah, that would
+have been great.
+
+99
+00:04:45,344 --> 00:04:46,978
+You and Penny having sex
+in the tent
+
+100
+00:04:47,046 --> 00:04:49,831
+While I sit out here
+and watch Howard hump a cactus.
+
+101
+00:04:51,217 --> 00:04:54,469
+Okay, the best I can tell,
+
+102
+00:04:54,520 --> 00:04:56,054
+There are eight other
+camp-sites nearby.
+
+103
+00:04:56,138 --> 00:04:57,505
+Mostly science nerds like us,
+
+104
+00:04:57,556 --> 00:05:00,642
+But just over yon
+ridge are two
+
+105
+00:05:00,693 --> 00:05:02,527
+Not unattractive
+middle school teachers
+
+106
+00:05:02,612 --> 00:05:04,362
+Who reek of desperation.
+
+107
+00:05:04,397 --> 00:05:06,314
+Wow. Wonderful.
+
+108
+00:05:08,117 --> 00:05:09,701
+How old are they?
+Oh I don't know. 50, 55.
+
+109
+00:05:11,037 --> 00:05:12,621
+Oh, menopause.
+
+110
+00:05:13,823 --> 00:05:16,157
+Nature's birth control.
+
+111
+00:05:16,208 --> 00:05:17,325
+Come on.
+
+112
+00:05:17,393 --> 00:05:19,077
+You guys can't be that hard up.
+
+113
+00:05:19,161 --> 00:05:21,195
+I am.
+Yeah, me, too.
+
+114
+00:05:24,634 --> 00:05:25,583
+Look-- they gave me home-made cookies
+of course, they did.
+
+115
+00:05:25,651 --> 00:05:27,252
+That's what grandmothers do.
+
+116
+00:05:27,336 --> 00:05:28,887
+So, what are we waiting for?
+
+117
+00:05:28,971 --> 00:05:29,988
+Relax.
+
+118
+00:05:30,056 --> 00:05:31,806
+I said we'd stop by
+a little later
+
+119
+00:05:31,874 --> 00:05:33,925
+After they have their nap.
+
+120
+00:05:34,010 --> 00:05:35,010
+Good idea.
+
+121
+00:05:35,061 --> 00:05:36,177
+They'll be refreshed.
+
+122
+00:05:36,228 --> 00:05:37,595
+Cookie?
+
+123
+00:05:37,680 --> 00:05:39,380
+Yeah. Thank you.
+
+124
+00:05:43,152 --> 00:05:44,402
+Not bad.
+
+125
+00:05:44,437 --> 00:05:45,820
+Yeah, very tasty.
+
+126
+00:05:45,888 --> 00:05:47,555
+Well, so tell me more
+about these teachers.
+
+127
+00:05:47,606 --> 00:05:48,857
+Not much to tell.
+
+128
+00:05:48,908 --> 00:05:50,575
+They had a VW Microbus
+
+129
+00:05:50,660 --> 00:05:53,578
+And were wearing tie-dyed
+Grateful Dead shirts.
+
+130
+00:05:53,663 --> 00:05:55,447
+Huh.
+
+131
+00:05:55,531 --> 00:05:57,666
+Mmm.
+
+132
+00:05:57,733 --> 00:05:59,751
+Good cookies.
+
+133
+00:06:04,674 --> 00:06:08,576
+I see no organizational
+system in here whatsoever.
+
+134
+00:06:09,929 --> 00:06:12,263
+Which panties do you
+wear on Mondays?
+
+135
+00:06:12,348 --> 00:06:14,032
+I don't need panties.
+
+136
+00:06:14,100 --> 00:06:15,734
+I just need shorts
+and a shirt.
+
+137
+00:06:15,801 --> 00:06:18,286
+My mother always told me one
+should wear clean underpants
+
+138
+00:06:18,354 --> 00:06:19,938
+In case one is in an accident.
+
+139
+00:06:20,022 --> 00:06:22,057
+One was already in an accident.
+
+140
+00:06:22,108 --> 00:06:23,725
+That doesn't mean one
+won't be in another,
+
+141
+00:06:23,776 --> 00:06:25,143
+Especially if I'm driving.
+
+142
+00:06:25,227 --> 00:06:26,361
+Clothes, Sheldon.
+
+143
+00:06:26,445 --> 00:06:27,729
+I need clothes!
+Okay.
+
+144
+00:06:27,780 --> 00:06:29,481
+Here.
+
+145
+00:06:29,565 --> 00:06:31,266
+Seriously?
+Those shorts with that top?
+
+146
+00:06:32,952 --> 00:06:34,936
+All right.
+
+147
+00:06:36,205 --> 00:06:37,822
+No.
+
+148
+00:06:39,575 --> 00:06:41,743
+No.
+
+149
+00:06:41,794 --> 00:06:43,495
+Oh, that's cute.
+
+150
+00:06:44,714 --> 00:06:46,965
+We should have you checked
+for a concussion.
+
+151
+00:06:46,966 --> 00:06:48,750
+okay.
+
+152
+00:06:48,801 --> 00:06:50,921
+Now, you got to help me
+put these on.
+
+153
+00:06:51,006 --> 00:06:52,923
+All right.
+But don't look.
+
+154
+00:06:53,008 --> 00:06:55,793
+Don't look?
+I don't want you
+to see me naked.
+
+155
+00:06:55,877 --> 00:06:56,877
+Oh.
+
+156
+00:06:56,928 --> 00:06:58,529
+Well, that's understandable.
+
+157
+00:06:58,597 --> 00:07:02,001
+You may be interested to know
+that a prohibition against looking
+
+158
+00:07:02,017 --> 00:07:04,185
+Is well established
+in heroic mythology.
+
+159
+00:07:04,252 --> 00:07:07,371
+Uh, Lot and his wife,
+Perseus and Medusa,
+
+160
+00:07:07,439 --> 00:07:09,223
+Orpheus and Eurydi...
+Yeah, great.
+
+161
+00:07:09,274 --> 00:07:10,274
+They always look.
+
+162
+00:07:10,358 --> 00:07:11,143
+It never ends well.
+
+163
+00:07:12,227 --> 00:07:14,756
+Ok, now you gotta help me get my arm
+into the sleeve.
+
+164
+00:07:14,757 --> 00:07:15,757
+Ok.
+
+165
+00:07:19,807 --> 00:07:21,408
+Is that my arm?
+
+166
+00:07:24,478 --> 00:07:27,447
+It doesn't feel
+like an arm.
+
+167
+00:07:27,532 --> 00:07:30,350
+Then, maybe you
+should let it go.
+
+168
+00:07:32,203 --> 00:07:34,204
+All righty.
+
+169
+00:07:47,022 --> 00:07:49,523
+Stars are pretty, aren't they?
+
+170
+00:07:51,524 --> 00:07:53,524
+Up above the world so high,
+
+171
+00:07:53,591 --> 00:07:57,077
+Like little diamonds in the sky.
+
+172
+00:07:57,145 --> 00:08:00,413
+That's beautiful, dude.
+
+173
+00:08:00,481 --> 00:08:02,115
+You should...
+You should write that down
+
+174
+00:08:02,200 --> 00:08:05,012
+Before someone steals it.
+
+175
+00:08:05,080 --> 00:08:07,714
+- So, when do the meteors get here?
+- The meteors don't get here.
+
+176
+00:08:07,798 --> 00:08:09,766
+The earth is moving
+into their path.
+
+177
+00:08:09,834 --> 00:08:11,718
+I can feel it.
+
+178
+00:08:13,921 --> 00:08:17,123
+I can feel
+the earth moving.
+
+179
+00:08:18,175 --> 00:08:19,392
+It's moving too fast.
+
+180
+00:08:19,477 --> 00:08:21,144
+Raj, slow it down.
+
+181
+00:08:29,987 --> 00:08:32,172
+Okay, how's that?
+
+182
+00:08:33,223 --> 00:08:35,875
+Better. Thanks.
+
+183
+00:08:35,943 --> 00:08:38,411
+Stars are pretty,
+aren't they?
+
+184
+00:08:42,833 --> 00:08:44,417
+What's so funny?
+
+185
+00:08:44,485 --> 00:08:45,852
+It's your American accent.
+
+186
+00:08:45,920 --> 00:08:47,420
+Everything you say
+sounds stupid.
+
+187
+00:08:49,957 --> 00:08:51,791
+"stars are pretty, aren't they?"
+
+188
+00:09:00,301 --> 00:09:03,178
+For the record, I
+should let you know
+
+189
+00:09:03,245 --> 00:09:06,848
+This is my first time driving
+an actual motor vehicle.
+
+190
+00:09:08,134 --> 00:09:09,918
+You have your
+learner's permit, right?
+
+191
+00:09:09,969 --> 00:09:11,353
+Yes, and I have logged
+
+192
+00:09:11,420 --> 00:09:13,922
+A considerable number of hours
+on a simulator.
+
+193
+00:09:13,973 --> 00:09:16,608
+- Good.
+- Didn't work out well.
+
+194
+00:09:16,642 --> 00:09:18,610
+All right,
+can we please go?
+One moment.
+
+195
+00:09:18,644 --> 00:09:20,545
+According to my driver's ed book,
+a side mirror is properly adjusted
+
+196
+00:09:22,782 --> 00:09:25,005
+When a portion of the is
+driver's door handle
+
+197
+00:09:25,073 --> 00:09:26,640
+Is visible in the
+lower right corner.
+
+198
+00:09:26,675 --> 00:09:27,725
+There's the handle.
+
+199
+00:09:27,792 --> 00:09:29,126
+Oh, no, too far.
+
+200
+00:09:29,194 --> 00:09:31,845
+Bringing it back.
+
+201
+00:09:31,930 --> 00:09:33,230
+Optimized.
+
+202
+00:09:33,298 --> 00:09:34,932
+Now, where is the switch
+
+203
+00:09:34,983 --> 00:09:37,067
+To adjust
+the passenger side mirror?
+
+204
+00:09:37,135 --> 00:09:38,986
+It's right there.
+
+205
+00:09:40,471 --> 00:09:42,823
+Where is the passenger
+side mirror?
+
+206
+00:09:43,858 --> 00:09:46,026
+In a parking lot in Hollywood.
+
+207
+00:09:48,335 --> 00:09:50,670
+- Now, can we please go?
+- Yes. As soon as I adjust my seat.
+
+208
+00:09:52,256 --> 00:09:54,006
+Whee!
+
+209
+00:09:59,847 --> 00:10:00,963
+Oh, dear.
+
+210
+00:10:01,014 --> 00:10:02,899
+I'm going to have
+start again.
+
+211
+00:10:11,608 --> 00:10:14,743
+If I could speak
+the language of rabbits,
+
+212
+00:10:14,811 --> 00:10:18,414
+They would be amazed,
+and I would be their king.
+
+213
+00:10:20,017 --> 00:10:21,086
+I hate my name.
+
+214
+00:10:23,070 --> 00:10:25,488
+It has "nerd" in it.
+
+215
+00:10:28,159 --> 00:10:31,561
+Len-nerd.
+
+216
+00:10:32,829 --> 00:10:34,948
+I lost my virginity
+to my cousin Jeanie.
+
+217
+00:10:37,785 --> 00:10:40,053
+I would be kind
+to my rabbit subjects.
+
+218
+00:10:42,689 --> 00:10:44,990
+At first.
+
+219
+00:10:45,058 --> 00:10:47,727
+You know what's a cool name?
+
+220
+00:10:47,778 --> 00:10:50,246
+Angelo.
+
+221
+00:10:50,313 --> 00:10:53,649
+That has angel and jell-o in it.
+
+222
+00:10:54,851 --> 00:10:56,786
+It was my Uncle Murray's
+funeral.
+
+223
+00:10:56,853 --> 00:10:59,255
+We were all back
+at my Aunt Barbara's house.
+
+224
+00:10:59,322 --> 00:11:01,741
+Our eyes locked
+over the pickled herring.
+
+225
+00:11:01,808 --> 00:11:03,793
+We never meant for it to happen.
+
+226
+00:11:05,295 --> 00:11:08,381
+One day, I hold a great ball
+for the President of France,
+
+227
+00:11:08,448 --> 00:11:10,566
+But the rabbits--
+they hate me and don't come.
+
+228
+00:11:10,634 --> 00:11:13,536
+I am embarrassed, so I eat
+all the lettuce in the world
+
+229
+00:11:13,603 --> 00:11:15,621
+And make them watch.
+
+230
+00:11:16,923 --> 00:11:18,924
+People could call me Angie.
+
+231
+00:11:21,128 --> 00:11:24,180
+Yo, Angie, how's it goin'?
+
+232
+00:11:24,847 --> 00:11:30,398
+To this day, I can't look at pickled herring
+without being aroused. That is a shame.
+
+233
+00:11:31,617 --> 00:11:33,952
+oh! Cousin Jeanie.
+
+234
+00:11:38,958 --> 00:11:41,660
+Could you please drive
+a little faster?
+
+235
+00:11:41,744 --> 00:11:44,462
+Oh, I think we're going
+sufficiently fast.
+
+236
+00:11:46,132 --> 00:11:48,083
+What's that?
+
+237
+00:11:48,134 --> 00:11:50,001
+Nothing. The engine does that
+sometimes.
+
+238
+00:11:50,086 --> 00:11:51,169
+It can't be nothing.
+
+239
+00:11:51,254 --> 00:11:52,337
+The check engine light is on.
+
+240
+00:11:52,421 --> 00:11:53,755
+We need
+to find a service station.
+
+241
+00:11:53,806 --> 00:11:56,091
+No. The light has been on
+since I bought the car.
+
+242
+00:11:56,142 --> 00:11:57,475
+All the more reason
+
+243
+00:11:57,510 --> 00:12:00,262
+To consult with a mechanic
+before it explodes.
+
+244
+00:12:00,313 --> 00:12:01,563
+It's not going to explode.
+
+245
+00:12:01,630 --> 00:12:02,848
+Just keep driving.
+
+246
+00:12:02,932 --> 00:12:06,101
+Warp speed ahead, Mr. Spock.
+
+247
+00:12:06,152 --> 00:12:10,188
+<i>Mr. Spock did not pilot
+the Enterprise.</i>
+
+248
+00:12:10,273 --> 00:12:12,941
+He was the science officer,
+and I guarantee you that
+
+249
+00:12:12,992 --> 00:12:15,527
+<i>If he ever saw the Enterprise's
+check engine light blinking,</i>
+
+250
+00:12:15,611 --> 00:12:18,330
+He would pull the ship over
+immediately.
+
+251
+00:12:18,414 --> 00:12:21,783
+Oh, god, I'm gonna lose the arm.
+
+252
+00:12:21,834 --> 00:12:22,984
+Oh, oh, red light.
+
+253
+00:12:23,035 --> 00:12:25,153
+Release accelerator
+
+254
+00:12:25,204 --> 00:12:29,291
+And slowly apply...
+the... brake.
+
+255
+00:12:31,794 --> 00:12:33,879
+Nailed it.
+
+256
+00:12:36,766 --> 00:12:39,968
+While we have a moment,
+may I ask you a question?
+
+257
+00:12:40,019 --> 00:12:41,353
+What?
+
+258
+00:12:41,437 --> 00:12:43,722
+Why do you have the
+Chinese character for soup
+
+259
+00:12:43,806 --> 00:12:45,840
+Tattooed on your
+right buttock?
+
+260
+00:12:45,908 --> 00:12:47,609
+It's not soup.
+
+261
+00:12:47,610 --> 00:12:48,843
+It's courage.
+
+262
+00:12:48,895 --> 00:12:50,295
+No, it isn't.
+
+263
+00:12:50,363 --> 00:12:52,530
+But I suppose
+it does take courage
+
+264
+00:12:52,615 --> 00:12:56,368
+To demonstrate that kind
+of commitment to soup.
+
+265
+00:12:56,435 --> 00:12:58,320
+How did you see it?
+
+266
+00:12:58,371 --> 00:12:59,821
+You said you wouldn't look.
+
+267
+00:12:59,872 --> 00:13:01,022
+Sorry.
+
+268
+00:13:01,073 --> 00:13:04,276
+As I told you, the
+hero always peeks.
+
+269
+00:13:13,302 --> 00:13:14,452
+Anything?
+
+270
+00:13:14,520 --> 00:13:17,038
+No. That was the last
+pudding cup.
+
+271
+00:13:17,089 --> 00:13:19,207
+No!
+
+272
+00:13:19,258 --> 00:13:21,509
+What about Slim Jim's?
+
+273
+00:13:25,147 --> 00:13:29,384
+That's what he used to eat his pudding, remember?
+Right! That was so good!
+
+274
+00:13:29,435 --> 00:13:33,388
+Sweety and meaty
+at the same time.
+
+275
+00:13:33,439 --> 00:13:35,690
+Wait. Wait, wait.
+So you're saying
+
+276
+00:13:35,741 --> 00:13:37,075
+We're out of food?
+
+277
+00:13:37,159 --> 00:13:39,727
+The only thing in here
+are blue ice packs.
+
+278
+00:13:39,779 --> 00:13:41,830
+I know they're poison,
+
+279
+00:13:41,897 --> 00:13:45,750
+But they look like big,
+yummy otter pops.
+
+280
+00:13:47,036 --> 00:13:48,903
+Oh, god, I am so hungry.
+
+281
+00:13:48,955 --> 00:13:50,105
+Me, too.
+
+282
+00:13:50,172 --> 00:13:53,675
+Check and see
+if we have any more pudding.
+
+283
+00:14:00,283 --> 00:14:02,634
+All right, there's no need
+to bark at me.
+
+284
+00:14:04,437 --> 00:14:06,754
+According to the inexplicably
+irritable nurse behind the desk,
+
+285
+00:14:06,806 --> 00:14:08,306
+You'll be seen after the man
+
+286
+00:14:08,391 --> 00:14:10,408
+who claims
+to be having a heart attack,
+
+287
+00:14:10,476 --> 00:14:11,977
+But appears to be well enough
+
+288
+00:14:12,061 --> 00:14:14,796
+To play Doodle Jump
+on his iphone.
+
+289
+00:14:14,864 --> 00:14:17,649
+We have to fill these out.
+
+290
+00:14:18,985 --> 00:14:20,902
+"describe illness or injury."
+
+291
+00:14:20,953 --> 00:14:23,438
+I dislocated
+my shoulder.
+
+292
+00:14:23,489 --> 00:14:25,173
+All right.
+
+293
+00:14:25,241 --> 00:14:27,926
+And how did the accident occur?
+
+294
+00:14:27,994 --> 00:14:30,412
+You ready know that.
+
+295
+00:14:30,479 --> 00:14:32,464
+"cause of accident."
+
+296
+00:14:32,548 --> 00:14:34,632
+"lack of adhesive ducks."
+
+297
+00:14:36,652 --> 00:14:39,421
+Okay, medical history.
+
+298
+00:14:39,472 --> 00:14:41,423
+"Have you ever been diagnosed
+with diabetes?"
+
+299
+00:14:41,490 --> 00:14:43,024
+No.
+Kidney disease?
+
+300
+00:14:43,092 --> 00:14:44,759
+No.
+Migraines?
+
+301
+00:14:44,810 --> 00:14:46,811
+Getting one.
+
+302
+00:14:47,813 --> 00:14:49,431
+"Are you currently
+pregnant?"
+no.
+
+303
+00:14:49,482 --> 00:14:50,598
+Are you sure?
+
+304
+00:14:50,649 --> 00:14:51,883
+You look a bit puffy.
+
+305
+00:14:54,020 --> 00:14:56,137
+Change migraine to yes.
+
+306
+00:14:57,406 --> 00:14:59,357
+"When was your last
+menstrual period?"
+
+307
+00:14:59,442 --> 00:15:00,992
+Oh. Next question.
+
+308
+00:15:01,077 --> 00:15:03,144
+I'll put, "in progress."
+
+309
+00:15:05,081 --> 00:15:07,532
+Okay, moving
+to psychiatric disorders.
+
+310
+00:15:07,616 --> 00:15:09,367
+"list all major
+behavioural diagnoses,
+
+311
+00:15:09,452 --> 00:15:11,436
+"e.g. Depression,
+anxiety, etcetera."
+
+312
+00:15:11,504 --> 00:15:13,872
+Oh, my god, what the
+hell does this have
+
+313
+00:15:13,956 --> 00:15:15,357
+to do with my
+stupid shoulder?!
+
+314
+00:15:15,424 --> 00:15:18,659
+"episodes of sub psychotic
+rage."
+
+315
+00:15:20,196 --> 00:15:21,596
+Ass.
+
+316
+00:15:21,680 --> 00:15:23,681
+"possible tourette's."
+
+317
+00:15:25,017 --> 00:15:29,270
+All right. "moles, lesions
+or other skin conditions."
+
+318
+00:15:29,338 --> 00:15:31,856
+"soup tattoo on right buttock."
+
+319
+00:15:31,941 --> 00:15:33,274
+Hey, Sheldon,
+Sheldon, look,
+
+320
+00:15:33,342 --> 00:15:35,643
+I am scared and
+in a lot of pain.
+
+321
+00:15:36,714 --> 00:15:40,565
+Could you please just take a
+break from being you and try being--
+
+322
+00:15:40,649 --> 00:15:43,485
+I don't know--
+comforting?
+
+323
+00:15:43,552 --> 00:15:46,337
+I'm sorry.
+
+324
+00:15:47,373 --> 00:15:49,524
+There, there.
+
+325
+00:15:50,793 --> 00:15:52,794
+Every thing's going
+to be fine.
+
+326
+00:16:00,886 --> 00:16:02,887
+Sheldon's here.
+
+327
+00:16:09,395 --> 00:16:11,146
+Thanks.
+
+328
+00:16:11,213 --> 00:16:13,565
+That's much better.
+
+329
+00:16:14,950 --> 00:16:17,202
+Oh, I'm so hungry!
+
+330
+00:16:17,269 --> 00:16:18,686
+Will you shut up?
+
+331
+00:16:18,754 --> 00:16:20,888
+We're all hungry.
+
+332
+00:16:20,940 --> 00:16:22,723
+Okay, our objective is
+
+333
+00:16:22,775 --> 00:16:24,576
+The boy scout
+camp-site to the east.
+
+334
+00:16:24,660 --> 00:16:25,944
+Easy target.
+
+335
+00:16:26,028 --> 00:16:29,063
+Big doughy scout master,
+couple of cubs, most webelos.
+
+336
+00:16:29,115 --> 00:16:30,415
+What kind of score
+we looking at?
+
+337
+00:16:30,499 --> 00:16:31,583
+Hot dogs, buns, s'mores.
+
+338
+00:16:31,667 --> 00:16:33,168
+I mean, it's a freaking 7-11.
+
+339
+00:16:33,235 --> 00:16:34,335
+All right,
+
+340
+00:16:34,403 --> 00:16:36,421
+Everyone grab flash lights.
+
+341
+00:16:39,241 --> 00:16:41,543
+Oh, my god, could it be?
+
+342
+00:16:41,594 --> 00:16:42,844
+Yes!
+
+343
+00:16:42,911 --> 00:16:45,763
+My mother put an "I love you"
+brisket in my backpack.
+
+344
+00:16:45,798 --> 00:16:46,747
+Quick, get forks.
+
+345
+00:16:46,799 --> 00:16:48,133
+You don't need forks.
+
+346
+00:16:48,217 --> 00:16:49,917
+It's so tender,
+it falls apart in your hands.
+
+347
+00:16:49,969 --> 00:16:51,970
+He's right.
+
+348
+00:17:00,713 --> 00:17:02,897
+I feel like we're forgetting
+something important.
+
+349
+00:17:02,948 --> 00:17:04,949
+Me, too.
+But what?
+
+350
+00:17:07,153 --> 00:17:11,956
+Maybe a Tupperware bowl
+of roasted potatoes and carrots?
+
+351
+00:17:12,041 --> 00:17:13,992
+Yes!
+Yes!
+
+352
+00:17:17,997 --> 00:17:22,333
+Now remember, you were given
+powerful pain medication
+
+353
+00:17:22,418 --> 00:17:24,052
+And a muscle relaxer,
+
+354
+00:17:24,119 --> 00:17:26,721
+So, uh, don't operate
+heavy machinery.
+
+355
+00:17:29,175 --> 00:17:31,342
+Try not to choke
+on your own drool.
+
+356
+00:17:32,794 --> 00:17:34,128
+Wait. You have
+
+357
+00:17:34,180 --> 00:17:35,963
+To help me get into bed.
+
+358
+00:17:39,018 --> 00:17:42,437
+Sheldon has to get me into bed.
+
+359
+00:17:43,572 --> 00:17:47,141
+Bet you never thought
+I'd say that.
+
+360
+00:17:47,193 --> 00:17:49,194
+Yes.
+
+361
+00:17:50,496 --> 00:17:53,481
+The charm of your drug addled
+candour knows no bounds.
+
+362
+00:17:55,117 --> 00:17:59,621
+You know, people think
+you're this weird robot man
+
+363
+00:17:59,672 --> 00:18:03,091
+Who's so annoying all the time,
+and you totally are.
+
+364
+00:18:03,158 --> 00:18:07,545
+<i>But then it's like that movie
+Wall-e at the end.</i>
+
+365
+00:18:07,630 --> 00:18:09,631
+You're so full of love,
+
+366
+00:18:09,682 --> 00:18:11,999
+And you can save a plant
+
+367
+00:18:12,051 --> 00:18:15,737
+And get fat people
+out of the floaty chairs.
+
+368
+00:18:16,514 --> 00:18:20,892
+That's a fairly laboured metaphor,
+but I appreciate the sentiment behind it.
+
+369
+00:18:20,976 --> 00:18:24,145
+Sing "Soft Kitty" to me.
+
+370
+00:18:27,950 --> 00:18:29,784
+"Soft Kitty" is for
+when you're sick.
+
+371
+00:18:29,868 --> 00:18:31,018
+You're not sick.
+
+372
+00:18:31,070 --> 00:18:34,322
+Injured and drugged
+is a kind of sick.
+
+373
+00:18:43,666 --> 00:18:49,587
+soft kitty, warm kitty,
+little ball of fur...
+
+374
+00:18:49,655 --> 00:18:50,888
+Wait, wait.
+
+375
+00:18:50,973 --> 00:18:52,974
+Let's sing it as a round.
+
+376
+00:18:53,041 --> 00:18:54,309
+I'll start.
+
+377
+00:18:55,894 --> 00:19:03,117
+soft kitty, warm kitty,
+little ball of fur...
+
+378
+00:19:05,521 --> 00:19:07,855
+I'll start over.
+
+379
+00:19:09,533 --> 00:19:14,051
+soft kitty, warm kitty, little ball of fur
+
+380
+00:19:20,119 --> 00:19:24,455
+Soft kitty, warm kitty, little ball of fur.
+
+381
+00:19:24,523 --> 00:19:27,809
+soft kitty, warm kitty,
+little ball of fur... 
+
+382
+00:19:27,876 --> 00:19:29,994
+happy kitty,
+sleepy kitty 
+
+383
+00:19:29,995 --> 00:19:32,297
+happy kitty,
+sleepy kitty
+
+384
+00:19:32,381 --> 00:19:34,215
+happy kitty,
+purr, purr, purr
+
+385
+00:19:34,266 --> 00:19:38,486
+purr, purr, purr. 
+
+386
+00:19:44,043 --> 00:19:45,627
+
+
+387
+00:19:44,092 --> 00:19:47,294
+...And the next morning
+when he woke up,
+
+388
+00:19:47,345 --> 00:19:50,664
+He rolled over and realized...
+
+389
+00:19:50,715 --> 00:19:52,800
+duh-duh-duh! 
+
+390
+00:19:54,286 --> 00:19:56,270
+...She was his cousin.
+
+391
+00:20:02,894 --> 00:20:05,763
+That's still not funny.
+
+392
+00:20:07,115 --> 00:20:09,033
+That's still not funny.
+
+393
+00:20:10,569 --> 00:20:13,520
+And she was my second cousin.
+
+394
+00:20:13,588 --> 00:20:15,155
+And she was my
+second cousin.
+
+395
+00:20:18,994 --> 00:20:20,711
+You're a real douche.
+
+396
+00:20:20,795 --> 00:20:23,213
+Who cares?
+You slept with your cousin.
+
+397
+00:20:23,248 --> 00:20:29,717
+<font color="#ffff00">Sync by honeybunny</font>
+<font color="#ffff00">www.addic7ed.com</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -1,0 +1,1847 @@
+﻿1
+00:00:00,070 --> 00:00:01,600
+English (HI) Subtitles. 
+The Big Bang Theory S09E05 [KoTuWa] 
+The Perspiration Implementation
+
+2
+00:00:03,312 --> 00:00:05,647
+Hey, ready for lunch?
+Oh, one sec.
+
+3
+00:00:05,649 --> 00:00:09,084
+Is that the prototype drive
+system for the high-G rover?
+
+4
+00:00:09,086 --> 00:00:11,453
+No, Bernadette
+got me a Fitbit
+
+5
+00:00:11,455 --> 00:00:14,490
+so she can track
+how much I'm exercising.
+
+6
+00:00:15,825 --> 00:00:19,094
+That'll teach her to care
+about your health.
+
+7
+00:00:19,096 --> 00:00:22,865
+I can't wait to see the look
+on her face when I die young.
+
+8
+00:00:23,967 --> 00:00:25,367
+When was the last actual
+exercise you got?
+
+9
+00:00:25,369 --> 00:00:26,735
+The other day, when
+
+10
+00:00:26,737 --> 00:00:30,172
+she tried to put that Fitbit
+on me and I ran away from her.
+
+11
+00:00:31,040 --> 00:00:32,641
+According to a recent study,
+
+12
+00:00:32,643 --> 00:00:35,410
+simply thinking about exercise,
+even while sitting still,
+
+13
+00:00:35,412 --> 00:00:36,778
+can have physical benefits.
+
+14
+00:00:36,780 --> 00:00:39,381
+For all you know,
+I could be exercising right now.
+
+15
+00:00:39,383 --> 00:00:42,284
+Are you?
+Eh, I'll do it tomorrow.
+
+16
+00:00:43,186 --> 00:00:44,486
+It wouldn't be the worst thing
+
+17
+00:00:44,488 --> 00:00:45,654
+if we were more active.
+
+18
+00:00:45,656 --> 00:00:48,056
+Oh. You make
+an excellent point.
+
+19
+00:00:51,227 --> 00:00:53,929
+Ooh, I think
+I'm getting a runner's high!
+
+20
+00:00:53,931 --> 00:00:57,566
+♪ Our whole universe
+was in hot, dense state ♪
+
+21
+00:00:57,568 --> 00:01:00,902
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+22
+00:01:00,904 --> 00:01:02,537
+♪ The Earth began to cool ♪
+
+23
+00:01:02,539 --> 00:01:05,073
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+24
+00:01:05,075 --> 00:01:07,742
+♪ We built the Wall ♪
+♪<i> We built the pyramids</i> ♪
+
+25
+00:01:07,744 --> 00:01:10,412
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+26
+00:01:10,414 --> 00:01:12,313
+♪ That all started
+with a big bang ♪
+
+27
+00:01:12,315 --> 00:01:14,211
+♪<i> Bang!</i> ♪
+
+28
+00:01:14,212 --> 00:01:18,212
+<font color=#00FF00>♪ The Big Bang Theory 9x05 ♪</font>
+<font color=#00FFFF>The Perspiration Implementation</font>
+Original Air Date on October 19, 2015
+
+29
+00:01:18,213 --> 00:01:23,913
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+30
+00:01:23,914 --> 00:01:26,146
+Look at all these activities
+the university has.
+
+31
+00:01:26,147 --> 00:01:29,181
+Rock climbing club,
+archery, flag football.
+
+32
+00:01:29,183 --> 00:01:32,518
+Had me at flag,
+lost me at football.
+
+33
+00:01:32,520 --> 00:01:35,154
+Yeah, I think it's great you
+guys want to get more exercise,
+
+34
+00:01:35,156 --> 00:01:38,090
+but do you really think sports
+is the right choice for you?
+
+35
+00:01:38,092 --> 00:01:40,058
+What are you saying?
+We're not coordinated enough
+
+36
+00:01:40,060 --> 00:01:41,159
+to play sports?
+
+37
+00:01:41,161 --> 00:01:43,562
+Okay, Leonard, sweetheart,
+
+38
+00:01:43,564 --> 00:01:46,865
+you twisted your ankle
+playing<i> Scrabble.</i>
+
+39
+00:01:47,700 --> 00:01:49,701
+I got a triple-word score
+
+40
+00:01:49,703 --> 00:01:51,370
+with a double letter "Q."
+If that's not a time
+
+41
+00:01:51,372 --> 00:01:54,272
+to bust out the<i> Scrabble</i> dance,
+what's the point of having one?
+
+42
+00:01:56,175 --> 00:02:00,011
+Hey, Barry Kripke
+started a fencing club.
+
+43
+00:02:00,013 --> 00:02:03,982
+Interesting. Sword fighting does
+hold a certain elegant appeal.
+
+44
+00:02:03,984 --> 00:02:05,817
+And I would imagine
+it meets many
+
+45
+00:02:05,819 --> 00:02:08,453
+of our personal criteria
+for a sport.
+
+46
+00:02:08,455 --> 00:02:10,789
+It's indoors, so no sunscreen.
+
+47
+00:02:11,457 --> 00:02:12,457
+No throwing, no catching,
+
+48
+00:02:12,459 --> 00:02:14,259
+no running.
+
+49
+00:02:14,261 --> 00:02:17,229
+No gym shorts
+that can be yanked down.
+
+50
+00:02:18,397 --> 00:02:19,598
+Or worse, up.
+
+51
+00:02:19,600 --> 00:02:21,399
+Preach.
+
+52
+00:02:21,401 --> 00:02:22,734
+And as
+an added bonus,
+
+53
+00:02:22,736 --> 00:02:24,469
+the word "touché" comes
+from fencing.
+
+54
+00:02:24,471 --> 00:02:26,504
+It would be our only opportunity
+to use it
+
+55
+00:02:26,506 --> 00:02:29,240
+in a non-metaphorical sense.
+
+56
+00:02:29,242 --> 00:02:31,409
+What about a game of tag
+on a French schoolyard?
+
+57
+00:02:31,411 --> 00:02:33,311
+Ah, touché.
+
+58
+00:02:36,048 --> 00:02:37,315
+Thanks for coming by.
+
+59
+00:02:37,317 --> 00:02:39,017
+Sure. So how can we help?
+
+60
+00:02:39,019 --> 00:02:41,186
+Well, I know
+more women are
+
+61
+00:02:41,188 --> 00:02:42,987
+buying comics than ever,
+but for some reason,
+
+62
+00:02:42,989 --> 00:02:44,856
+I-I can't get
+'em in here.
+
+63
+00:02:44,858 --> 00:02:46,891
+All right, well,
+what have you tried so far?
+
+64
+00:02:46,893 --> 00:02:50,495
+Uh, I've-I've been stocking
+more female-oriented titles.
+
+65
+00:02:50,497 --> 00:02:53,765
+Uh, in the bathroom, I folded
+the end of the toilet paper
+
+66
+00:02:53,767 --> 00:02:55,033
+into a triangle.
+
+67
+00:02:55,035 --> 00:02:56,367
+And,
+uh,
+
+68
+00:02:56,369 --> 00:02:58,236
+you are now sitting
+in the official
+
+69
+00:02:58,238 --> 00:03:00,471
+breastfeeding area.
+
+70
+00:03:02,741 --> 00:03:05,810
+Really? In a comic book store?
+Oh,
+
+71
+00:03:05,812 --> 00:03:08,079
+don't worry. I-I've got
+a camera right up here,
+
+72
+00:03:08,081 --> 00:03:10,648
+so I could watch
+from the counter
+
+73
+00:03:10,650 --> 00:03:14,151
+and make sure guys
+aren't being pervs.
+
+74
+00:03:18,624 --> 00:03:19,757
+Anyway,
+
+75
+00:03:19,759 --> 00:03:21,592
+so what do I got to do to-to
+
+76
+00:03:21,594 --> 00:03:22,827
+get you in
+the door?
+
+77
+00:03:22,829 --> 00:03:24,562
+Well, for starters,
+
+78
+00:03:24,564 --> 00:03:26,864
+you might want to rethink
+some of this artwork.
+
+79
+00:03:26,866 --> 00:03:31,235
+I mean, this woman's
+actually on a leash like a dog.
+
+80
+00:03:31,237 --> 00:03:34,038
+Well, you don't know
+the backstory.
+
+81
+00:03:34,040 --> 00:03:37,108
+Maybe she kept jumping up
+on the couch.
+
+82
+00:03:50,055 --> 00:03:52,056
+I feel cool.
+
+83
+00:03:52,058 --> 00:03:55,559
+Like Puss in Boots.
+
+84
+00:03:55,561 --> 00:03:58,380
+I always wanted to be
+a swashbuckler when I was a kid.
+
+85
+00:03:58,404 --> 00:03:59,097
+Technically,
+
+86
+00:03:59,098 --> 00:04:01,265
+"swashbuckler" is a combination
+of two terms.
+
+87
+00:04:01,267 --> 00:04:03,867
+"Swash" referring to the sound
+of the sword.
+
+88
+00:04:03,869 --> 00:04:05,903
+Swash.
+
+89
+00:04:06,838 --> 00:04:08,272
+And
+then
+
+90
+00:04:08,274 --> 00:04:11,441
+"buckler" meaning a small
+shield, which you don't have.
+
+91
+00:04:11,443 --> 00:04:13,043
+We can still be swashers.
+Hmm.
+
+92
+00:04:13,045 --> 00:04:15,045
+Well said, Puss.
+
+93
+00:04:16,347 --> 00:04:20,684
+Gentlemen, welcome
+to the fencing club.
+
+94
+00:04:20,686 --> 00:04:24,521
+Before we start, I just want to
+warn you, fencing isn't a joke.
+
+95
+00:04:24,523 --> 00:04:26,323
+I hope you're not here because
+you think it's going to be
+
+96
+00:04:26,325 --> 00:04:28,258
+like<i> Star Wars.</i>
+
+97
+00:04:28,260 --> 00:04:29,159
+That's not why we're here.
+
+98
+00:04:29,161 --> 00:04:30,360
+Yeah, I'm here
+because I think
+
+99
+00:04:30,362 --> 00:04:32,195
+it's gonna be like
+<i>Game of Thrones.</i>
+
+100
+00:04:32,197 --> 00:04:34,564
+And maybe
+a little<i> Princess Bride.</i>
+
+101
+00:04:34,566 --> 00:04:36,366
+Ooh, ooh! I forgot
+about<i> Princess Bride!</i>
+
+102
+00:04:36,368 --> 00:04:38,902
+That's my answer!
+
+103
+00:04:38,904 --> 00:04:43,139
+Well, sorry to disappoint you,
+but fencing is a serious sport.
+
+104
+00:04:43,141 --> 00:04:44,174
+If you're not willing
+to put in the effort,
+
+105
+00:04:44,176 --> 00:04:46,276
+you might as well just leave
+now.
+
+106
+00:04:46,278 --> 00:04:48,511
+We're not afraid of physical activity.
+Yeah.
+
+107
+00:04:48,513 --> 00:04:51,114
+I already ran 18 miles today.
+
+108
+00:04:52,216 --> 00:04:54,818
+All right. Let's begin
+with some fundamentals.
+
+109
+00:04:54,820 --> 00:04:57,153
+This is the en
+garde position.
+
+110
+00:04:57,155 --> 00:05:00,123
+Feet are in an "L."
+Heels in a straight line.
+
+111
+00:05:00,125 --> 00:05:01,091
+Elbow is
+about a fist
+
+112
+00:05:01,093 --> 00:05:02,692
+from the rib cage.
+
+113
+00:05:02,694 --> 00:05:05,728
+Notice my dominant
+leg faces forward.
+
+114
+00:05:05,730 --> 00:05:06,763
+Oh, dear.
+
+115
+00:05:06,765 --> 00:05:08,064
+What's wrong, Cooper?
+
+116
+00:05:08,066 --> 00:05:11,468
+Well, I'm not sure
+I have a dominant leg.
+
+117
+00:05:11,470 --> 00:05:13,369
+They're both pretty submissive.
+
+118
+00:05:15,773 --> 00:05:17,173
+When you're in a
+public restroom,
+
+119
+00:05:17,175 --> 00:05:19,576
+which foot do you
+flush the toilet with?
+
+120
+00:05:21,612 --> 00:05:23,947
+Right. Always right.
+
+121
+00:05:23,949 --> 00:05:25,248
+He's a righty.
+
+122
+00:05:25,250 --> 00:05:27,817
+Okay,
+
+123
+00:05:27,819 --> 00:05:28,918
+show me en garde.
+
+124
+00:05:28,920 --> 00:05:31,254
+Good. Knees bent,
+
+125
+00:05:31,256 --> 00:05:32,922
+slightly over the toe.
+
+126
+00:05:32,924 --> 00:05:35,625
+Non-sword hand up for balance.
+
+127
+00:05:35,627 --> 00:05:39,595
+(groans) I am going
+to feel this tomorrow.
+
+128
+00:05:39,597 --> 00:05:42,799
+The first move
+is called an advance.
+
+129
+00:05:42,801 --> 00:05:45,268
+You move your front foot
+forward, heel to toe.
+
+130
+00:05:45,270 --> 00:05:47,270
+Back foot
+follows.
+
+131
+00:05:47,272 --> 00:05:49,672
+So front foot forward,
+heel to toe.
+
+132
+00:05:49,674 --> 00:05:51,407
+Back foot follows.
+
+133
+00:05:51,409 --> 00:05:54,076
+Now you try. Advance.
+
+134
+00:05:54,078 --> 00:05:57,647
+And advance.
+And advance.
+
+135
+00:05:57,649 --> 00:06:01,017
+This is easy.
+I didn't need to wear a cup.
+
+136
+00:06:01,019 --> 00:06:02,051
+KRIPKE:
+Good.
+
+137
+00:06:02,053 --> 00:06:03,819
+The next move is called
+a retreat.
+
+138
+00:06:03,821 --> 00:06:04,920
+Step back.
+
+139
+00:06:04,922 --> 00:06:06,922
+Back foot first, toe to heel.
+
+140
+00:06:06,924 --> 00:06:08,591
+Front foot follows.
+
+141
+00:06:08,593 --> 00:06:10,226
+On three.
+
+142
+00:06:10,228 --> 00:06:11,460
+Excuse me, Barry?
+Yes.
+
+143
+00:06:11,462 --> 00:06:13,829
+When can I stab
+one of my friends?
+
+144
+00:06:14,965 --> 00:06:16,699
+In fencing,
+we don't call it a stab.
+
+145
+00:06:16,701 --> 00:06:18,467
+We call it a touch.
+Uh, yes, I'm aware.
+
+146
+00:06:18,469 --> 00:06:20,336
+But if I say I want
+to touch one of my friends,
+
+147
+00:06:20,338 --> 00:06:23,372
+I'll get called
+into Human Resources.
+
+148
+00:06:23,374 --> 00:06:24,840
+Okay, on three,
+
+149
+00:06:24,842 --> 00:06:28,310
+Cooper and Koothrappali advance,
+the other two retreat.
+
+150
+00:06:28,312 --> 00:06:31,980
+One, two, three.
+
+151
+00:06:31,982 --> 00:06:33,682
+Very good. Switch it up.
+
+152
+00:06:33,684 --> 00:06:35,651
+One, two, three.
+
+153
+00:06:35,653 --> 00:06:38,287
+Switch again.
+One, two, three.
+
+154
+00:06:38,289 --> 00:06:40,656
+(phone rings)
+(groans)
+
+155
+00:06:40,658 --> 00:06:42,324
+Excuse me.
+
+156
+00:06:42,326 --> 00:06:44,092
+Can I call you back?
+
+157
+00:06:44,094 --> 00:06:47,663
+No, I'm teaching
+a class.
+
+158
+00:06:47,665 --> 00:06:50,299
+Sure.
+Sure.
+
+159
+00:06:50,301 --> 00:06:52,534
+An hour,
+tops.
+
+160
+00:06:52,536 --> 00:06:53,969
+Yeah. Okay.
+
+161
+00:06:53,971 --> 00:06:56,038
+Okay.
+Yeah.
+
+162
+00:06:56,040 --> 00:06:58,006
+Okay. Thanks.
+
+163
+00:06:58,008 --> 00:07:01,877
+And one,
+two, three.
+
+164
+00:07:03,046 --> 00:07:06,481
+Have you thought about
+advertising directly to females?
+
+165
+00:07:06,483 --> 00:07:08,483
+Hmm, okay.
+
+166
+00:07:08,485 --> 00:07:10,218
+Well... All right.
+
+167
+00:07:10,220 --> 00:07:13,255
+What if I put up a sign
+in the window that said,
+
+168
+00:07:13,257 --> 00:07:16,091
+"Women, come in.
+
+169
+00:07:16,093 --> 00:07:19,594
+Don't be afraid."
+
+170
+00:07:22,198 --> 00:07:24,399
+PENNY:
+Hey.
+
+171
+00:07:24,401 --> 00:07:26,534
+Uh, have you read the online
+reviews for this place?
+
+172
+00:07:26,536 --> 00:07:27,569
+Eh,
+
+173
+00:07:27,571 --> 00:07:28,536
+the Internet's so negative.
+
+174
+00:07:28,538 --> 00:07:30,071
+I try to avoid it.
+
+175
+00:07:30,073 --> 00:07:31,306
+All right, well,
+Heather H. says,
+
+176
+00:07:31,308 --> 00:07:33,208
+"The owner stared at me
+the whole time
+
+177
+00:07:33,210 --> 00:07:35,844
+and didn't blink once."
+
+178
+00:07:44,253 --> 00:07:45,987
+Kelly M. says,
+
+179
+00:07:45,989 --> 00:07:48,623
+"The creepy guy who runs it
+asked me out,
+
+180
+00:07:48,625 --> 00:07:52,193
+then called himself stupid
+before I could say no."
+
+181
+00:07:53,229 --> 00:07:56,130
+Jessica K.
+says,
+
+182
+00:07:56,132 --> 00:07:58,566
+"I told the weird owner
+that I liked his shirt.
+
+183
+00:07:58,568 --> 00:08:02,303
+He took it off
+and gave it to me."
+
+184
+00:08:02,305 --> 00:08:06,107
+See? Negative.
+
+185
+00:08:08,410 --> 00:08:10,011
+With your foil extended,
+
+186
+00:08:10,013 --> 00:08:13,114
+kick your front leg up and
+push off with your back leg.
+
+187
+00:08:13,116 --> 00:08:14,882
+Now you try.
+
+188
+00:08:15,651 --> 00:08:18,319
+And
+again.
+
+189
+00:08:18,321 --> 00:08:21,222
+And again.
+
+190
+00:08:21,224 --> 00:08:24,392
+Look at us! We're
+like the Rockettes!
+
+191
+00:08:25,193 --> 00:08:26,961
+En garde,
+Leonard.
+
+192
+00:08:26,963 --> 00:08:30,264
+Prepare yourself
+for a rigorous touching.
+
+193
+00:08:33,168 --> 00:08:35,036
+(Spanish accent):
+My name is Inigo Montoya.
+
+194
+00:08:35,038 --> 00:08:36,904
+You killed my father.
+
+195
+00:08:36,906 --> 00:08:38,472
+Prepare to die.
+
+196
+00:08:38,474 --> 00:08:40,141
+(Spanish accent):
+<i>My</i> name
+
+197
+00:08:40,143 --> 00:08:41,175
+is Inigo Montoya.
+
+198
+00:08:41,177 --> 00:08:43,611
+You killed<i> my</i>
+father. Prepare
+
+199
+00:08:43,613 --> 00:08:45,212
+to die.
+
+200
+00:08:45,214 --> 00:08:47,548
+I thought
+you were Puss in Boots.
+
+201
+00:08:47,550 --> 00:08:48,782
+Oh, yeah, right. Sorry.
+
+202
+00:08:48,784 --> 00:08:50,918
+(Spanish accent):
+My name is Puss in Boots.
+
+203
+00:08:50,920 --> 00:08:52,686
+You killed my father.
+
+204
+00:08:52,688 --> 00:08:54,421
+Prepare to die.
+
+205
+00:08:56,625 --> 00:08:59,660
+I'm looking forward to him
+teaching us glove-slapping.
+
+206
+00:08:59,662 --> 00:09:01,462
+What?
+
+207
+00:09:01,464 --> 00:09:04,031
+You know, when my
+honor is insulted,
+
+208
+00:09:04,033 --> 00:09:06,166
+and I need to challenge
+someone to a duel
+
+209
+00:09:06,168 --> 00:09:10,003
+by slapping them across
+the face with my glove.
+
+210
+00:09:10,005 --> 00:09:11,371
+When was your honor insulted?
+
+211
+00:09:11,373 --> 00:09:14,975
+My last physical.
+
+212
+00:09:14,977 --> 00:09:17,311
+Again, that doctor
+didn't insult your honor.
+
+213
+00:09:17,313 --> 00:09:19,480
+Just checked your prostate.
+
+214
+00:09:20,949 --> 00:09:24,084
+My name is Little
+Orphan Annie.
+
+215
+00:09:24,086 --> 00:09:25,953
+You killed my father.
+
+216
+00:09:25,955 --> 00:09:28,322
+Prepare to die.
+
+217
+00:09:30,425 --> 00:09:33,560
+(with accent):
+My name is Darth Vader.
+
+218
+00:09:33,562 --> 00:09:36,663
+I<i> am</i> your father. Ah!
+
+219
+00:09:38,366 --> 00:09:40,667
+This is fun.
+Good.
+
+220
+00:09:40,669 --> 00:09:42,702
+It's nice
+to see your mind off Amy.
+
+221
+00:09:42,704 --> 00:09:44,137
+What's going on with Amy?
+
+222
+00:09:44,139 --> 00:09:45,806
+Not that it's any
+of your business,
+
+223
+00:09:45,808 --> 00:09:47,207
+but she broke up with me.
+
+224
+00:09:47,209 --> 00:09:48,708
+Really?
+
+225
+00:09:48,710 --> 00:09:50,410
+Good to know.
+
+226
+00:09:52,380 --> 00:09:54,381
+"Good to know"?
+
+227
+00:09:54,383 --> 00:09:56,216
+What's that supposed to mean?
+Oh.
+
+228
+00:09:56,218 --> 00:09:59,419
+I hate to say it, but it sounds
+like he's interested in her.
+
+229
+00:09:59,421 --> 00:10:02,455
+Well, that's unacceptable.
+
+230
+00:10:02,457 --> 00:10:04,624
+Oh, buddy, I get
+that you don't like it,
+
+231
+00:10:04,626 --> 00:10:06,459
+but it's not
+really up to you.
+
+232
+00:10:06,461 --> 00:10:09,629
+Yeah, but he's dumb,
+and his face is dumb.
+
+233
+00:10:09,631 --> 00:10:12,899
+Look, even if it's not him,
+
+234
+00:10:12,901 --> 00:10:16,402
+Amy's probably going
+to date someone at some point.
+
+235
+00:10:16,404 --> 00:10:18,037
+You really think so?
+
+236
+00:10:18,039 --> 00:10:20,707
+Of course.
+She deserves to be happy.
+
+237
+00:10:20,709 --> 00:10:23,476
+How dare you!
+
+238
+00:10:33,098 --> 00:10:34,732
+Listen, I should warn you
+
+239
+00:10:34,734 --> 00:10:38,569
+that maybe asking Amy out
+isn't a good idea.
+
+240
+00:10:38,571 --> 00:10:39,970
+Barry, a word?
+
+241
+00:10:39,972 --> 00:10:42,573
+And now the crazy version
+of what I just said.
+
+242
+00:10:44,276 --> 00:10:45,543
+If you intend to pursue Amy,
+
+243
+00:10:45,545 --> 00:10:48,312
+you leave me with no choice
+but to put a stop to it.
+
+244
+00:10:48,314 --> 00:10:51,048
+And how are you gonna do that?
+
+245
+00:10:51,050 --> 00:10:52,750
+By challenging you to a duel.
+
+246
+00:10:53,785 --> 00:10:56,854
+You've had one lesson.
+I'll destroy you.
+
+247
+00:10:56,856 --> 00:10:59,023
+That is why
+the duel will take place
+
+248
+00:10:59,025 --> 00:11:01,992
+at high noon,
+three years from today.
+
+249
+00:11:03,561 --> 00:11:05,396
+If you're worth your salt
+as an instructor,
+
+250
+00:11:05,398 --> 00:11:06,630
+I should be ready by then.
+
+251
+00:11:06,632 --> 00:11:08,699
+Yeah, and be warned.
+
+252
+00:11:08,701 --> 00:11:10,734
+I'm going to touch you all over.
+
+253
+00:11:13,104 --> 00:11:18,408
+Wow. That-that was crazier
+than I thought.
+
+254
+00:11:19,544 --> 00:11:22,412
+All right,
+I'm not saying
+
+255
+00:11:22,414 --> 00:11:24,815
+it's true, but let's-let's
+consider for a moment
+
+256
+00:11:24,817 --> 00:11:27,284
+that possibly I'm the problem.
+Yeah.
+
+257
+00:11:27,286 --> 00:11:28,552
+You are.
+You can say it.
+
+258
+00:11:28,554 --> 00:11:30,120
+Okay, fine. What...?
+
+259
+00:11:30,122 --> 00:11:31,655
+I mean, what
+can I do?
+
+260
+00:11:31,657 --> 00:11:33,457
+I get so nervous
+around women.
+
+261
+00:11:33,459 --> 00:11:34,925
+Well, you're talking
+to us now.
+
+262
+00:11:34,927 --> 00:11:36,360
+I mean, you don't seem nervous.
+
+263
+00:11:36,362 --> 00:11:37,961
+Well, that's
+'cause I'm doing that trick
+
+264
+00:11:37,963 --> 00:11:40,597
+where you imagine
+the audience is naked.
+
+265
+00:11:42,667 --> 00:11:45,202
+By the way, thumbs up, ladies.
+
+266
+00:11:46,270 --> 00:11:48,772
+Do you not hear
+how creepy that sounds?
+
+267
+00:11:48,774 --> 00:11:50,707
+(laughing):
+It was a joke.
+
+268
+00:11:50,709 --> 00:11:51,875
+Was it?
+
+269
+00:11:51,877 --> 00:11:53,677
+No, I'm still doing it.
+
+270
+00:11:53,679 --> 00:11:56,580
+Okay.
+
+271
+00:11:56,582 --> 00:11:58,548
+Don't be offended, but...
+
+272
+00:11:58,550 --> 00:12:00,884
+what went wrong with you?
+
+273
+00:12:00,886 --> 00:12:05,422
+I-I guess I assumed
+at this point in my life,
+
+274
+00:12:05,424 --> 00:12:08,558
+I would be married
+or in a relationship,
+
+275
+00:12:08,560 --> 00:12:09,993
+or even have a pet
+
+276
+00:12:09,995 --> 00:12:12,695
+that didn't run away
+or kill itself.
+
+277
+00:12:13,564 --> 00:12:15,465
+That really happened?
+
+278
+00:12:15,467 --> 00:12:17,801
+I mean, I can't say for sure,
+but I swear
+
+279
+00:12:17,803 --> 00:12:19,669
+that rabbit looked me
+right in the eye
+
+280
+00:12:19,671 --> 00:12:21,804
+before it hopped
+in front of that car.
+
+281
+00:12:21,806 --> 00:12:23,673
+Anyway,
+
+282
+00:12:23,675 --> 00:12:25,909
+the longer I'm alone,
+the more desperate I get.
+
+283
+00:12:25,911 --> 00:12:31,347
+Stuart, believe it or not,
+I understand.
+
+284
+00:12:31,349 --> 00:12:32,882
+You know, before I met Sheldon,
+
+285
+00:12:32,884 --> 00:12:35,518
+I was alone
+for a really long time.
+
+286
+00:12:35,520 --> 00:12:37,420
+I was so desperate
+
+287
+00:12:37,422 --> 00:12:39,789
+for people to like me,
+when I met these guys,
+
+288
+00:12:39,791 --> 00:12:43,059
+it took everything in my power
+to hide my insecurity.
+
+289
+00:12:46,063 --> 00:12:48,197
+(laughing):
+Okay, we're all feeling it.
+
+290
+00:12:48,199 --> 00:12:50,433
+Yes, I'll go out with you.
+
+291
+00:12:53,704 --> 00:12:56,973
+Suddenly, the rabbit thing
+makes sense.
+
+292
+00:12:59,610 --> 00:13:02,511
+I'm surprised you wanted to go
+to a sports bar, Sheldon.
+
+293
+00:13:02,513 --> 00:13:04,981
+Look at this blister.
+
+294
+00:13:04,983 --> 00:13:07,483
+Like it or not,
+we're athletes now.
+
+295
+00:13:07,485 --> 00:13:10,720
+Besides, a bar is
+where I belong.
+
+296
+00:13:10,722 --> 00:13:12,922
+I'm having female problems.
+
+297
+00:13:12,924 --> 00:13:15,724
+If you're cranky and retaining
+water, I have a theory.
+
+298
+00:13:17,060 --> 00:13:19,929
+Sheldon, instead of focusing
+on Amy dating other guys,
+
+299
+00:13:19,931 --> 00:13:22,464
+maybe you should start thinking
+about dating another girl.
+
+300
+00:13:22,466 --> 00:13:24,633
+That's ridiculous.
+
+301
+00:13:24,635 --> 00:13:25,935
+KOOTHRAPPALI:
+Why? You never thought
+
+302
+00:13:25,937 --> 00:13:27,202
+you'd end up in a relationship,
+
+303
+00:13:27,204 --> 00:13:28,370
+and then you met Amy.
+
+304
+00:13:28,372 --> 00:13:29,838
+Maybe there's someone else
+out there for you.
+
+305
+00:13:29,840 --> 00:13:33,976
+True, but Penny's married,
+and so is Bernadette.
+
+306
+00:13:35,178 --> 00:13:37,379
+And your girlfriend has
+red hair and white skin,
+
+307
+00:13:37,381 --> 00:13:40,549
+which really rubs up
+against my clown phobia.
+
+308
+00:13:41,851 --> 00:13:43,452
+Maybe you should consider women
+
+309
+00:13:43,454 --> 00:13:44,820
+who aren't
+in serious relationships
+
+310
+00:13:44,822 --> 00:13:46,388
+with your closest friends?
+
+311
+00:13:46,390 --> 00:13:49,925
+There's that prostate doctor,
+but I'm still mad at her.
+
+312
+00:13:52,128 --> 00:13:53,729
+Oh, there's a woman.
+
+313
+00:13:53,731 --> 00:13:55,130
+Oh, I'll make her my girlfriend.
+
+314
+00:13:55,132 --> 00:13:57,799
+Whoa, whoa.
+
+315
+00:13:57,801 --> 00:14:01,937
+Walking up to a strange woman
+in a bar usually doesn't work.
+
+316
+00:14:01,939 --> 00:14:03,839
+You're forgetting something.
+
+317
+00:14:03,841 --> 00:14:05,407
+Ladies love jocks.
+
+318
+00:14:06,309 --> 00:14:08,577
+How many sips
+of that beer did he have?
+
+319
+00:14:08,579 --> 00:14:10,445
+Three.
+Oh, boy.
+
+320
+00:14:12,081 --> 00:14:16,852
+Excuse me. I'm recovering
+from a recent breakup,
+
+321
+00:14:16,854 --> 00:14:20,655
+and I'm told asking out another
+woman might make me feel better.
+
+322
+00:14:20,657 --> 00:14:24,860
+And as Ash Ketchum said
+to Pikachu, "I choose you."
+
+323
+00:14:24,862 --> 00:14:26,828
+What?
+
+324
+00:14:26,830 --> 00:14:28,997
+It's a<i> Pokémon</i> reference.
+
+325
+00:14:28,999 --> 00:14:30,699
+I don't know what that means.
+
+326
+00:14:30,701 --> 00:14:32,834
+Well, we gave it a shot.
+
+327
+00:14:33,502 --> 00:14:36,237
+How about you?
+
+328
+00:14:36,239 --> 00:14:39,441
+I'm married,
+and I'm her grandmother.
+
+329
+00:14:39,443 --> 00:14:42,277
+Ah, what might have been.
+
+330
+00:14:42,279 --> 00:14:46,347
+And you, give my regards
+to Barnum and Bailey.
+
+331
+00:14:49,485 --> 00:14:52,821
+Stuart took that rejection
+like a pro.
+
+332
+00:14:52,823 --> 00:14:55,690
+Well, he knew
+he was on the breast cam.
+
+333
+00:14:57,593 --> 00:15:00,328
+I don't have much practice
+turning men down.
+
+334
+00:15:00,330 --> 00:15:01,863
+It wasn't so much fun.
+
+335
+00:15:01,865 --> 00:15:03,197
+Oh, you get used to it.
+
+336
+00:15:03,199 --> 00:15:05,466
+Some guys you have
+to turn down over and over.
+
+337
+00:15:05,468 --> 00:15:08,169
+And sometimes
+we marry them anyway.
+
+338
+00:15:08,171 --> 00:15:10,171
+(phone chimes)
+
+339
+00:15:10,173 --> 00:15:12,407
+Huh.
+
+340
+00:15:12,409 --> 00:15:14,642
+Well, this is weird.
+
+341
+00:15:14,644 --> 00:15:17,712
+What?
+Barry Kripke just asked me out.
+
+342
+00:15:17,714 --> 00:15:19,080
+(gasps)
+BERNADETTE: Oh.
+
+343
+00:15:19,082 --> 00:15:21,449
+Look at you--
+two guys in one day!
+
+344
+00:15:21,451 --> 00:15:25,186
+I told you things would change
+if you plucked your eyebrows!
+
+345
+00:15:26,622 --> 00:15:28,356
+What did he say?
+
+346
+00:15:28,358 --> 00:15:30,825
+"Hi, how are you?
+I was wondering
+
+347
+00:15:30,827 --> 00:15:33,761
+if you'd like to get a drink
+after work sometime."
+
+348
+00:15:33,763 --> 00:15:35,396
+Well, what are
+you gonna do?
+
+349
+00:15:35,398 --> 00:15:37,298
+I don't know.
+
+350
+00:15:37,300 --> 00:15:40,368
+I guess I assumed that I would
+eventually date other people,
+
+351
+00:15:40,370 --> 00:15:42,603
+but this is happening so fast.
+
+352
+00:15:42,605 --> 00:15:44,205
+What can it hurt?
+
+353
+00:15:44,207 --> 00:15:46,207
+Well, I was hoping the
+next person I dated
+
+354
+00:15:46,209 --> 00:15:48,175
+would be a little
+less like Sheldon.
+
+355
+00:15:48,177 --> 00:15:49,877
+You mean, not a scientist?
+
+356
+00:15:49,879 --> 00:15:51,946
+I think she means not a weirdo.
+
+357
+00:15:53,181 --> 00:15:54,582
+Are you attracted
+to him?
+
+358
+00:15:54,584 --> 00:15:56,817
+I don't know.
+
+359
+00:15:56,819 --> 00:15:59,620
+All right, well, what happens
+if you imagine him naked?
+
+360
+00:15:59,622 --> 00:16:00,821
+Oh, I don't have to imagine it.
+
+361
+00:16:00,823 --> 00:16:03,223
+(gasps)
+
+362
+00:16:08,463 --> 00:16:10,331
+I smell funny.
+
+363
+00:16:12,167 --> 00:16:14,435
+I taste salty.
+
+364
+00:16:14,437 --> 00:16:17,504
+You're just sweaty
+from exercise.
+
+365
+00:16:17,506 --> 00:16:19,006
+And kind of delicious.
+
+366
+00:16:20,909 --> 00:16:24,444
+I wonder how many licks it would
+take to get to the center of me.
+
+367
+00:16:27,282 --> 00:16:29,750
+I know it only takes
+one doctor's finger.
+
+368
+00:16:32,687 --> 00:16:34,121
+Hello.
+
+369
+00:16:34,123 --> 00:16:35,789
+Hello.
+
+370
+00:16:35,791 --> 00:16:37,391
+We should let
+you guys talk.
+
+371
+00:16:37,393 --> 00:16:38,325
+Yeah.
+
+372
+00:16:38,327 --> 00:16:39,626
+You don't have to leave.
+
+373
+00:16:39,628 --> 00:16:41,461
+Look at me go!
+
+374
+00:16:43,464 --> 00:16:44,765
+Uh, Bernadette,
+you're my ride.
+
+375
+00:16:44,767 --> 00:16:46,032
+BERNADETTE:
+Walk!
+
+376
+00:16:50,271 --> 00:16:52,672
+How have you been?
+
+377
+00:16:52,674 --> 00:16:54,641
+I'm doing all right.
+
+378
+00:16:54,643 --> 00:16:56,977
+I tried fencing today.
+
+379
+00:16:56,979 --> 00:16:58,778
+How'd that go?
+
+380
+00:16:58,780 --> 00:17:01,414
+It was pretty easy.
+
+381
+00:17:01,416 --> 00:17:03,984
+And I think my background
+in "mathletics" helped.
+
+382
+00:17:05,653 --> 00:17:07,954
+Barry Kripke was there.
+
+383
+00:17:07,956 --> 00:17:09,222
+I should let you know
+
+384
+00:17:09,224 --> 00:17:12,158
+that he expressed interest
+in asking you out.
+
+385
+00:17:13,361 --> 00:17:15,061
+Well, actually,
+he-he already did.
+
+386
+00:17:15,063 --> 00:17:17,030
+Okay.
+
+387
+00:17:17,032 --> 00:17:18,798
+But don't get
+too attached to him.
+
+388
+00:17:18,800 --> 00:17:21,935
+In two years, 364 days,
+he's a dead man.
+
+389
+00:17:25,239 --> 00:17:26,573
+I said no.
+
+390
+00:17:26,575 --> 00:17:28,174
+Interesting.
+
+391
+00:17:28,176 --> 00:17:32,345
+I asked two women out today,
+and they both said no.
+
+392
+00:17:32,347 --> 00:17:35,748
+I didn't know you
+were interested in dating.
+
+393
+00:17:35,750 --> 00:17:39,018
+I've been told
+it's a good way to move on.
+
+394
+00:17:39,020 --> 00:17:41,354
+Oh.
+
+395
+00:17:41,356 --> 00:17:43,222
+Okay.
+
+396
+00:17:45,693 --> 00:17:49,395
+Anyway, um,
+it's nice to see you.
+
+397
+00:17:49,397 --> 00:17:50,997
+You look good.
+
+398
+00:17:50,999 --> 00:17:51,998
+Mmm, thanks.
+
+399
+00:17:52,000 --> 00:17:53,399
+And I taste good too.
+
+400
+00:18:05,070 --> 00:18:07,305
+Howie?
+
+401
+00:18:07,555 --> 00:18:09,122
+What's up?
+
+402
+00:18:09,959 --> 00:18:12,760
+Why does your Fitbit say
+you ran 174 miles yesterday?
+
+403
+00:18:16,659 --> 00:18:23,159
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

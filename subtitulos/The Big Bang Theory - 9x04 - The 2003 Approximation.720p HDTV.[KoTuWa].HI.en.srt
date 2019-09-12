@@ -1,0 +1,1974 @@
+﻿1
+00:00:00,070 --> 00:00:01,600
+English Subtitles. 
+The Big Bang Theory S09E04 [KoTuWa] 
+The 2003 Approximation
+
+2
+00:00:03,353 --> 00:00:05,386
+What a wonderful day, thank you.
+
+3
+00:00:05,387 --> 00:00:06,820
+Oh, we're glad
+you had fun.
+
+4
+00:00:06,822 --> 00:00:09,322
+Blue Icees and a trip
+to The Container Store?
+
+5
+00:00:09,324 --> 00:00:11,958
+It's like I died and went
+to the post-mortem,
+
+6
+00:00:11,960 --> 00:00:16,363
+neuron-induced hallucination
+commonly mistaken as heaven.
+
+7
+00:00:16,365 --> 00:00:18,465
+I still don't understand
+why you bought that pill caddie.
+
+8
+00:00:18,467 --> 00:00:19,633
+You're a young man.
+
+9
+00:00:19,635 --> 00:00:22,035
+Age is a state of
+mind, Leonard.
+
+10
+00:00:22,037 --> 00:00:24,104
+In here I'm 90.
+
+11
+00:00:26,575 --> 00:00:29,509
+Why are you taking
+your bins over there?
+
+12
+00:00:29,511 --> 00:00:31,011
+That's just where
+I need them.
+
+13
+00:00:31,013 --> 00:00:33,013
+You know, she doesn't have
+a lot of closet space.
+
+14
+00:00:33,015 --> 00:00:35,048
+What's wrong with your closet?
+
+15
+00:00:35,050 --> 00:00:36,583
+Uh...
+
+16
+00:00:36,585 --> 00:00:38,318
+Well, honey, you know,
+
+17
+00:00:38,320 --> 00:00:39,886
+now that Leonard and I
+are married,
+
+18
+00:00:39,888 --> 00:00:42,823
+it kind of makes sense
+that we actually live together.
+
+19
+00:00:42,825 --> 00:00:44,591
+So that's all this day was?
+
+20
+00:00:44,593 --> 00:00:47,427
+A plan to butter me up
+before delivering bad news?
+
+21
+00:00:47,429 --> 00:00:49,429
+Come on, buddy.
+No, I thought we were friends.
+
+22
+00:00:49,431 --> 00:00:51,698
+You asked for a sip of my Icee.
+
+23
+00:00:51,700 --> 00:00:54,768
+If you had your own straw,
+I might've said yes.
+
+24
+00:00:54,770 --> 00:00:58,338
+Sheldon, please, we already
+feel bad about this.
+
+25
+00:00:58,340 --> 00:01:00,307
+You know what they don't sell
+at The Container Store?
+
+26
+00:01:00,309 --> 00:01:02,909
+Something large enough
+to contain my disappointment.
+
+27
+00:01:04,813 --> 00:01:06,012
+Although,
+
+28
+00:01:06,014 --> 00:01:08,982
+if anyone did, it would be them.
+
+29
+00:01:08,984 --> 00:01:12,619
+♪ Our whole universe
+was in a hot, dense state ♪
+
+30
+00:01:12,621 --> 00:01:15,956
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+31
+00:01:15,958 --> 00:01:17,591
+♪ The Earth began to cool ♪
+
+32
+00:01:17,593 --> 00:01:20,127
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+33
+00:01:20,129 --> 00:01:22,796
+♪ We built the Wall ♪
+♪<i> We built the pyramids</i> ♪
+
+34
+00:01:22,798 --> 00:01:25,465
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+35
+00:01:25,467 --> 00:01:27,367
+♪ That all started
+with a big bang ♪
+
+36
+00:01:27,369 --> 00:01:29,305
+♪<i> Bang!</i> ♪
+
+37
+00:01:29,306 --> 00:01:33,306
+<font color=#00FF00>♪ The Big Bang Theory 9x04 ♪</font>
+<font color=#00FFFF>The 2003 Approximation </font>
+Original Air Date on October 12, 2015
+
+38
+00:01:33,307 --> 00:01:38,307
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+39
+00:01:38,308 --> 00:01:40,842
+Thank you for letting
+me come speak with you.
+
+40
+00:01:40,844 --> 00:01:42,477
+Of course.
+
+41
+00:01:42,479 --> 00:01:44,613
+As my relationships
+with Penny and Amy
+
+42
+00:01:44,615 --> 00:01:46,681
+are currently strained,
+I'm turning to you
+
+43
+00:01:46,683 --> 00:01:48,583
+for female comfort
+and encouragement.
+
+44
+00:01:48,585 --> 00:01:50,118
+Aww.
+
+45
+00:01:50,120 --> 00:01:52,053
+I'm honored.
+I tried
+
+46
+00:01:52,055 --> 00:01:54,322
+reaching out to my mother,
+but she was in Bible study.
+
+47
+00:01:54,324 --> 00:01:56,191
+Leonard's mother
+is on a book tour.
+
+48
+00:01:56,193 --> 00:01:57,659
+My Mee-Maw was taking a nap,
+
+49
+00:01:57,661 --> 00:02:00,629
+and after a while Siri
+started repeating her answers.
+
+50
+00:02:01,465 --> 00:02:04,132
+So, I'm your seventh choice.
+
+51
+00:02:04,134 --> 00:02:07,369
+Yeah, I know, top ten,
+pretty exciting.
+
+52
+00:02:07,371 --> 00:02:09,905
+How can I help you?
+
+53
+00:02:09,907 --> 00:02:11,806
+Well, in addition
+to Amy leaving me,
+
+54
+00:02:11,808 --> 00:02:13,909
+Leonard's moving in with Penny.
+
+55
+00:02:13,911 --> 00:02:16,912
+It's difficult
+not to feel abandoned.
+
+56
+00:02:16,914 --> 00:02:20,181
+Well, why don't you look at this
+as an opportunity?
+
+57
+00:02:20,183 --> 00:02:22,417
+You had other roommates
+before Leonard.
+
+58
+00:02:22,419 --> 00:02:23,718
+Maybe this is a chance
+
+59
+00:02:23,720 --> 00:02:25,120
+to find someone new.
+
+60
+00:02:25,122 --> 00:02:27,622
+Perhaps I could find someone
+better than Leonard.
+
+61
+00:02:27,624 --> 00:02:30,292
+Someone I can rub in his face.
+
+62
+00:02:30,294 --> 00:02:32,827
+Chris Pratt's
+all the rage right now.
+
+63
+00:02:33,730 --> 00:02:34,729
+I wonder how he'd feel
+
+64
+00:02:34,731 --> 00:02:37,232
+about taking
+the smaller bedroom.
+
+65
+00:02:37,234 --> 00:02:39,167
+Hey.
+Hey.
+
+66
+00:02:39,169 --> 00:02:42,404
+You know who would be
+the perfect roommate?
+
+67
+00:02:43,774 --> 00:02:46,741
+Gandalf, but he's a smoker.
+
+68
+00:02:46,743 --> 00:02:48,777
+Stuart.
+
+69
+00:02:48,779 --> 00:02:50,345
+He's been living with us
+for a while now.
+
+70
+00:02:50,347 --> 00:02:52,247
+I'm sure he'd love
+to get us out of his hair.
+
+71
+00:02:52,249 --> 00:02:54,716
+Nope, couldn't be happier.
+
+72
+00:02:54,718 --> 00:02:56,351
+Well, Sheldon's looking
+for a...
+
+73
+00:02:56,353 --> 00:02:59,454
+Nope.
+
+74
+00:02:59,456 --> 00:03:01,690
+He'll think about it.
+No I won't!
+
+75
+00:03:04,061 --> 00:03:05,694
+Have you seen
+this Archie comic?
+
+76
+00:03:05,696 --> 00:03:08,730
+It's actually
+<i>Archie versus Predator.</i>
+
+77
+00:03:08,732 --> 00:03:11,266
+How could Archie
+defeat Predator?
+
+78
+00:03:11,268 --> 00:03:12,500
+I don't know.
+
+79
+00:03:12,502 --> 00:03:14,903
+Maybe Jughead's a Terminator.
+
+80
+00:03:16,073 --> 00:03:19,140
+Hey.
+Hey, Stuart.
+
+81
+00:03:19,142 --> 00:03:21,009
+Do you guys know any musicians?
+
+82
+00:03:21,011 --> 00:03:21,977
+Why?
+
+83
+00:03:21,979 --> 00:03:23,345
+I was thinking it might be cool
+
+84
+00:03:23,347 --> 00:03:25,880
+to have live music here
+a few nights a week.
+
+85
+00:03:25,882 --> 00:03:27,315
+You know, give
+this place more
+
+86
+00:03:27,317 --> 00:03:29,384
+of a "staying in business" vibe.
+
+87
+00:03:29,386 --> 00:03:32,721
+What kind of music
+are you thinking of?
+
+88
+00:03:32,723 --> 00:03:37,125
+I like all kinds of music,
+but my favorite genre is free.
+
+89
+00:03:37,995 --> 00:03:39,060
+Hey, we've always talked
+
+90
+00:03:39,062 --> 00:03:40,161
+about playing together.
+
+91
+00:03:40,163 --> 00:03:41,463
+Well, it could be fun
+
+92
+00:03:41,465 --> 00:03:42,564
+to try a little acoustic thing.
+
+93
+00:03:42,566 --> 00:03:44,532
+Oh, we could play
+"filk" music.
+
+94
+00:03:44,534 --> 00:03:46,134
+What's that?
+
+95
+00:03:46,136 --> 00:03:47,602
+It's been around for years.
+
+96
+00:03:47,604 --> 00:03:51,339
+It's like folk music,
+but with a sci-fi/fantasy theme.
+
+97
+00:03:51,341 --> 00:03:52,540
+I like it.
+
+98
+00:03:52,542 --> 00:03:53,742
+It sounds exactly like something
+
+99
+00:03:53,744 --> 00:03:56,144
+I shouldn't be expected
+to pay for.
+
+100
+00:03:56,146 --> 00:03:58,113
+Dude, if we do this,
+
+101
+00:03:58,115 --> 00:03:59,948
+we're gonna need
+a cool band name.
+
+102
+00:03:59,950 --> 00:04:01,750
+You know, I've actually
+
+103
+00:04:01,752 --> 00:04:04,352
+had one I've been
+sitting on for years.
+
+104
+00:04:04,354 --> 00:04:05,520
+Really?
+
+105
+00:04:05,522 --> 00:04:06,888
+It was for this power trio
+
+106
+00:04:06,890 --> 00:04:08,690
+I tried to put together
+in junior high,
+
+107
+00:04:08,692 --> 00:04:11,259
+but I was short two friends.
+
+108
+00:04:11,261 --> 00:04:12,861
+What is it?
+
+109
+00:04:12,863 --> 00:04:15,664
+Footprints on the Moon.
+
+110
+00:04:17,534 --> 00:04:20,802
+I just got chills.
+
+111
+00:04:20,804 --> 00:04:22,470
+So did I.
+
+112
+00:04:22,472 --> 00:04:24,005
+Me, too.
+
+113
+00:04:24,007 --> 00:04:27,208
+But I-I might have Lyme Disease.
+
+114
+00:04:29,546 --> 00:04:31,913
+Just a few more signatures,
+and we'll be finished.
+
+115
+00:04:31,915 --> 00:04:35,350
+Initial here to acknowledge
+that you've returned your key.
+
+116
+00:04:38,488 --> 00:04:40,321
+Okay.
+
+117
+00:04:40,323 --> 00:04:42,357
+As my future neighbor,
+
+118
+00:04:42,359 --> 00:04:45,193
+I'd like you to have a key.
+
+119
+00:04:47,130 --> 00:04:51,566
+Initial here to acknowledge
+you received it.
+
+120
+00:04:51,568 --> 00:04:54,002
+I'm proud of you.
+You're taking this really well.
+
+121
+00:04:54,004 --> 00:04:55,843
+Well, it's not like I'm never
+going to see you two again.
+
+122
+00:04:55,867 --> 00:04:58,995
+Which brings us to
+article 23 subsection C--
+
+123
+00:04:59,290 --> 00:05:01,523
+please check here
+to reserve your spot
+
+124
+00:05:01,525 --> 00:05:04,208
+at the ten year
+roommate reunion.
+
+125
+00:05:05,158 --> 00:05:06,770
+Do I really have to do that now?
+
+126
+00:05:07,272 --> 00:05:08,605
+No, but if you want chicken
+
+127
+00:05:08,607 --> 00:05:11,040
+and get stuck with the fish,year
+that's on you.
+
+128
+00:05:12,244 --> 00:05:13,643
+All right.
+
+129
+00:05:13,645 --> 00:05:15,478
+Oh, and lastly,
+
+130
+00:05:15,480 --> 00:05:17,313
+please initial here to confirm
+
+131
+00:05:17,315 --> 00:05:18,815
+that ownership
+of the living room couch
+
+132
+00:05:18,817 --> 00:05:20,016
+is hereby transferred to me
+
+133
+00:05:20,018 --> 00:05:22,018
+in perpetuity
+all throughout the universe
+
+134
+00:05:22,020 --> 00:05:23,887
+and all alternate universes
+
+135
+00:05:23,889 --> 00:05:25,989
+except for those universes
+where owning a couch
+
+136
+00:05:25,991 --> 00:05:27,624
+is forbidden by the hive queen.
+
+137
+00:05:27,626 --> 00:05:29,793
+In which case,
+all glory to the hive queen.
+
+138
+00:05:32,697 --> 00:05:34,397
+All right,
+now all that's left
+
+139
+00:05:34,399 --> 00:05:37,100
+is for us to sign
+and date the document,
+
+140
+00:05:37,102 --> 00:05:40,503
+and we will officially
+no longer be roommates.
+
+141
+00:05:44,242 --> 00:05:45,542
+What's the matter?
+
+142
+00:05:45,544 --> 00:05:47,677
+It's harder than I thought.
+
+143
+00:05:47,679 --> 00:05:49,145
+Let me help you.
+
+144
+00:05:49,147 --> 00:05:50,146
+L-E-O-N...
+
+145
+00:05:50,148 --> 00:05:52,582
+That helped.
+
+146
+00:05:53,718 --> 00:05:56,352
+So I have an idea
+for a filk song.
+
+147
+00:05:56,354 --> 00:05:57,921
+Kind of a,
+
+148
+00:05:57,923 --> 00:06:00,757
+a power ballad,
+superhero crossover tale
+
+149
+00:06:00,759 --> 00:06:02,959
+of epic proportions.
+
+150
+00:06:02,961 --> 00:06:04,928
+Is it cold in here,
+
+151
+00:06:04,930 --> 00:06:07,630
+'cause, oh, my.
+
+152
+00:06:08,800 --> 00:06:12,635
+Okay, so it's a, it's a
+David and Goliath story.
+
+153
+00:06:12,637 --> 00:06:14,804
+It's about man against God.
+
+154
+00:06:14,806 --> 00:06:17,640
+It's called "Hammer and Whip:
+
+155
+00:06:17,642 --> 00:06:18,875
+"The Untold Story
+
+156
+00:06:18,877 --> 00:06:22,679
+of Thor versus Indiana Jones."
+
+157
+00:06:24,482 --> 00:06:26,816
+Thor versus Indiana Jones?
+
+158
+00:06:26,818 --> 00:06:29,752
+You just blew my filking mind.
+
+159
+00:06:29,754 --> 00:06:32,388
+Okay, I don't have it
+all worked out yet,
+
+160
+00:06:32,390 --> 00:06:35,091
+but I was thinking
+something like, um...
+
+161
+00:06:35,093 --> 00:06:37,360
+♪ Oh, Indy ♪
+
+162
+00:06:37,362 --> 00:06:39,662
+♪ Oh, Indy ♪
+
+163
+00:06:39,664 --> 00:06:43,833
+♪ The skies are so windy ♪
+
+164
+00:06:44,936 --> 00:06:48,571
+♪ Is that a flying man
+with a killer bod? ♪
+
+165
+00:06:48,573 --> 00:06:49,839
+♪ Wait ♪
+
+166
+00:06:49,841 --> 00:06:51,040
+♪ That's no man ♪
+
+167
+00:06:51,042 --> 00:06:54,344
+♪ It's a Norse god. ♪
+
+168
+00:06:55,213 --> 00:06:57,480
+Oh yes, definitely.
+
+169
+00:06:57,482 --> 00:06:59,682
+Hang on.
+
+170
+00:06:59,684 --> 00:07:06,422
+♪ Thunder clapped as Thor
+raised his mighty hammer ♪
+
+171
+00:07:06,424 --> 00:07:13,263
+♪ Indy rapped,
+"That's one bad mamma-jamma." ♪
+
+172
+00:07:14,232 --> 00:07:15,698
+That-that is so good!
+
+173
+00:07:15,700 --> 00:07:16,766
+Right?
+
+174
+00:07:16,768 --> 00:07:18,968
+Mamma-jamma just came to me.
+
+175
+00:07:20,138 --> 00:07:21,571
+Okay, and here's the hook.
+
+176
+00:07:21,573 --> 00:07:24,774
+♪ Thor and Dr. Jones ♪
+
+177
+00:07:24,776 --> 00:07:27,543
+♪ Thor and Dr. Jones ♪
+
+178
+00:07:27,545 --> 00:07:29,145
+♪ One plays with lightning ♪
+
+179
+00:07:29,147 --> 00:07:33,449
+♪ The other plays with bones ♪
+
+180
+00:07:33,451 --> 00:07:36,119
+♪ Thor and Dr. Jones ♪
+
+181
+00:07:36,121 --> 00:07:39,122
+♪ Thor and Dr. Jones ♪
+
+182
+00:07:39,124 --> 00:07:40,957
+♪ One plays with lightning ♪
+
+183
+00:07:40,959 --> 00:07:43,693
+♪ The other plays with bones. ♪
+
+184
+00:07:47,098 --> 00:07:48,598
+Oh, man, that rocks.
+
+185
+00:07:48,600 --> 00:07:50,154
+Hey, remember
+<i>The Ark of the Covenant?</i>
+
+186
+00:07:50,155 --> 00:07:50,844
+Yeah?
+
+187
+00:07:50,868 --> 00:07:53,019
+That's how much we're
+gonna melt people's faces off.
+
+188
+00:07:56,441 --> 00:07:59,275
+I appreciate your interest
+in the apartment.
+
+189
+00:07:59,277 --> 00:08:01,678
+I just need to ask you
+a few standard questions.
+
+190
+00:08:01,680 --> 00:08:03,313
+Sure.
+It says here you're a chemist.
+
+191
+00:08:03,315 --> 00:08:06,616
+Which element
+on the periodic table
+
+192
+00:08:06,618 --> 00:08:10,453
+do you feel is too big
+for its britches?
+
+193
+00:08:11,756 --> 00:08:13,790
+Is that supposed to be a joke?
+
+194
+00:08:13,792 --> 00:08:16,392
+Looks like argon's not
+the only one
+
+195
+00:08:16,394 --> 00:08:19,062
+with an attitude problem.
+
+196
+00:08:19,064 --> 00:08:20,563
+In general,
+
+197
+00:08:20,565 --> 00:08:23,099
+would you say
+that you smell better, worse
+
+198
+00:08:23,101 --> 00:08:26,836
+or the same as you do right now?
+
+199
+00:08:28,340 --> 00:08:29,672
+I was going to ask you
+
+200
+00:08:29,674 --> 00:08:31,407
+what is the best fruit,
+
+201
+00:08:31,409 --> 00:08:33,242
+but then I realized
+what I want to ask you
+
+202
+00:08:33,244 --> 00:08:35,678
+is why is there a Band-Aid
+on your forearm,
+
+203
+00:08:35,680 --> 00:08:36,612
+but then I realized what
+
+204
+00:08:36,614 --> 00:08:37,981
+I really want to ask you is
+
+205
+00:08:37,983 --> 00:08:39,983
+just can you just go?
+
+206
+00:08:41,519 --> 00:08:43,252
+You're healthy.
+
+207
+00:08:43,254 --> 00:08:45,054
+You have a job in the sciences.
+
+208
+00:08:45,056 --> 00:08:47,623
+I've got to say, if this
+credit report comes back good,
+
+209
+00:08:47,625 --> 00:08:49,158
+you're the frontrunner.
+
+210
+00:08:53,832 --> 00:08:55,698
+I'm not gonna be
+your roommate, Sheldon.
+
+211
+00:08:55,700 --> 00:08:58,334
+But I met with 11 people,
+
+212
+00:08:58,336 --> 00:08:59,802
+and they all walked out.
+
+213
+00:08:59,804 --> 00:09:01,537
+And that Hollywood phony
+Chris Pratt
+
+214
+00:09:01,539 --> 00:09:03,406
+never tweeted me back.
+
+215
+00:09:03,408 --> 00:09:06,175
+I'm sure you'll find
+somebody else.
+
+216
+00:09:06,177 --> 00:09:08,011
+I suppose.
+
+217
+00:09:08,013 --> 00:09:09,412
+What happened to me, Amy?
+
+218
+00:09:09,414 --> 00:09:10,546
+Years ago I was
+
+219
+00:09:10,548 --> 00:09:12,882
+completely disengaged
+from my feelings.
+
+220
+00:09:12,884 --> 00:09:14,450
+I'd say it was a happier time,
+
+221
+00:09:14,452 --> 00:09:18,421
+but I was disengaged from
+my feelings, so who can tell?
+
+222
+00:09:18,423 --> 00:09:20,757
+I don't know how to help you.
+
+223
+00:09:20,759 --> 00:09:23,059
+You know,
+feelings are a part of life.
+
+224
+00:09:23,061 --> 00:09:24,694
+They didn't used to be.
+
+225
+00:09:24,696 --> 00:09:26,396
+You and Leonard and Penny,
+
+226
+00:09:26,398 --> 00:09:28,498
+you all poisoned me
+with emotions.
+
+227
+00:09:28,500 --> 00:09:30,633
+I was like the Tin Man,
+perfectly content
+
+228
+00:09:30,635 --> 00:09:32,969
+until that evil Wizard
+gave him a heart.
+
+229
+00:09:35,040 --> 00:09:38,241
+I don't think that was
+the point of the movie.
+
+230
+00:09:38,243 --> 00:09:39,709
+Fine, then I was like Pinocchio
+
+231
+00:09:39,711 --> 00:09:43,312
+before that jerk Geppetto
+went and made him a real boy.
+
+232
+00:09:43,314 --> 00:09:45,515
+There you go.
+
+233
+00:09:47,719 --> 00:09:49,385
+So, what are you
+thinking for dinner?
+
+234
+00:09:49,387 --> 00:09:50,486
+Well, it's Thai food night.
+
+235
+00:09:50,488 --> 00:09:51,587
+Well, honey,
+
+236
+00:09:51,589 --> 00:09:52,922
+you don't live
+with Sheldon anymore.
+
+237
+00:09:52,924 --> 00:09:54,524
+You can have anything you want.
+
+238
+00:09:54,526 --> 00:09:56,859
+You're right.
+
+239
+00:09:56,861 --> 00:09:58,227
+But what?
+
+240
+00:09:59,197 --> 00:10:00,263
+Mexican?
+
+241
+00:10:00,265 --> 00:10:01,664
+Italian? German?
+
+242
+00:10:01,666 --> 00:10:02,999
+Indian? Greek?
+
+243
+00:10:03,001 --> 00:10:04,233
+Cuban? Chinese?
+
+244
+00:10:04,235 --> 00:10:05,234
+Pizza? Barbecue?
+
+245
+00:10:05,236 --> 00:10:08,204
+Korean? Korean barbecue?
+
+246
+00:10:09,007 --> 00:10:10,173
+How about Thai food?
+
+247
+00:10:10,175 --> 00:10:12,041
+Oh, thank God
+
+248
+00:10:15,046 --> 00:10:17,280
+Hey, we're going to dinner.
+You want to come?
+
+249
+00:10:17,282 --> 00:10:18,948
+Oh, I wish I could,
+
+250
+00:10:18,950 --> 00:10:22,151
+but I realized I've become
+too emotionally vulnerable,
+
+251
+00:10:22,153 --> 00:10:24,153
+so, like an operating system,
+
+252
+00:10:24,155 --> 00:10:27,256
+I'm restoring my life
+to the last stable version,
+
+253
+00:10:27,258 --> 00:10:30,593
+which was in 2003,
+the day before I met Leonard.
+
+254
+00:10:32,063 --> 00:10:33,863
+You heard him, no.
+
+255
+00:10:33,865 --> 00:10:35,164
+Hang on.
+
+256
+00:10:35,166 --> 00:10:37,467
+Wait, you actually
+think it's 2003?
+
+257
+00:10:37,469 --> 00:10:39,469
+No, just because
+I'm living my life
+
+258
+00:10:39,471 --> 00:10:41,904
+like it was 12 years ago
+doesn't mean I'm delusional.
+
+259
+00:10:41,906 --> 00:10:43,639
+And since it is 2003,
+
+260
+00:10:43,641 --> 00:10:45,441
+I don't know who you are,
+
+261
+00:10:45,443 --> 00:10:47,376
+so please exit the premises
+
+262
+00:10:47,378 --> 00:10:50,012
+before I call the police
+on my stylish new flip phone.
+
+263
+00:11:05,312 --> 00:11:07,079
+Are you doing okay?
+
+264
+00:11:07,081 --> 00:11:08,547
+I guess.
+
+265
+00:11:08,549 --> 00:11:10,782
+I'm just, you know,
+worried about Sheldon.
+
+266
+00:11:10,784 --> 00:11:12,651
+Well, come on,
+he's a grown man in his 30s
+
+267
+00:11:12,653 --> 00:11:14,286
+pretending to be
+a grown man in his 20s.
+
+268
+00:11:14,288 --> 00:11:15,487
+He's fine.
+
+269
+00:11:16,290 --> 00:11:18,657
+I hope so.
+
+270
+00:11:18,659 --> 00:11:20,692
+What else can you do?
+Move back in with him?
+
+271
+00:11:20,694 --> 00:11:22,194
+No, of course not.
+I-I just feel bad.
+
+272
+00:11:22,196 --> 00:11:23,361
+Well, so do I,
+
+273
+00:11:23,363 --> 00:11:25,731
+but don't you want to live
+with your wife
+
+274
+00:11:25,733 --> 00:11:27,265
+and set the thermostat
+
+275
+00:11:27,267 --> 00:11:28,366
+to whatever you want
+
+276
+00:11:28,368 --> 00:11:29,901
+and have your body tell you
+
+277
+00:11:29,903 --> 00:11:31,570
+when it's time to go
+to the bathroom,
+
+278
+00:11:31,572 --> 00:11:32,604
+you know, not a schedule slipped
+
+279
+00:11:32,606 --> 00:11:35,140
+underneath your door
+every morning?
+
+280
+00:11:35,142 --> 00:11:38,376
+I did like that he had
+the weather on it.
+
+281
+00:11:39,847 --> 00:11:41,980
+Trust me,
+this is the right thing.
+
+282
+00:11:41,982 --> 00:11:43,215
+I know.
+
+283
+00:11:43,217 --> 00:11:44,816
+And it's not like
+we're abandoning him.
+
+284
+00:11:44,818 --> 00:11:45,984
+Plus,
+
+285
+00:11:45,986 --> 00:11:48,320
+we can FaceTime him
+whenever we want,
+
+286
+00:11:48,322 --> 00:11:52,257
+you know, once iPhones
+are invented in his universe.
+
+287
+00:11:55,596 --> 00:11:58,230
+I can't believe Sheldon
+
+288
+00:11:58,232 --> 00:11:59,564
+asked you to be his roommate.
+
+289
+00:11:59,566 --> 00:12:03,201
+I can't believe
+he ran my credit.
+
+290
+00:12:03,203 --> 00:12:05,704
+Hey, if you're open to living
+with someone great,
+
+291
+00:12:05,706 --> 00:12:08,173
+I'll give you $1,000
+to take Stuart.
+
+292
+00:12:09,209 --> 00:12:11,109
+You really should've gone
+on the Internet
+
+293
+00:12:11,111 --> 00:12:13,044
+and checked how long
+that kind of thing lives
+
+294
+00:12:13,046 --> 00:12:14,946
+before you got one.
+
+295
+00:12:14,948 --> 00:12:16,515
+I'm sorry.
+
+296
+00:12:16,517 --> 00:12:17,716
+I just thought you might have
+
+297
+00:12:17,718 --> 00:12:20,685
+a pasty, weirdo-shaped hole
+in your life.
+
+298
+00:12:20,687 --> 00:12:23,054
+Hey, I know Sheldon's quirky,
+
+299
+00:12:23,056 --> 00:12:24,823
+but he's also brilliant
+and insightful.
+
+300
+00:12:26,026 --> 00:12:28,760
+I think calling him a weirdo
+is a little unfair.
+
+301
+00:12:28,762 --> 00:12:31,129
+Hello, 2003!
+
+302
+00:12:33,867 --> 00:12:36,034
+Hey, we brought you Thai.
+
+303
+00:12:38,005 --> 00:12:39,304
+Where is everything?
+
+304
+00:12:39,306 --> 00:12:41,306
+In my present,
+it's in the future.
+
+305
+00:12:41,308 --> 00:12:43,909
+In your present,
+it's been crammed in the bedroom
+
+306
+00:12:43,911 --> 00:12:45,343
+by an enterprising young man
+
+307
+00:12:45,345 --> 00:12:48,280
+I met in The Home Depot
+parking lot.
+
+308
+00:12:49,316 --> 00:12:50,816
+I know what you're doing.
+
+309
+00:12:50,818 --> 00:12:52,918
+You're trying to get attention
+so we'll feel bad for you,
+
+310
+00:12:52,920 --> 00:12:54,386
+but it's not happening.
+
+311
+00:12:54,388 --> 00:12:56,254
+No, what I'm doing
+is trying to figure out
+
+312
+00:12:56,256 --> 00:12:58,857
+how to live my life now
+that everyone is leaving me.
+
+313
+00:12:58,859 --> 00:13:01,126
+Will you knock it off?
+We're across the hall.
+
+314
+00:13:01,128 --> 00:13:03,995
+As the kids are saying today,
+"talk to the hand."
+
+315
+00:13:05,432 --> 00:13:07,432
+They're not saying that.
+
+316
+00:13:07,434 --> 00:13:10,502
+They are in 2003.
+
+317
+00:13:10,504 --> 00:13:13,171
+No, they're really not.
+
+318
+00:13:15,843 --> 00:13:18,677
+♪ Thor and Dr. Jones ♪
+
+319
+00:13:18,679 --> 00:13:21,193
+♪ Thor and Dr. Jones ♪
+
+320
+00:13:21,195 --> 00:13:22,728
+♪ One runs from Loki ♪
+
+321
+00:13:22,730 --> 00:13:26,265
+♪ The other runs from stones. ♪
+
+322
+00:13:27,067 --> 00:13:29,334
+So, what do you think?
+
+323
+00:13:29,336 --> 00:13:31,436
+Wow.
+
+324
+00:13:31,438 --> 00:13:34,406
+Runs from stones means
+that-that big boulder,
+
+325
+00:13:34,408 --> 00:13:36,675
+but I couldn't rhyme anything
+with boulder.
+
+326
+00:13:36,677 --> 00:13:39,111
+Colder, shoulder,
+
+327
+00:13:39,113 --> 00:13:40,579
+soldier, folder...
+
+328
+00:13:40,581 --> 00:13:42,314
+Right, yeah, right.
+
+329
+00:13:42,316 --> 00:13:43,849
+But...
+
+330
+00:13:43,851 --> 00:13:45,684
+what do you think?
+
+331
+00:13:45,686 --> 00:13:47,519
+I think it's very cute.
+
+332
+00:13:47,521 --> 00:13:49,154
+Cute? It's not cute.
+
+333
+00:13:49,156 --> 00:13:52,190
+Cute is children dressed
+as vegetables.
+
+334
+00:13:54,228 --> 00:13:56,828
+Okay, fine, it's not cute.
+
+335
+00:13:56,830 --> 00:13:58,397
+Just be honest.
+You don't like it.
+
+336
+00:13:58,399 --> 00:13:59,564
+I didn't say that.
+
+337
+00:13:59,566 --> 00:14:02,000
+I-I just like music
+you can dance to.
+
+338
+00:14:02,002 --> 00:14:03,835
+You can dance to this!
+
+339
+00:14:03,837 --> 00:14:05,704
+Um, uh, uh...
+
+340
+00:14:05,706 --> 00:14:08,607
+♪ Thor and Dr. Jones ♪
+
+341
+00:14:08,609 --> 00:14:10,976
+♪ Thor and Dr. Jones ♪
+
+342
+00:14:10,978 --> 00:14:12,311
+♪ One plays with lightning ♪
+
+343
+00:14:12,313 --> 00:14:15,080
+♪ The other plays with bones. ♪
+
+344
+00:14:16,951 --> 00:14:19,418
+I'm telling you, dude,
+the song has no groove.
+
+345
+00:14:19,420 --> 00:14:21,453
+You can't dance to it.
+
+346
+00:14:21,455 --> 00:14:23,055
+Who cares?
+
+347
+00:14:23,057 --> 00:14:24,923
+I thought the whole point
+of Footprints on the Moon
+
+348
+00:14:24,925 --> 00:14:27,492
+was to write songs
+that make people think.
+
+349
+00:14:27,494 --> 00:14:28,827
+You can do both,
+
+350
+00:14:28,829 --> 00:14:31,363
+like Michael Jackson's
+"Billie Jean."
+
+351
+00:14:31,365 --> 00:14:32,631
+While you're dancing
+you're thinking, like,
+
+352
+00:14:32,633 --> 00:14:35,400
+"Darn it, whose baby is it?"
+
+353
+00:14:37,838 --> 00:14:39,338
+Where's this coming from?
+
+354
+00:14:39,340 --> 00:14:41,773
+A few hours ago,
+we both loved this song.
+
+355
+00:14:41,775 --> 00:14:43,108
+I still love it.
+
+356
+00:14:43,110 --> 00:14:45,043
+I just think there's
+room for improvement.
+
+357
+00:14:45,045 --> 00:14:47,713
+You played it for Emily,
+didn't you?
+
+358
+00:14:47,715 --> 00:14:49,381
+Yeah, so what?
+You are such a wimp.
+
+359
+00:14:49,383 --> 00:14:51,984
+She didn't like it,
+now you don't like it.
+
+360
+00:14:51,986 --> 00:14:55,020
+No, no. I'm just evolving
+as a musician.
+
+361
+00:14:55,022 --> 00:14:57,689
+You're the one who's stuck
+in the past.
+
+362
+00:14:57,691 --> 00:15:00,459
+The past was lunch!
+
+363
+00:15:02,396 --> 00:15:04,062
+You know
+what's really happening here?
+
+364
+00:15:04,064 --> 00:15:07,132
+Your girlfriend
+is breaking up our band.
+
+365
+00:15:08,569 --> 00:15:09,901
+She has nothing to do with this.
+
+366
+00:15:09,903 --> 00:15:11,203
+I am my own man.
+
+367
+00:15:11,205 --> 00:15:12,604
+Oh, please. Your brain belongs
+
+368
+00:15:12,606 --> 00:15:14,840
+to whoever's willing
+to sleep with you.
+
+369
+00:15:14,842 --> 00:15:16,074
+That is so not true.
+Really?
+
+370
+00:15:16,076 --> 00:15:17,542
+Remember when you were gonna
+get circumcised
+
+371
+00:15:17,544 --> 00:15:19,678
+for Rachel Bernstein?
+
+372
+00:15:19,680 --> 00:15:22,180
+That had nothing to do
+with Rachel.
+
+373
+00:15:22,182 --> 00:15:25,183
+It was an overreaction
+to a bad zipper injury.
+
+374
+00:15:28,122 --> 00:15:29,521
+I don't need this.
+
+375
+00:15:29,523 --> 00:15:31,623
+I'm quitting the band!
+
+376
+00:15:31,625 --> 00:15:32,924
+Fine, I quit, too!
+
+377
+00:15:32,926 --> 00:15:34,393
+Then get out of my house!
+
+378
+00:15:34,395 --> 00:15:36,595
+With pleasure!
+
+379
+00:15:44,405 --> 00:15:45,437
+Raj, wait.
+
+380
+00:15:45,439 --> 00:15:47,639
+What took you so long?
+
+381
+00:15:50,077 --> 00:15:51,143
+Buddy, I know me
+
+382
+00:15:51,145 --> 00:15:53,478
+moving in with Penny
+feels like a big change,
+
+383
+00:15:53,480 --> 00:15:54,813
+but it's not.
+
+384
+00:15:54,815 --> 00:15:56,014
+How can you say that?
+
+385
+00:15:56,016 --> 00:15:57,015
+Amy's gone,
+
+386
+00:15:57,017 --> 00:15:58,617
+and you two are married now,
+
+387
+00:15:58,619 --> 00:16:01,319
+so it's only a matter of time
+before you're gone, too.
+
+388
+00:16:01,321 --> 00:16:02,788
+Okay, you don't know
+what's gonna happen.
+
+389
+00:16:02,790 --> 00:16:03,955
+No, I do.
+
+390
+00:16:03,957 --> 00:16:05,524
+Eventually you'll want
+more space,
+
+391
+00:16:05,526 --> 00:16:06,892
+and you'll move into a house,
+
+392
+00:16:06,894 --> 00:16:09,061
+and then instead of dinner
+a couple of times a week,
+
+393
+00:16:09,063 --> 00:16:10,629
+it'll only be a couple
+of times a month,
+
+394
+00:16:10,631 --> 00:16:11,830
+and then it'll only be
+
+395
+00:16:11,832 --> 00:16:13,131
+on special occasions,
+
+396
+00:16:13,133 --> 00:16:16,468
+like when Bernadette
+divorces Wolowitz.
+
+397
+00:16:17,304 --> 00:16:19,004
+Or-or-or like
+
+398
+00:16:19,006 --> 00:16:20,605
+when Koothrappali's
+weird girlfriend
+
+399
+00:16:20,607 --> 00:16:23,108
+admits where she buried
+his body.
+
+400
+00:16:24,812 --> 00:16:26,044
+Or Amy's wedding,
+
+401
+00:16:26,046 --> 00:16:28,713
+where she's marrying
+someone better than me.
+
+402
+00:16:28,715 --> 00:16:31,183
+Okay, look,
+
+403
+00:16:31,185 --> 00:16:33,285
+we don't need
+to rush into anything.
+
+404
+00:16:33,287 --> 00:16:34,586
+All right?
+
+405
+00:16:34,588 --> 00:16:37,155
+Maybe instead of Leonard
+moving in with me,
+
+406
+00:16:37,157 --> 00:16:40,025
+we just leave things
+the way they are,
+
+407
+00:16:40,027 --> 00:16:41,326
+and...
+
+408
+00:16:41,328 --> 00:16:42,894
+sometimes we'll sleep
+over there,
+
+409
+00:16:42,896 --> 00:16:45,363
+and sometimes
+we'll sleep over here.
+
+410
+00:16:45,365 --> 00:16:48,033
+But mostly here.
+
+411
+00:16:49,203 --> 00:16:50,602
+Sure.
+
+412
+00:16:50,604 --> 00:16:52,671
+W-W-What about what you
+said in the restaurant?
+
+413
+00:16:52,673 --> 00:16:53,705
+Well, it's not forever.
+
+414
+00:16:53,707 --> 00:16:55,307
+It's just for a while.
+
+415
+00:16:55,309 --> 00:16:58,677
+If you want, we can think of him
+like he's our dog.
+
+416
+00:16:58,679 --> 00:17:00,812
+You can.
+
+417
+00:17:01,582 --> 00:17:03,215
+I'm happy when you come home.
+
+418
+00:17:04,384 --> 00:17:06,451
+And I'm scared of fireworks.
+
+419
+00:17:06,453 --> 00:17:09,988
+And by the way, on July Fourth,
+we're all sleeping here.
+
+420
+00:17:09,990 --> 00:17:12,257
+Fine.
+
+421
+00:17:12,259 --> 00:17:13,358
+All right, great!
+
+422
+00:17:13,360 --> 00:17:14,559
+Just give me one minute,
+
+423
+00:17:14,561 --> 00:17:16,728
+and I'll get started
+on a new Roommate Agreement.
+
+424
+00:17:16,730 --> 00:17:17,863
+Yeah.
+
+425
+00:17:17,865 --> 00:17:19,164
+Nothing from Pratt. We're good.
+
+426
+00:17:28,699 --> 00:17:31,166
+♪ Indy' whip snapped ♪
+
+427
+00:17:31,168 --> 00:17:33,668
+♪ Thor's hammer missed ♪
+
+428
+00:17:33,670 --> 00:17:36,538
+♪ It was Avenger ♪
+
+429
+00:17:36,540 --> 00:17:39,841
+♪ Versus archeologist ♪
+
+430
+00:17:40,544 --> 00:17:42,511
+♪ Indy held his ground ♪
+
+431
+00:17:42,513 --> 00:17:45,647
+♪ And straightened his fedora ♪
+
+432
+00:17:45,649 --> 00:17:48,049
+♪ Thor said,
+"That's a nice look ♪
+
+433
+00:17:48,051 --> 00:17:51,520
+♪ In 1944-a" ♪
+
+434
+00:17:54,758 --> 00:17:57,259
+♪ Thor and Dr. Jones ♪
+
+435
+00:17:57,261 --> 00:17:59,928
+♪ Thor and Dr. Jones ♪
+
+436
+00:17:59,930 --> 00:18:01,797
+♪ One plays with lightning ♪
+
+437
+00:18:01,799 --> 00:18:05,066
+♪ The other plays bones ♪
+
+438
+00:18:06,537 --> 00:18:08,003
+♪ Thor and Dr. Jones ♪
+
+439
+00:18:08,005 --> 00:18:09,404
+♪ Thor and Dr. Jones ♪
+
+440
+00:18:09,406 --> 00:18:11,139
+♪ Thor and Dr. Jones ♪
+
+441
+00:18:11,141 --> 00:18:13,575
+♪ One plays with lightning ♪
+
+442
+00:18:13,577 --> 00:18:18,046
+♪ The other plays bones. ♪
+
+443
+00:18:19,283 --> 00:18:21,049
+Play something we can dance to.
+
+444
+00:18:23,659 --> 00:18:30,159
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -1,0 +1,2170 @@
+﻿1
+00:00:03,303 --> 00:00:06,771
+Uh, One dumpling left.
+Who wants it?
+
+2
+00:00:06,773 --> 00:00:09,874
+Maybe you should offer it
+to the pregnant lady.
+
+3
+00:00:09,876 --> 00:00:12,577
+And that would be...
+
+4
+00:00:14,314 --> 00:00:15,814
+Me, Sheldon.
+
+5
+00:00:15,816 --> 00:00:16,948
+I'm obviously pregnant.
+
+6
+00:00:16,950 --> 00:00:19,084
+Well, you never
+said it to my face.
+
+7
+00:00:19,086 --> 00:00:20,985
+And the last time I assumed
+a woman was pregnant,
+
+8
+00:00:20,987 --> 00:00:23,021
+it did not go over well.
+
+9
+00:00:23,023 --> 00:00:25,824
+Yeah, I'm still mad at you.
+
+10
+00:00:25,826 --> 00:00:28,326
+You were drinking water
+instead of wine.
+
+11
+00:00:28,328 --> 00:00:29,661
+What was I supposed
+to think?
+
+12
+00:00:29,663 --> 00:00:31,596
+Sheldon's right.
+
+13
+00:00:31,598 --> 00:00:33,798
+I would never ask a woman
+if she was pregnant,
+
+14
+00:00:33,800 --> 00:00:36,835
+unless she tells me
+or I see a human being
+
+15
+00:00:36,837 --> 00:00:38,770
+wiggling out of her.
+
+16
+00:00:40,340 --> 00:00:42,006
+Well, Sheldon,
+I'm pregnant.
+
+17
+00:00:42,008 --> 00:00:44,509
+Congratulations.
+How far along are you?
+
+18
+00:00:44,511 --> 00:00:45,677
+About three months.
+
+19
+00:00:45,679 --> 00:00:47,846
+Only three?
+
+20
+00:00:48,915 --> 00:00:52,117
+Good gravy, how many
+babies are in there?
+
+21
+00:00:53,286 --> 00:00:54,719
+Okay, let's talk
+about something
+
+22
+00:00:54,721 --> 00:00:58,490
+that won't infuriate
+my pregnant wife.
+
+23
+00:00:58,492 --> 00:01:00,525
+I read an interesting fact
+about elephants.
+
+24
+00:01:00,527 --> 00:01:03,595
+Try again.
+
+25
+00:01:03,597 --> 00:01:04,796
+Oh, I've got something.
+
+26
+00:01:04,798 --> 00:01:07,298
+I'm being interviewed
+on public radio this Friday.
+
+27
+00:01:07,300 --> 00:01:08,466
+Oh, cool. How come?
+
+28
+00:01:08,468 --> 00:01:10,235
+Uh, the university is trying
+to get more funding
+
+29
+00:01:10,237 --> 00:01:11,302
+for the physics department,
+
+30
+00:01:11,304 --> 00:01:12,937
+so they want me to
+go out and talk it up.
+
+31
+00:01:12,939 --> 00:01:14,773
+Really? You?
+
+32
+00:01:17,878 --> 00:01:21,246
+Well, they picked the right
+person for the job.
+
+33
+00:01:21,248 --> 00:01:22,347
+Thank you.
+
+34
+00:01:22,349 --> 00:01:24,983
+I think he bought it.
+
+35
+00:01:26,052 --> 00:01:29,654
+♪ Our whole universe
+was in a hot, dense state ♪
+
+36
+00:01:29,656 --> 00:01:32,991
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+37
+00:01:32,993 --> 00:01:34,626
+♪ The Earth began to cool ♪
+
+38
+00:01:34,628 --> 00:01:37,162
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+39
+00:01:37,164 --> 00:01:39,831
+♪ We built the Wall ♪
+♪ <i>We built the pyramids</i> ♪
+
+40
+00:01:39,833 --> 00:01:42,500
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+41
+00:01:42,502 --> 00:01:44,402
+♪ That all started
+with a big bang ♪
+
+42
+00:01:44,404 --> 00:01:45,394
+♪ <i>Bang!</i> ♪
+
+43
+00:01:45,395 --> 00:01:49,395
+<b><font color="#00FF00">♪ The Big Bang Theory 11x02 ♪</font></b>
+<font color="#00FFFF">The Retraction Reaction</font>
+Original Air Date
+
+44
+00:01:49,396 --> 00:01:55,096
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+45
+00:01:55,120 --> 00:01:57,954
+Hi, I'm Ira Flatow,
+and this is <i>Science Friday.</i>
+
+46
+00:01:57,956 --> 00:01:59,256
+Joining me today
+
+47
+00:01:59,258 --> 00:02:00,891
+is my guest physicist,
+Dr. Leonard Hofstadter,
+
+48
+00:02:00,893 --> 00:02:02,492
+to talk about
+
+49
+00:02:02,494 --> 00:02:05,562
+all of the exciting research
+they're doing at Cal Tech.
+
+50
+00:02:05,564 --> 00:02:08,031
+Thank you for having me.
+Whoa...
+
+51
+00:02:08,033 --> 00:02:10,267
+Could never get used to
+hearing myself in headphones.
+
+52
+00:02:10,269 --> 00:02:11,501
+Is that really how I sound?
+
+53
+00:02:11,503 --> 00:02:14,037
+It is. It is.
+
+54
+00:02:14,039 --> 00:02:17,107
+That is good to know.
+
+55
+00:02:17,109 --> 00:02:19,042
+I told him his voice
+was annoying.
+
+56
+00:02:19,044 --> 00:02:21,111
+He didn't want to listen.
+
+57
+00:02:21,113 --> 00:02:22,245
+Hey...
+
+58
+00:02:22,247 --> 00:02:23,980
+You're saying it's not?
+
+59
+00:02:23,982 --> 00:02:26,750
+Just... hey.
+
+60
+00:02:26,752 --> 00:02:29,219
+So, it has been five years
+
+61
+00:02:29,221 --> 00:02:31,221
+since the discovery
+of the Higgs boson--
+
+62
+00:02:31,223 --> 00:02:33,557
+what's the next big thing
+gonna be?
+
+63
+00:02:33,559 --> 00:02:35,025
+Wow, that's hard to say.
+
+64
+00:02:35,027 --> 00:02:36,226
+There's so much going on.
+
+65
+00:02:36,228 --> 00:02:37,928
+We've been collecting
+tons of data
+
+66
+00:02:37,930 --> 00:02:40,797
+that could revolutionize the way
+we understand the universe.
+
+67
+00:02:40,799 --> 00:02:43,400
+For instance, there's a particle
+called a squark,
+
+68
+00:02:43,402 --> 00:02:45,368
+which could prove supersymmetry.
+
+69
+00:02:45,370 --> 00:02:47,203
+That is interesting.
+Have you found it?
+
+70
+00:02:47,205 --> 00:02:48,672
+- What, the squark?
+- Yes.
+
+71
+00:02:48,674 --> 00:02:50,674
+No, no.
+
+72
+00:02:51,410 --> 00:02:53,843
+Wouldn't that be exciting?
+
+73
+00:02:53,845 --> 00:02:56,079
+But we're also looking
+for the selectron,
+
+74
+00:02:56,081 --> 00:02:57,514
+the gluino and the neutralino.
+
+75
+00:02:57,516 --> 00:03:00,417
+- Well, and have you found that?
+- No.
+
+76
+00:03:00,419 --> 00:03:02,085
+Another fun sidenote--
+
+77
+00:03:02,087 --> 00:03:05,221
+I went to high school with
+a girl named Theresa Gluino,
+
+78
+00:03:05,223 --> 00:03:07,924
+but it didn't cost $2 billion
+to find her.
+
+79
+00:03:07,926 --> 00:03:10,727
+She was smoking behind the gym.
+
+80
+00:03:12,030 --> 00:03:13,663
+So, what have you found?
+
+81
+00:03:13,665 --> 00:03:14,998
+Uh, nothing, actually.
+
+82
+00:03:15,000 --> 00:03:16,600
+Should he be saying that?
+
+83
+00:03:16,602 --> 00:03:18,735
+Uh, probably not.
+
+84
+00:03:18,737 --> 00:03:20,303
+Yeah, this is public radio.
+
+85
+00:03:20,305 --> 00:03:23,473
+Doesn't he realize that dozens
+of people might hear him?
+
+86
+00:03:25,010 --> 00:03:27,010
+But I remain confident.
+
+87
+00:03:27,012 --> 00:03:29,379
+We've got the best equipment
+and the best minds
+
+88
+00:03:29,381 --> 00:03:30,680
+all working on it.
+
+89
+00:03:30,682 --> 00:03:32,716
+Okay, sounds like
+he's back on track.
+
+90
+00:03:32,718 --> 00:03:34,084
+Although, some days
+
+91
+00:03:34,086 --> 00:03:35,418
+I'm, like, ugh...
+
+92
+00:03:35,420 --> 00:03:37,053
+we've spent so much <i>money.</i>
+
+93
+00:03:37,055 --> 00:03:40,890
+Why haven't we found <i>anything?</i>
+What are we <i>doing?</i>
+
+94
+00:03:43,395 --> 00:03:45,695
+Oh, boy.
+
+95
+00:03:49,001 --> 00:03:50,834
+There's Leonard.
+
+96
+00:03:50,836 --> 00:03:53,236
+I'll bet he's having
+a rough day.
+
+97
+00:03:53,238 --> 00:03:54,571
+Let's just try to be supportive.
+
+98
+00:03:54,573 --> 00:03:55,939
+Supportive?
+
+99
+00:03:55,941 --> 00:03:58,008
+He publicly maligned
+the love of my life,
+
+100
+00:03:58,010 --> 00:04:00,310
+Lady Physics.
+
+101
+00:04:00,312 --> 00:04:03,780
+You might not want to
+mention that to Lady Fiancée.
+
+102
+00:04:03,782 --> 00:04:05,715
+Hey, guys.
+
+103
+00:04:05,717 --> 00:04:07,384
+Hey, how's it going?
+
+104
+00:04:10,022 --> 00:04:12,555
+What?
+You got something to say?
+
+105
+00:04:12,557 --> 00:04:15,892
+I think I just said it.
+
+106
+00:04:15,894 --> 00:04:17,827
+P-F-F.
+
+107
+00:04:18,730 --> 00:04:20,497
+Pff!
+
+108
+00:04:23,001 --> 00:04:25,135
+Look, I-I was just
+speaking the truth.
+
+109
+00:04:25,137 --> 00:04:27,704
+We're scientists-- isn't that
+what we're supposed to do?
+
+110
+00:04:27,706 --> 00:04:29,139
+Oh, what would you know
+about the truth?
+
+111
+00:04:29,141 --> 00:04:32,676
+You thought <i>Phantom Menace</i>
+was "not half bad."
+
+112
+00:04:33,679 --> 00:04:35,979
+I told you that in confidence!
+
+113
+00:04:35,981 --> 00:04:40,083
+Okay, calm down.
+Everybody just cool it.
+
+114
+00:04:40,085 --> 00:04:41,217
+No, let 'em go.
+If we get lucky,
+
+115
+00:04:41,219 --> 00:04:43,219
+maybe one of them
+will start crying.
+
+116
+00:04:43,221 --> 00:04:47,223
+Uh, can we just drop this
+and have lunch like adults?
+
+117
+00:04:47,225 --> 00:04:49,559
+- Fine.
+- Very well.
+
+118
+00:04:51,430 --> 00:04:52,796
+- Leonard?
+- What?
+
+119
+00:04:52,798 --> 00:04:54,964
+Pff!
+
+120
+00:04:57,869 --> 00:04:59,302
+You ready for lunch?
+
+121
+00:04:59,304 --> 00:05:01,237
+Oh, one second.
+
+122
+00:05:01,239 --> 00:05:04,174
+Ooh, someone's got a lot
+of fancy new lab equipment.
+
+123
+00:05:04,176 --> 00:05:07,577
+I know. The university has been
+throwing money at my study.
+
+124
+00:05:07,579 --> 00:05:09,212
+With any luck,
+there'll be a brain disease
+
+125
+00:05:09,214 --> 00:05:10,613
+with my name on it.
+
+126
+00:05:10,615 --> 00:05:12,615
+Fingers crossed.
+
+127
+00:05:12,617 --> 00:05:15,685
+Which is ironic, because
+if you had Fowler's palsy,
+
+128
+00:05:15,687 --> 00:05:17,554
+you wouldn't be able
+to cross your fingers.
+
+129
+00:05:19,591 --> 00:05:21,291
+I'm surprised Sheldon's
+not up here playing
+
+130
+00:05:21,293 --> 00:05:22,659
+with all your new toys.
+
+131
+00:05:22,661 --> 00:05:24,561
+Actually, I haven't
+told him about it.
+
+132
+00:05:24,563 --> 00:05:26,763
+We've been getting so much
+more funding than physics,
+
+133
+00:05:26,765 --> 00:05:28,264
+he's been a little sensitive.
+
+134
+00:05:28,266 --> 00:05:30,834
+So you're just gonna hide
+your success from him?
+
+135
+00:05:30,836 --> 00:05:32,168
+I know.
+
+136
+00:05:32,170 --> 00:05:34,437
+- Am I terrible?
+- No.
+
+137
+00:05:34,439 --> 00:05:36,439
+I do that, too.
+
+138
+00:05:37,476 --> 00:05:40,210
+How he thought my company
+retreat was in Boise?
+
+139
+00:05:40,212 --> 00:05:43,279
+It was in Tahiti.
+
+140
+00:05:43,281 --> 00:05:44,981
+That's such a relief.
+
+141
+00:05:44,983 --> 00:05:47,517
+I mean, part of me was worried
+I was being unfair to Sheldon.
+
+142
+00:05:47,519 --> 00:05:49,819
+Take that part of yourself
+and hide it away.
+
+143
+00:05:49,821 --> 00:05:51,821
+Just like I did with
+last year's bonus check
+
+144
+00:05:51,823 --> 00:05:53,356
+that I "didn't get."
+
+145
+00:05:58,363 --> 00:05:59,896
+Ms. Davis, you
+wanted to see me?
+
+146
+00:05:59,898 --> 00:06:02,365
+Yes, Dr. Hofstadter,
+come on in.
+
+147
+00:06:02,367 --> 00:06:04,534
+Should I sit or stand?
+
+148
+00:06:04,536 --> 00:06:06,669
+I'm not used to being called
+into the dean's office.
+
+149
+00:06:06,671 --> 00:06:08,271
+Please, sit.
+
+150
+00:06:08,273 --> 00:06:10,940
+I have to say
+I'm a little nervous.
+
+151
+00:06:10,942 --> 00:06:12,675
+You should be.
+
+152
+00:06:14,346 --> 00:06:15,712
+Look, I know I screwed up,
+
+153
+00:06:15,714 --> 00:06:17,747
+but it was only one interview.
+
+154
+00:06:17,749 --> 00:06:19,816
+How much damage
+could it have caused?
+
+155
+00:06:19,818 --> 00:06:21,918
+Would you like for me
+to read you the e-mails
+
+156
+00:06:21,920 --> 00:06:24,587
+from donors asking
+why are they giving us money
+
+157
+00:06:24,589 --> 00:06:26,156
+if physics is a dead end?
+
+158
+00:06:26,158 --> 00:06:28,191
+I didn't say it
+was a dead end.
+
+159
+00:06:28,193 --> 00:06:30,093
+I just said that I was
+worried it might be.
+
+160
+00:06:30,095 --> 00:06:32,762
+So if I just said
+I was worried
+
+161
+00:06:32,764 --> 00:06:34,564
+you might not
+have a job next week,
+
+162
+00:06:34,566 --> 00:06:37,100
+how would you feel?
+
+163
+00:06:38,136 --> 00:06:40,970
+Light-headed, and glad
+you asked me to sit down.
+
+164
+00:06:40,972 --> 00:06:43,473
+Okay, just tell me
+what I can do.
+
+165
+00:06:43,475 --> 00:06:45,208
+I'm gonna need you
+to make a statement
+
+166
+00:06:45,210 --> 00:06:47,844
+saying that you misspoke,
+and that you're confident
+
+167
+00:06:47,846 --> 00:06:50,713
+the physics community is
+close to a major breakthrough.
+
+168
+00:06:50,715 --> 00:06:52,849
+You want me to lie.
+
+169
+00:06:52,851 --> 00:06:57,353
+Look, Dr. Hofstadter,
+I'm counting on you.
+
+170
+00:06:57,355 --> 00:06:59,756
+I think that you are
+the smartest physicist
+
+171
+00:06:59,758 --> 00:07:01,591
+at this university.
+
+172
+00:07:01,593 --> 00:07:03,226
+Really?
+
+173
+00:07:03,228 --> 00:07:06,362
+See? Lies.
+They're not that hard.
+
+174
+00:07:12,037 --> 00:07:15,171
+- Hi.
+- Hello.
+
+175
+00:07:15,173 --> 00:07:17,907
+Huh. Looks like
+you've been busy.
+
+176
+00:07:17,909 --> 00:07:19,509
+Oh, I have.
+
+177
+00:07:19,511 --> 00:07:22,412
+Uh, dark matter,
+uh, reconciling gravity
+
+178
+00:07:22,414 --> 00:07:23,613
+and quantum mechanics.
+
+179
+00:07:23,615 --> 00:07:24,948
+Supersymmetry.
+
+180
+00:07:24,950 --> 00:07:28,017
+I've figured out the biggest
+problems in physics today.
+
+181
+00:07:28,019 --> 00:07:30,220
+Wow, you solved them all?
+
+182
+00:07:30,222 --> 00:07:34,023
+No, I just, I figured out that
+they're the biggest problems.
+
+183
+00:07:35,227 --> 00:07:37,727
+Is this about what
+Leonard said on the radio?
+
+184
+00:07:37,729 --> 00:07:39,295
+Absolutely not.
+
+185
+00:07:39,297 --> 00:07:41,197
+And I do not want
+to talk about Leonard.
+
+186
+00:07:41,199 --> 00:07:43,032
+Can we please just talk
+about anything else?
+
+187
+00:07:43,034 --> 00:07:44,801
+We could talk about my day.
+
+188
+00:07:44,803 --> 00:07:47,604
+Walked right into
+that one, didn't I?
+
+189
+00:07:47,606 --> 00:07:50,840
+Well, since you sort of asked,
+
+190
+00:07:50,842 --> 00:07:52,242
+I actually had a very good day.
+
+191
+00:07:52,244 --> 00:07:54,244
+Got some new equipment
+for my lab.
+
+192
+00:07:55,881 --> 00:07:58,047
+Well, congratulations.
+
+193
+00:07:58,049 --> 00:08:00,783
+I got some new equipment, too.
+
+194
+00:08:00,785 --> 00:08:04,120
+I got these markers.
+
+195
+00:08:04,122 --> 00:08:05,488
+They smell like fruit.
+
+196
+00:08:05,490 --> 00:08:06,456
+Which I did not notice
+
+197
+00:08:06,458 --> 00:08:08,424
+when I bought them.
+
+198
+00:08:08,426 --> 00:08:09,792
+Don't really care for it.
+
+199
+00:08:12,297 --> 00:08:14,530
+Here, drink this.
+
+200
+00:08:14,532 --> 00:08:16,432
+It might help.
+
+201
+00:08:16,434 --> 00:08:17,667
+What if it doesn't?
+
+202
+00:08:17,669 --> 00:08:20,803
+Well, that's why
+I brought the bottle.
+
+203
+00:08:21,907 --> 00:08:23,640
+No one would talk
+to me in the halls.
+
+204
+00:08:23,642 --> 00:08:25,308
+They just glared at me.
+
+205
+00:08:25,310 --> 00:08:27,577
+It's like high school
+all over again.
+
+206
+00:08:27,579 --> 00:08:31,047
+Oh, I would totally do
+high school all over again.
+
+207
+00:08:33,285 --> 00:08:35,652
+But that doesn't help you.
+No.
+
+208
+00:08:37,088 --> 00:08:40,156
+I got called in
+to the administration office.
+
+209
+00:08:40,158 --> 00:08:43,993
+Ooh, look at my bad boy
+getting called to the principal.
+
+210
+00:08:43,995 --> 00:08:45,929
+We don't technically
+have a principal.
+
+211
+00:08:45,931 --> 00:08:48,264
+There's a standing committee
+that oversees the budget.
+
+212
+00:08:48,266 --> 00:08:50,566
+Ooh, look at my bad boy
+answering questions
+
+213
+00:08:50,568 --> 00:08:52,402
+nobody asked.
+
+214
+00:08:52,404 --> 00:08:54,637
+Hey, come on, look,
+you said a few dumb things
+
+215
+00:08:54,639 --> 00:08:57,040
+on the radio-- what is
+the worst that could happen?
+
+216
+00:08:57,042 --> 00:09:00,176
+I may get fired.
+
+217
+00:09:00,178 --> 00:09:03,179
+Okay, well, even if you did,
+you could find another job.
+
+218
+00:09:03,181 --> 00:09:05,815
+Yeah, who wouldn't want
+to hire the physicist
+
+219
+00:09:05,817 --> 00:09:07,984
+who publicly said
+physics is dead?
+
+220
+00:09:07,986 --> 00:09:12,021
+Well, I wouldn't put that
+under "special skills."
+
+221
+00:09:12,023 --> 00:09:15,158
+I can fix it, I just need
+to write a retraction
+
+222
+00:09:15,160 --> 00:09:18,328
+I don't believe in-- basically
+sell out to keep my job.
+
+223
+00:09:18,330 --> 00:09:20,229
+Great, I'll leave you to it.
+
+224
+00:09:24,336 --> 00:09:26,536
+Hmm.
+
+225
+00:09:33,078 --> 00:09:35,278
+Hmm.
+
+226
+00:09:40,452 --> 00:09:43,086
+Oy.
+
+227
+00:09:44,255 --> 00:09:46,456
+Sheldon, it's me.
+
+228
+00:09:48,560 --> 00:09:50,226
+What?
+
+229
+00:09:50,228 --> 00:09:52,061
+Look, I know you're mad,
+but I have to write a statement
+
+230
+00:09:52,063 --> 00:09:54,497
+that says the physics community
+is close to a breakthrough,
+
+231
+00:09:54,499 --> 00:09:55,898
+and since you actually
+believe that,
+
+232
+00:09:55,900 --> 00:09:57,700
+I could really use your help.
+
+233
+00:09:57,702 --> 00:09:58,968
+Sorry, I can't.
+
+234
+00:09:58,970 --> 00:10:00,570
+Come on, don't be like that.
+
+235
+00:10:00,572 --> 00:10:03,006
+I can't, because I think
+you were right.
+
+236
+00:10:03,008 --> 00:10:04,574
+What?
+
+237
+00:10:04,576 --> 00:10:06,275
+Look.
+
+238
+00:10:06,277 --> 00:10:08,144
+Not all science pans out.
+
+239
+00:10:08,146 --> 00:10:09,579
+You know, we've
+been hoping
+
+240
+00:10:09,581 --> 00:10:11,514
+supersymmetry
+was true for decades,
+
+241
+00:10:11,516 --> 00:10:14,250
+and finally, we built
+the Large Hadron Collider,
+
+242
+00:10:14,252 --> 00:10:16,886
+which is supposed to prove it
+by finding these new particles,
+
+243
+00:10:16,888 --> 00:10:18,121
+and it-it hasn't.
+
+244
+00:10:18,123 --> 00:10:19,622
+And maybe
+supersymmetry,
+
+245
+00:10:19,624 --> 00:10:21,991
+our last big idea,
+is simply wrong.
+
+246
+00:10:23,428 --> 00:10:26,396
+Well, that sounds awful.
+
+247
+00:10:26,398 --> 00:10:29,665
+Now I get why everyone hates me.
+
+248
+00:10:29,667 --> 00:10:31,100
+Well, on the bright side,
+
+249
+00:10:31,102 --> 00:10:33,002
+after working together
+for 15 years,
+
+250
+00:10:33,004 --> 00:10:36,005
+you finally get to hear me say,
+"You were right."
+
+251
+00:10:38,176 --> 00:10:41,144
+Oh, yeah, you did.
+
+252
+00:10:41,146 --> 00:10:42,178
+How's it feel?
+
+253
+00:10:42,180 --> 00:10:43,980
+Mm, given I might be unemployed,
+
+254
+00:10:43,982 --> 00:10:45,515
+bittersweet.
+
+255
+00:10:54,934 --> 00:10:56,968
+Read it back to me?
+Oh, hang on.
+
+256
+00:10:56,970 --> 00:11:00,071
+"Yes, one might question
+the $20 billion
+
+257
+00:11:00,073 --> 00:11:02,139
+"to build and run
+the Large Hadron Collider,
+
+258
+00:11:02,141 --> 00:11:04,475
+but on the other hand..."
+
+259
+00:11:09,148 --> 00:11:11,115
+Okay. Um...
+
+260
+00:11:11,117 --> 00:11:13,918
+Oh, oh! "On the other hand,
+contrary to predictions,
+
+261
+00:11:13,920 --> 00:11:17,555
+"the collider didn't create
+a small black hole
+
+262
+00:11:17,557 --> 00:11:19,623
+"that devoured the Earth
+and life as we know it.
+
+263
+00:11:19,625 --> 00:11:23,127
+So, s-- money well spent."
+
+264
+00:11:24,964 --> 00:11:26,764
+This is depressing.
+
+265
+00:11:26,766 --> 00:11:28,733
+Do you have any alcohol
+around here?
+
+266
+00:11:28,735 --> 00:11:30,901
+Uh, not surprisingly,
+when Penny moved out,
+
+267
+00:11:30,903 --> 00:11:33,170
+she took every last drop. Um...
+
+268
+00:11:33,172 --> 00:11:36,407
+Oh, but I do have several
+bottles of Romulan ale
+
+269
+00:11:36,409 --> 00:11:39,677
+that I bought at Comic-Con.
+
+270
+00:11:39,679 --> 00:11:43,447
+Isn't that just vodka
+with blue dye in it?
+
+271
+00:11:43,449 --> 00:11:45,416
+You-- first, physics,
+now Romulan ale.
+
+272
+00:11:45,418 --> 00:11:47,685
+What else would you like
+to defecate on?
+
+273
+00:11:49,255 --> 00:11:50,955
+Hey. I thought you
+were coming right back.
+
+274
+00:11:50,957 --> 00:11:52,056
+I was,
+
+275
+00:11:52,058 --> 00:11:53,691
+but we're both depressed,
+and decided
+
+276
+00:11:53,693 --> 00:11:55,226
+to drown our sorrows.
+
+277
+00:11:56,329 --> 00:11:57,995
+In mouthwash?
+
+278
+00:11:59,665 --> 00:12:03,234
+Man, that is so summer camp.
+
+279
+00:12:03,236 --> 00:12:06,303
+I-It's Romulan ale,
+from <i>Star Trek.</i>
+
+280
+00:12:06,305 --> 00:12:08,172
+It was briefly legalized
+during the alliance
+
+281
+00:12:08,174 --> 00:12:10,174
+between the Romulan Empire
+and the Federation
+
+282
+00:12:10,176 --> 00:12:12,043
+at the time of the Dominion War.
+
+283
+00:12:12,045 --> 00:12:14,845
+Aw, now <i>I'm</i> depressed.
+
+284
+00:12:17,116 --> 00:12:19,984
+The more I told him about
+my lab, the pissier he got.
+
+285
+00:12:19,986 --> 00:12:21,519
+You know what
+he said to me?
+
+286
+00:12:21,521 --> 00:12:23,287
+He said, "I hope
+all your correlations
+
+287
+00:12:23,289 --> 00:12:26,791
+turn out to be specious."
+
+288
+00:12:26,793 --> 00:12:28,959
+He said that to your face?
+
+289
+00:12:28,961 --> 00:12:30,461
+What a dick.
+
+290
+00:12:33,599 --> 00:12:35,566
+You know,
+you're a successful woman.
+
+291
+00:12:35,568 --> 00:12:37,568
+You should be able to brag
+about your accomplishments
+
+292
+00:12:37,570 --> 00:12:38,702
+once in a while.
+
+293
+00:12:38,704 --> 00:12:40,171
+Well, so should you.
+
+294
+00:12:40,173 --> 00:12:42,173
+I mean, the guys
+are never shy about bragging.
+
+295
+00:12:42,175 --> 00:12:44,141
+Tell me about it.
+Howie texts me
+
+296
+00:12:44,143 --> 00:12:47,411
+every time his dog levels up
+in <i>Warcraft.</i>
+
+297
+00:12:47,413 --> 00:12:49,380
+Has he ever called you
+
+298
+00:12:49,382 --> 00:12:51,549
+to tell you he found three
+peanuts in one shell?
+
+299
+00:12:51,551 --> 00:12:54,318
+'Cause Sheldon has.
+
+300
+00:12:54,320 --> 00:12:56,654
+We should be able
+to do that, too.
+
+301
+00:12:56,656 --> 00:12:59,223
+I guess we can
+brag to each other.
+
+302
+00:12:59,225 --> 00:13:00,991
+That's a great idea.
+
+303
+00:13:00,993 --> 00:13:03,561
+Damn right it is;
+I came up with it.
+
+304
+00:13:06,065 --> 00:13:07,998
+That felt good.
+
+305
+00:13:11,204 --> 00:13:13,304
+You know, there's so much money
+in pharmaceuticals,
+
+306
+00:13:13,306 --> 00:13:15,473
+we don't even wash out
+our test tubes.
+
+307
+00:13:15,475 --> 00:13:18,676
+We just throw them out
+and get new ones.
+
+308
+00:13:18,678 --> 00:13:22,913
+I just got a brand-new,
+state of the art fMRI machine.
+
+309
+00:13:22,915 --> 00:13:24,415
+Whoa. Those things
+are so expensive.
+
+310
+00:13:24,417 --> 00:13:25,716
+I know.
+
+311
+00:13:25,718 --> 00:13:29,053
+Sometimes, I just lie down
+in there and take a nap.
+
+312
+00:13:29,055 --> 00:13:30,855
+Oh.
+
+313
+00:13:30,857 --> 00:13:34,525
+It's like a million
+dollar bunk bed.
+
+314
+00:13:34,527 --> 00:13:36,961
+At the office,
+I have two assistants.
+
+315
+00:13:36,963 --> 00:13:38,095
+I don't even
+know their names,
+
+316
+00:13:38,097 --> 00:13:41,098
+I just call them
+Thing One and Thing Two.
+
+317
+00:13:42,268 --> 00:13:44,335
+That's great. I-I
+don't have assistants.
+
+318
+00:13:44,337 --> 00:13:46,337
+Oh. I guess that's one of
+the benefits
+
+319
+00:13:46,339 --> 00:13:48,239
+of being in the private sector.
+
+320
+00:13:48,241 --> 00:13:50,407
+That and all the money I make.
+
+321
+00:13:50,409 --> 00:13:53,210
+Yeah, you've got that.
+
+322
+00:13:53,212 --> 00:13:54,645
+I've got my integrity.
+
+323
+00:13:54,647 --> 00:13:57,681
+Hard to say which is better
+without making you feel bad.
+
+324
+00:14:00,453 --> 00:14:02,186
+Okay. So you guys are upset
+
+325
+00:14:02,188 --> 00:14:05,356
+because the collider thing
+disproved your theories?
+
+326
+00:14:05,358 --> 00:14:07,024
+I-It's worse than that.
+
+327
+00:14:07,026 --> 00:14:09,160
+It hasn't found anything
+in years, so we don't know
+
+328
+00:14:09,162 --> 00:14:10,694
+if we're right,
+we don't know if we're wrong.
+
+329
+00:14:10,696 --> 00:14:12,396
+We don't know where to go next.
+
+330
+00:14:12,398 --> 00:14:17,635
+All I know is it looks like
+I tongue-kissed <i>Avatar.</i>
+
+331
+00:14:17,637 --> 00:14:18,836
+Come on.
+
+332
+00:14:18,838 --> 00:14:20,371
+You guys are physicists.
+
+333
+00:14:20,373 --> 00:14:22,506
+Okay? You're always
+gonna be physicists.
+
+334
+00:14:22,508 --> 00:14:25,209
+And sure, sometimes,
+the physics is hard,
+
+335
+00:14:25,211 --> 00:14:29,647
+but isn't that
+what makes it boring?
+
+336
+00:14:30,850 --> 00:14:32,183
+- Hey.
+- We're here.
+
+337
+00:14:32,185 --> 00:14:33,384
+What's going on?
+
+338
+00:14:33,386 --> 00:14:35,920
+Okay. As far as I can see,
+science is dead,
+
+339
+00:14:35,922 --> 00:14:37,221
+'cause Leonard killed it.
+
+340
+00:14:37,223 --> 00:14:38,389
+And, uh,
+
+341
+00:14:38,391 --> 00:14:39,823
+I don't know
+who the Romulans are,
+
+342
+00:14:39,825 --> 00:14:42,193
+but those guys
+know how to party.
+
+343
+00:14:42,195 --> 00:14:44,094
+So, what do you
+want us to do?
+
+344
+00:14:44,096 --> 00:14:45,896
+I don't know. You're scientists;
+cheer them up.
+
+345
+00:14:45,898 --> 00:14:47,364
+"Cheer them up"?
+
+346
+00:14:47,366 --> 00:14:49,700
+Do you even know
+what a scientist is?
+
+347
+00:14:50,937 --> 00:14:52,836
+No, we don't need
+to be cheered up.
+
+348
+00:14:52,838 --> 00:14:55,639
+It just turns out that physics
+is exactly like <i>Lost.</i>
+
+349
+00:14:55,641 --> 00:14:59,877
+Started out great, and turns out
+just a big old waste of time.
+
+350
+00:14:59,879 --> 00:15:02,012
+Boo-hoo. You know
+what you sound like?
+
+351
+00:15:02,014 --> 00:15:03,147
+Babies.
+
+352
+00:15:03,149 --> 00:15:05,349
+Two whiny babies.
+
+353
+00:15:05,351 --> 00:15:06,550
+And there's nothing
+worse than being stuck
+
+354
+00:15:06,552 --> 00:15:10,221
+with two whiny babies!
+
+355
+00:15:10,223 --> 00:15:12,890
+Oh.
+
+356
+00:15:24,036 --> 00:15:27,304
+Oh, my God, I'm gonna
+have two babies.
+
+357
+00:15:27,306 --> 00:15:28,806
+No, no, no, no.
+Babies are great.
+
+358
+00:15:28,808 --> 00:15:30,407
+You're lucky to
+have two babies.
+
+359
+00:15:30,409 --> 00:15:31,875
+I mean, look at me,
+uh, I'm all alone.
+
+360
+00:15:31,877 --> 00:15:33,377
+I'm never gonna have babies,
+
+361
+00:15:33,379 --> 00:15:37,748
+'cause you can't make a baby
+watching Netflix with your dog.
+
+362
+00:15:42,655 --> 00:15:45,322
+Thanks for coming.
+
+363
+00:15:47,593 --> 00:15:49,460
+I may not make as
+much money as you,
+
+364
+00:15:49,462 --> 00:15:50,995
+but at least I know that
+I'm actually doing something
+
+365
+00:15:50,997 --> 00:15:52,963
+that makes people's
+lives better.
+
+366
+00:15:52,965 --> 00:15:55,733
+Hey, my work makes
+people's lives better.
+
+367
+00:15:55,735 --> 00:15:58,502
+Especially if you have
+moderate to severe eczema
+
+368
+00:15:58,504 --> 00:16:00,971
+and don't mind
+if you lose teeth.
+
+369
+00:16:00,973 --> 00:16:03,173
+You're right.
+
+370
+00:16:03,175 --> 00:16:05,009
+We both do important work.
+
+371
+00:16:05,011 --> 00:16:06,877
+I'm trying to map the
+structures of the brain,
+
+372
+00:16:06,879 --> 00:16:08,212
+and you're trying
+to convince people
+
+373
+00:16:08,214 --> 00:16:11,448
+that itchy hair
+is a real thing.
+
+374
+00:16:11,450 --> 00:16:13,417
+It is a real thing.
+
+375
+00:16:13,419 --> 00:16:18,522
+It happens to be a side effect
+of our cholesterol drug.
+
+376
+00:16:18,524 --> 00:16:20,624
+I'm just saying
+that my research
+
+377
+00:16:20,626 --> 00:16:23,661
+may actually change
+the world forever.
+
+378
+00:16:23,663 --> 00:16:25,029
+I hope it does.
+
+379
+00:16:25,031 --> 00:16:27,197
+'Cause I'm gonna see
+that world from a yacht so big,
+
+380
+00:16:27,199 --> 00:16:30,434
+you can land
+a helicopter on it.
+
+381
+00:16:35,841 --> 00:16:38,042
+Physics is all
+we're cut out for.
+
+382
+00:16:38,044 --> 00:16:41,912
+I mean, if we weren't
+physicists, w-what would we be?
+
+383
+00:16:41,914 --> 00:16:44,515
+I don't know. Popular?
+
+384
+00:16:44,517 --> 00:16:46,417
+Mm-hmm.
+
+385
+00:16:46,419 --> 00:16:49,553
+It's fine. I don't need
+to be a theoretical physicist.
+
+386
+00:16:49,555 --> 00:16:52,122
+There's lots of things
+I could use this brain for.
+
+387
+00:16:52,124 --> 00:16:56,060
+I could be an accountant
+for the mob.
+
+388
+00:16:57,229 --> 00:17:01,131
+I could guess
+people's weight at the fair.
+
+389
+00:17:01,133 --> 00:17:03,534
+Okay. This is getting silly.
+
+390
+00:17:03,536 --> 00:17:05,002
+Is it?
+
+391
+00:17:05,004 --> 00:17:06,503
+180.
+
+392
+00:17:09,175 --> 00:17:10,741
+Okay.
+
+393
+00:17:10,743 --> 00:17:11,909
+That is enough.
+
+394
+00:17:11,911 --> 00:17:13,577
+Your lives are not wasted.
+
+395
+00:17:13,579 --> 00:17:15,779
+Your careers are not
+at a dead end.
+
+396
+00:17:15,781 --> 00:17:17,147
+You just hit a
+rough patch.
+
+397
+00:17:17,149 --> 00:17:18,716
+Instead of feeling sorry
+for yourselves,
+
+398
+00:17:18,718 --> 00:17:20,451
+you need to get up
+and get inspired.
+
+399
+00:17:20,453 --> 00:17:21,685
+How?
+
+400
+00:17:21,687 --> 00:17:23,253
+I don't know.
+You know, when I'm feeling down,
+
+401
+00:17:23,255 --> 00:17:27,591
+I go for a run, which is exactly
+why I'm not 180 pounds, genius!
+
+402
+00:17:29,462 --> 00:17:31,395
+I know where we need to go.
+
+403
+00:17:31,397 --> 00:17:32,730
+Mm. Are we running there?
+Because watching
+
+404
+00:17:32,732 --> 00:17:36,100
+drunk Sheldon run would be
+the highlight of my life.
+
+405
+00:17:36,102 --> 00:17:37,634
+We're going to see
+
+406
+00:17:37,636 --> 00:17:38,869
+Richard Feynman.
+
+407
+00:17:38,871 --> 00:17:41,605
+Penny, Richard Feynman
+is an iconic phys...
+
+408
+00:17:41,607 --> 00:17:43,407
+I know who he is.
+Leonard dressed as him
+
+409
+00:17:43,409 --> 00:17:45,209
+for Halloween last year.
+
+410
+00:17:48,447 --> 00:17:51,882
+I had no idea
+Richard Feynman was dead.
+
+411
+00:17:51,884 --> 00:17:55,352
+Yep. Most people don't know
+he's actually buried right here
+
+412
+00:17:55,354 --> 00:17:57,054
+in Altadena.
+
+413
+00:17:57,056 --> 00:18:01,125
+I'm sure they keep a lid on that
+to avoid traffic jams.
+
+414
+00:18:02,395 --> 00:18:03,627
+Well.
+
+415
+00:18:03,629 --> 00:18:05,262
+Here he is.
+
+416
+00:18:05,264 --> 00:18:07,598
+Oh, wow.
+He's buried with his wife.
+
+417
+00:18:07,600 --> 00:18:09,333
+We get it. A lady loved you.
+
+418
+00:18:09,335 --> 00:18:11,769
+Quit bragging.
+
+419
+00:18:11,771 --> 00:18:14,638
+Feynman was so cool.
+
+420
+00:18:14,640 --> 00:18:17,040
+When I was a kid, I'd
+put on some headphones
+
+421
+00:18:17,042 --> 00:18:20,144
+and crank up one of
+his lectures and just...
+
+422
+00:18:20,146 --> 00:18:22,513
+jam out to knowledge.
+
+423
+00:18:24,216 --> 00:18:25,516
+This guy knew how to live.
+
+424
+00:18:25,518 --> 00:18:28,085
+He taught himself
+musical instruments.
+
+425
+00:18:28,087 --> 00:18:29,887
+He studied Portuguese.
+
+426
+00:18:29,889 --> 00:18:32,055
+Just to give a speech
+in Brazil.
+
+427
+00:18:32,057 --> 00:18:35,959
+The only part of me that's been
+to Brazil is my bikini line.
+
+428
+00:18:35,961 --> 00:18:37,995
+Okay.
+
+429
+00:18:39,999 --> 00:18:41,799
+He did so much.
+
+430
+00:18:41,801 --> 00:18:45,102
+And here we are, stuck
+and letting him down.
+
+431
+00:18:45,104 --> 00:18:48,372
+You know, Feynman used to
+say he didn't do physics
+
+432
+00:18:48,374 --> 00:18:53,076
+for the glory or the awards,
+but just for the fun of it.
+
+433
+00:18:53,078 --> 00:18:55,879
+He was right.
+
+434
+00:18:55,881 --> 00:18:59,683
+Physics is only dead when we
+stop being excited about it.
+
+435
+00:19:00,853 --> 00:19:03,987
+Even beyond the grave,
+he's imparting wisdom.
+
+436
+00:19:03,989 --> 00:19:07,124
+Um, I'm the one
+who remembered it.
+
+437
+00:19:08,127 --> 00:19:09,560
+Give me the bottle.
+
+438
+00:19:09,562 --> 00:19:11,495
+I mean, it might be
+a little corny, but I say
+
+439
+00:19:11,497 --> 00:19:14,331
+we pour one out
+for all the science homies
+
+440
+00:19:14,333 --> 00:19:15,899
+who came before us.
+
+441
+00:19:15,901 --> 00:19:17,668
+I love that.
+
+442
+00:19:18,904 --> 00:19:20,304
+Mm-hmm.
+
+443
+00:19:22,575 --> 00:19:24,842
+Here comes some more.
+
+444
+00:19:29,315 --> 00:19:31,648
+Ah, we got to see him run.
+
+445
+00:19:40,622 --> 00:19:43,122
+Oh, hi, you wanted to see me?
+
+446
+00:19:43,124 --> 00:19:45,291
+Yes. I wanted to talk to you
+about the e-mail
+
+447
+00:19:45,293 --> 00:19:46,592
+you sent me last night.
+
+448
+00:19:46,594 --> 00:19:49,729
+I sent you an e-mail?
+
+449
+00:19:49,731 --> 00:19:52,865
+You bet you did.
+
+450
+00:19:52,867 --> 00:19:54,901
+"Hello.
+
+451
+00:19:54,903 --> 00:19:58,738
+Shalom and aloha from the grave
+of Richard Feynman."
+
+452
+00:19:58,740 --> 00:20:01,340
+Oh, it's coming back to me.
+
+453
+00:20:01,342 --> 00:20:03,910
+"Please accept
+the following retraction:
+
+454
+00:20:03,912 --> 00:20:06,045
+"I know I said physics is dead,
+
+455
+00:20:06,047 --> 00:20:07,914
+"but it is the opposite of dead.
+
+456
+00:20:07,916 --> 00:20:09,081
+"If anything,
+
+457
+00:20:09,083 --> 00:20:11,784
+"it is undead, like a zombie.
+
+458
+00:20:11,786 --> 00:20:13,953
+"Speaking of which,
+
+459
+00:20:13,955 --> 00:20:15,988
+"if Richard Feynman
+came back as a zombie,
+
+460
+00:20:15,990 --> 00:20:19,725
+I would totally
+let him bite me."
+
+461
+00:20:20,595 --> 00:20:22,595
+Any chance that's the end?
+
+462
+00:20:23,431 --> 00:20:25,598
+"I got bit by a squirrel once.
+
+463
+00:20:26,701 --> 00:20:28,835
+"I had to get rabies shots.
+
+464
+00:20:28,837 --> 00:20:30,636
+"I cried so much,
+
+465
+00:20:30,638 --> 00:20:32,972
+"my mother said
+'don't be a baby.'
+
+466
+00:20:32,974 --> 00:20:34,607
+"In conclusion,
+
+467
+00:20:34,609 --> 00:20:35,708
+"physics is great.
+
+468
+00:20:35,710 --> 00:20:37,710
+"Squirrels suck, and someday,
+
+469
+00:20:37,712 --> 00:20:41,514
+"I'm gonna put my mom
+in a cheap nursing home.
+
+470
+00:20:41,516 --> 00:20:43,483
+"Yours truly,
+
+471
+00:20:43,485 --> 00:20:46,819
+XOXO, Dr. Leonard Hofstadter."
+
+472
+00:20:46,821 --> 00:20:48,054
+I-I can explain. I...
+
+473
+00:20:48,056 --> 00:20:48,888
+"P.S.
+
+474
+00:20:48,890 --> 00:20:51,924
+"Can you come
+pick us up?
+
+475
+00:20:51,926 --> 00:20:53,726
+"The Uber driver
+won't open the door
+
+476
+00:20:53,728 --> 00:20:57,663
+because Sheldon is covered
+in blue vomit."
+
+477
+00:21:00,125 --> 00:21:07,025
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

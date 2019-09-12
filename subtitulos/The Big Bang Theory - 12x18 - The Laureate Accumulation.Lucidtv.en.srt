@@ -1,0 +1,2298 @@
+﻿1
+00:00:00,068 --> 00:00:01,789
+<i>Peviously, on</i>
+"The Big Bang Theory"...
+
+2
+00:00:01,855 --> 00:00:03,549
+We just published
+a few months ago.
+
+3
+00:00:03,637 --> 00:00:05,939
+How did you have time
+to design an experiment?
+
+4
+00:00:06,027 --> 00:00:09,004
+This whole thing is
+actually a gigantic accident.
+
+5
+00:00:09,091 --> 00:00:11,845
+You weren't even thinking
+about super-asymmetry?
+
+6
+00:00:11,949 --> 00:00:13,627
+Thinking about it?
+(chuckles)
+
+7
+00:00:13,715 --> 00:00:16,230
+- We don't even understand it.
+- (both laugh)
+
+8
+00:00:16,636 --> 00:00:17,916
+Uh, can you believe this?
+
+9
+00:00:18,004 --> 00:00:19,799
+Doctors Pemberton and
+Campbell have been doing
+
+10
+00:00:19,886 --> 00:00:22,564
+a press tour trying to take
+credit for super-asymmetry.
+
+11
+00:00:22,652 --> 00:00:24,650
+So what? I mean, no one's
+gonna give them credit
+
+12
+00:00:24,738 --> 00:00:26,629
+for accidentally
+discovering something.
+
+13
+00:00:26,717 --> 00:00:27,729
+WOLOWITZ:
+Yeah, who remembers the guy
+
+14
+00:00:27,816 --> 00:00:29,025
+who was trying to find India
+
+15
+00:00:29,113 --> 00:00:30,564
+and discovered America instead?
+
+16
+00:00:30,652 --> 00:00:32,302
+What was his name again?
+(chuckles)
+
+17
+00:00:32,707 --> 00:00:34,462
+Now stop trying to steal
+our Nobel Prize.
+
+18
+00:00:34,550 --> 00:00:36,242
+You come up
+with your own idea.
+
+19
+00:00:36,329 --> 00:00:38,129
+Yeah, that's not gonna happen.
+
+20
+00:00:40,769 --> 00:00:42,729
+ELLEN (over TV): <i>Have a seat,
+thanks for being here.</i>
+
+21
+00:00:42,816 --> 00:00:44,452
+<i>I feel the same way about you.</i>
+
+22
+00:00:44,539 --> 00:00:45,808
+This is nice.
+
+23
+00:00:45,896 --> 00:00:48,715
+All my friends hanging out,
+watching<i> Ellen.</i>
+
+24
+00:00:48,886 --> 00:00:51,933
+It's like, what am I gonna do
+with my other two wishes?
+
+25
+00:00:52,756 --> 00:00:54,939
+It's not nice.
+She's having on the scientists
+
+26
+00:00:55,027 --> 00:00:57,189
+who are trying to steal
+our Nobel Prize.
+
+27
+00:00:57,277 --> 00:00:59,322
+Although I will enjoy
+watching her expose
+
+28
+00:00:59,410 --> 00:01:00,377
+Pemberton and Campbell
+
+29
+00:01:00,465 --> 00:01:02,621
+for the coattail-riding
+frauds that they are.
+
+30
+00:01:02,709 --> 00:01:05,535
+That is Ellen's brand,
+gotcha journalism.
+
+31
+00:01:06,300 --> 00:01:07,682
+Yeah, you should've
+seen her take down
+
+32
+00:01:07,769 --> 00:01:08,962
+John Krasinski last week.
+
+33
+00:01:09,050 --> 00:01:12,222
+Got him to admit he loved
+his wife. It was brutal.
+
+34
+00:01:12,341 --> 00:01:14,119
+(shushing)
+All right, our next guests
+
+35
+00:01:14,207 --> 00:01:16,337
+are a couple of physicists...
+Don't turn the channel.
+
+36
+00:01:16,425 --> 00:01:18,470
+They've been doing
+some viral videos online
+
+37
+00:01:18,558 --> 00:01:21,322
+about what it's like to be in
+the running for a Nobel Prize.
+
+38
+00:01:21,410 --> 00:01:23,292
+Please welcome
+Doctors Greg Pemberton
+
+39
+00:01:23,379 --> 00:01:25,111
+and Kevin Campbell.
+
+40
+00:01:25,261 --> 00:01:27,640
+(cheering, applause)
+
+41
+00:01:28,815 --> 00:01:31,185
+Why does she even want
+to have scientists on?
+
+42
+00:01:31,319 --> 00:01:33,777
+Uh, silly question.
+Who else will give her audience
+
+43
+00:01:33,865 --> 00:01:36,193
+causal explanations of
+natural phenomena?
+
+44
+00:01:36,281 --> 00:01:38,943
+I love you, honey, but think.
+
+45
+00:01:39,896 --> 00:01:40,865
+So you guys
+
+46
+00:01:40,953 --> 00:01:43,581
+have discovered something
+pretty amazing in the universe.
+
+47
+00:01:43,669 --> 00:01:46,378
+Obviously, I understand, uh,
+high-level physics
+
+48
+00:01:46,466 --> 00:01:48,482
+because I'm a comedian, but...
+(laughter)
+
+49
+00:01:49,339 --> 00:01:51,458
+...can you explain it
+to the audience?
+
+50
+00:01:51,615 --> 00:01:53,677
+Well, I don't know, I'm not
+sure we're even smart enough
+
+51
+00:01:53,764 --> 00:01:55,064
+to understand it.
+(laughter)
+
+52
+00:01:56,943 --> 00:01:59,628
+Look, look, the audience is
+laughing at them. It's starting.
+
+53
+00:01:59,716 --> 00:02:03,013
+I hate to say it, Sheldon, but
+I think the audience likes them.
+
+54
+00:02:03,146 --> 00:02:05,550
+Well, that will all change
+when Ellen asks them
+
+55
+00:02:05,638 --> 00:02:08,691
+how super-asymmetry explains the
+cosmological excess of matter
+
+56
+00:02:08,779 --> 00:02:10,581
+over anti-matter
+and they panic,
+
+57
+00:02:10,669 --> 00:02:12,972
+like Leonard trying
+to do a pull-up.
+
+58
+00:02:13,630 --> 00:02:14,808
+Hey, what'd I do?
+
+59
+00:02:14,896 --> 00:02:16,716
+Not a pull-up.
+
+60
+00:02:17,331 --> 00:02:19,089
+People have been
+loving your videos,
+
+61
+00:02:19,177 --> 00:02:21,488
+especially the-the songs
+that you've been posting.
+
+62
+00:02:21,576 --> 00:02:22,394
+- Oh, thanks.
+- Thank you.
+
+63
+00:02:22,482 --> 00:02:24,952
+Uh, this may be pushing
+it, but I have to ask.
+
+64
+00:02:25,039 --> 00:02:27,855
+Would you mind singing one
+of those for us right now?
+
+65
+00:02:27,943 --> 00:02:29,922
+- Oh, why not?
+- All right.
+
+66
+00:02:30,009 --> 00:02:33,271
+Come on, Ellen, they're right there.
+Go for the jugular.
+
+67
+00:02:33,579 --> 00:02:36,956
+♪ Let's get physicist,
+physicist ♪
+
+68
+00:02:37,044 --> 00:02:39,794
+♪ I want to get physicist ♪
+
+69
+00:02:39,912 --> 00:02:42,544
+♪ Let's get into physicist ♪
+
+70
+00:02:42,685 --> 00:02:44,982
+♪ Let me hear your boson talk ♪
+
+71
+00:02:45,070 --> 00:02:48,802
+- Come on, Ellen.
+- ♪ Let me hear your boson talk... ♪
+
+72
+00:02:48,890 --> 00:02:52,357
+<i>♪ Our whole universe
+was in a hot, dense state ♪</i>
+
+73
+00:02:52,445 --> 00:02:56,193
+<i>♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪</i>
+
+74
+00:02:56,294 --> 00:02:57,511
+<i>♪ The Earth began to cool ♪</i>
+
+75
+00:02:57,599 --> 00:03:00,511
+<i>♪ The autotrophs began to drool,
+Neanderthals developed tools ♪</i>
+
+76
+00:03:00,599 --> 00:03:02,334
+♪ We built the Wall ♪
+♪ We built the pyramids ♪
+
+77
+00:03:02,421 --> 00:03:05,340
+<i>♪ Math, Science, History,
+unraveling the mystery ♪</i>
+
+78
+00:03:05,449 --> 00:03:07,262
+<i>♪ That all started
+with a big bang ♪</i>
+
+79
+00:03:07,350 --> 00:03:09,412
+<i>♪ Bang! ♪</i>
+<font color=#FF00FF>*THE BIG BANG THEORY*</font>
+<font color=#00FF00>Season 12  Episode 18</font>
+
+80
+00:03:09,499 --> 00:03:11,499
+Episode Title: <font color=#FFFF00>"The Laureate Accumulation"</font>
+<font color=#ff80ff>Sync corrections</font>  by  <font color=#00FF00>srjanapala</font>
+
+81
+00:03:15,256 --> 00:03:16,569
+Dr. Pemberton.
+
+82
+00:03:16,656 --> 00:03:17,899
+Dr. Campbell.
+
+83
+00:03:17,986 --> 00:03:19,802
+Doctors Pemberton and Campbell.
+
+84
+00:03:21,614 --> 00:03:22,451
+Morning, buddy.
+
+85
+00:03:22,539 --> 00:03:23,810
+I am not your buddy.
+
+86
+00:03:23,968 --> 00:03:25,990
+- What's wrong?
+- I'll tell you what's wrong.
+
+87
+00:03:26,078 --> 00:03:28,466
+You went on TV
+and were charming.
+
+88
+00:03:28,823 --> 00:03:31,318
+Thanks, man.
+That's what my mom said.
+
+89
+00:03:31,818 --> 00:03:32,842
+PEMBERTON:
+W-Why don't you come in
+
+90
+00:03:32,929 --> 00:03:34,263
+- and have some parfait?
+- Yeah,
+
+91
+00:03:34,351 --> 00:03:36,818
+we ordered it from room service;
+it cost, like, 12 bucks.
+
+92
+00:03:36,906 --> 00:03:39,359
+It's just yogurt in a glass.
+
+93
+00:03:40,287 --> 00:03:41,716
+I don't want your yogurt.
+
+94
+00:03:41,804 --> 00:03:42,842
+Then what do you want?
+
+95
+00:03:42,945 --> 00:03:44,404
+I want you to hold
+a press conference
+
+96
+00:03:44,492 --> 00:03:47,175
+where you admit that you blindly
+stumbled into super-asymmetry
+
+97
+00:03:47,263 --> 00:03:48,958
+and it was really
+our discovery.
+
+98
+00:03:49,046 --> 00:03:51,927
+Oh. No, thanks.
+
+99
+00:03:52,842 --> 00:03:55,107
+You know, just because we proved
+something by accident
+
+100
+00:03:55,195 --> 00:03:56,677
+doesn't mean
+we didn't prove it.
+
+101
+00:03:56,765 --> 00:03:58,099
+PEMBERTON:
+Yeah, I wasn't trying
+
+102
+00:03:58,194 --> 00:03:59,958
+to prove that my wife
+was cheating on me
+
+103
+00:04:00,046 --> 00:04:01,260
+when I came home early
+one Friday,
+
+104
+00:04:01,347 --> 00:04:03,904
+but I'm still sleeping
+on his couch.
+
+105
+00:04:04,452 --> 00:04:06,349
+I told you,
+you can do better than her.
+
+106
+00:04:06,552 --> 00:04:08,216
+Thanks. It just hurts.
+
+107
+00:04:08,304 --> 00:04:10,852
+And when you win that
+Nobel Prize, she's gonna realize
+
+108
+00:04:10,940 --> 00:04:12,802
+that she was wrong,
+you are not a fraud.
+
+109
+00:04:12,890 --> 00:04:14,779
+She is not wrong.
+
+110
+00:04:15,855 --> 00:04:19,108
+Wow, I can't believe
+you're siding with Linda.
+
+111
+00:04:19,586 --> 00:04:21,076
+Shame on you.
+
+112
+00:04:25,001 --> 00:04:26,910
+Look at this.
+They posted another video.
+
+113
+00:04:26,998 --> 00:04:28,255
+It's not even about science.
+
+114
+00:04:28,343 --> 00:04:29,873
+They're on a
+celebrity bus tour.
+
+115
+00:04:29,961 --> 00:04:32,114
+Those are fun.
+I-I went on one
+
+116
+00:04:32,202 --> 00:04:34,162
+and saw Tom Hanks talking
+to his gardener.
+
+117
+00:04:34,250 --> 00:04:37,592
+He's even nice when you plant
+the wrong color azaleas.
+
+118
+00:04:38,225 --> 00:04:40,740
+Those guys are good at
+self-promoting, so what?
+
+119
+00:04:40,828 --> 00:04:43,201
+No one ever won a Nobel
+for being nice.
+
+120
+00:04:43,289 --> 00:04:44,123
+KOOTHRAPPALI:
+Yeah, but if they did,
+
+121
+00:04:44,211 --> 00:04:45,374
+do you know who would win one?
+
+122
+00:04:45,461 --> 00:04:47,310
+Are you gonna say Tom Hanks?
+
+123
+00:04:47,717 --> 00:04:50,654
+He picked up a shovel
+and helped the guy replant.
+
+124
+00:04:52,303 --> 00:04:54,245
+SIEBERT:
+Dr. Cooper,
+
+125
+00:04:54,333 --> 00:04:55,574
+there you are. I just wanted
+to tell you not to worry
+
+126
+00:04:55,661 --> 00:04:58,044
+about this Pemberton
+and Campbell publicity blitz.
+
+127
+00:04:58,216 --> 00:04:59,329
+Are you worried?
+
+128
+00:04:59,417 --> 00:05:00,682
+Not at all.
+
+129
+00:05:00,770 --> 00:05:02,760
+Not even a little bit.
+(laughs)
+
+130
+00:05:03,456 --> 00:05:06,276
+Look,
+I-It doesn't matter
+
+131
+00:05:06,364 --> 00:05:08,057
+if they have popular support,
+
+132
+00:05:08,145 --> 00:05:10,066
+we're gonna get the scientific
+community behind us.
+
+133
+00:05:10,153 --> 00:05:12,417
+He's right, the Nobel Prize
+is about the work,
+
+134
+00:05:12,505 --> 00:05:15,213
+and as your fellow scientists,
+we support you and Amy.
+
+135
+00:05:15,338 --> 00:05:17,314
+That's great, Scooby Gang.
+
+136
+00:05:17,886 --> 00:05:20,363
+Now, the university
+is gonna host
+
+137
+00:05:20,451 --> 00:05:22,158
+a reception for you
+and Dr. Fowler
+
+138
+00:05:22,246 --> 00:05:25,502
+where we invite as many
+academic luminaries as we can,
+
+139
+00:05:25,590 --> 00:05:28,043
+uh, give them a chance to meet
+you, hear about your work.
+
+140
+00:05:28,131 --> 00:05:29,892
+Uh, that's a great idea.
+Uh, yeah.
+
+141
+00:05:29,980 --> 00:05:32,306
+Who needs to be likable
+when you have Nobel Laureates
+
+142
+00:05:32,394 --> 00:05:33,431
+campaigning for you?
+
+143
+00:05:33,519 --> 00:05:36,119
+Oh, yeah... wait a minute.
+Do you not think we're likable?
+
+144
+00:05:37,166 --> 00:05:38,658
+That's what's great about you,
+
+145
+00:05:38,746 --> 00:05:41,666
+you never stop asking
+the tough questions.
+
+146
+00:05:47,451 --> 00:05:48,720
+(door closes)
+
+147
+00:05:50,057 --> 00:05:51,595
+Hey. Kids asleep?
+
+148
+00:05:51,683 --> 00:05:54,002
+Nope. I've been trying
+to get them down for hours.
+
+149
+00:05:54,090 --> 00:05:56,008
+Apparently, Halley's afraid
+of the dark now
+
+150
+00:05:56,096 --> 00:05:57,080
+and I can't turn on
+the night-light
+
+151
+00:05:57,167 --> 00:05:58,315
+'cause it makes Michael cry.
+
+152
+00:05:58,403 --> 00:05:59,932
+Why doesn't he like
+the night-light?
+
+153
+00:06:00,020 --> 00:06:01,698
+Jot that down,
+we can ask him
+
+154
+00:06:01,786 --> 00:06:03,698
+as soon as he learns to speak.
+
+155
+00:06:04,940 --> 00:06:08,275
+We can also find out what's
+so damn funny about birds.
+
+156
+00:06:09,229 --> 00:06:10,783
+(Halley fusses)
+
+157
+00:06:10,871 --> 00:06:12,900
+I'll go talk to her.
+
+158
+00:06:13,025 --> 00:06:16,002
+I don't know why she's suddenly
+so afraid of everything.
+
+159
+00:06:16,188 --> 00:06:19,127
+Honey, remember,
+she's my child, too.
+
+160
+00:06:23,753 --> 00:06:25,244
+WOLOWITZ (over monitor):
+Hey, sweetie,
+
+161
+00:06:25,378 --> 00:06:27,299
+I heard you were afraid
+of the dark.
+
+162
+00:06:27,497 --> 00:06:30,690
+I know someone else
+who was afraid of the dark once.
+
+163
+00:06:31,027 --> 00:06:33,410
+Your daddy,
+when he was in space.
+
+164
+00:06:33,497 --> 00:06:34,502
+(Wolowitz chuckles)
+
+165
+00:06:34,590 --> 00:06:37,768
+And just like you,
+I was wearing a full diaper.
+
+166
+00:06:41,002 --> 00:06:42,220
+Hey, good news.
+
+167
+00:06:42,307 --> 00:06:44,768
+They're inviting several Nobel
+Laureates to our reception.
+
+168
+00:06:44,856 --> 00:06:46,499
+Oh, great, like who?
+
+169
+00:06:46,587 --> 00:06:48,740
+Uh... Makoto Kobayashi.
+
+170
+00:06:48,828 --> 00:06:50,080
+Da... ooh.
+
+171
+00:06:51,752 --> 00:06:52,900
+What?
+
+172
+00:06:52,988 --> 00:06:54,899
+Well, I may have been
+less than kind to him
+
+173
+00:06:54,987 --> 00:06:57,119
+about his Nobel Prize win.
+
+174
+00:06:57,629 --> 00:06:58,642
+Why?
+
+175
+00:06:58,730 --> 00:07:00,783
+I was jealous, angry
+and new to Twitter.
+
+176
+00:07:00,903 --> 00:07:02,596
+It was a dangerous combination.
+
+177
+00:07:03,275 --> 00:07:05,719
+Okay, so scratch Kobayashi.
+
+178
+00:07:05,807 --> 00:07:07,479
+Uh, George Smoot's on here.
+
+179
+00:07:07,567 --> 00:07:09,455
+(hisses, groans)
+
+180
+00:07:10,274 --> 00:07:12,777
+We have a history.
+
+181
+00:07:13,551 --> 00:07:14,707
+Saul Perlmutter?
+
+182
+00:07:14,795 --> 00:07:16,418
+(groans):
+Oh!
+
+183
+00:07:17,902 --> 00:07:19,496
+What about Kip Thorne?
+
+184
+00:07:19,584 --> 00:07:21,396
+(stammers)
+That was a misunderstanding.
+
+185
+00:07:21,484 --> 00:07:23,590
+I didn't know
+he was right behind me.
+
+186
+00:07:25,098 --> 00:07:28,169
+So you've alienated everyone
+we need to help us?
+
+187
+00:07:28,257 --> 00:07:30,588
+Well, Amy, if I had known
+that someday we'd need them,
+
+188
+00:07:30,676 --> 00:07:32,918
+I would never
+have insulted them.
+
+189
+00:07:33,543 --> 00:07:35,668
+- Well, that doesn't make it better.
+- Oh.
+
+190
+00:07:36,066 --> 00:07:38,027
+Well, it's also not true.
+
+191
+00:07:42,758 --> 00:07:45,379
+(door opens, closes)
+
+192
+00:07:48,004 --> 00:07:50,012
+Hey.
+Hey.
+
+193
+00:07:50,506 --> 00:07:52,402
+Oh, that's cute.
+
+194
+00:07:52,699 --> 00:07:55,090
+Did Halley draw that
+at preschool?
+
+195
+00:07:57,142 --> 00:07:58,385
+I drew it.
+
+196
+00:07:58,473 --> 00:07:59,957
+Well, good night.
+
+197
+00:08:01,738 --> 00:08:03,683
+It's supposed to be
+an astronaut.
+
+198
+00:08:04,261 --> 00:08:07,260
+And I'm supposed to be
+living on my own at this age,
+
+199
+00:08:07,348 --> 00:08:10,441
+but here we are.
+
+200
+00:08:11,238 --> 00:08:13,994
+Halley was scared and Howard
+told her the sweetest story
+
+201
+00:08:14,082 --> 00:08:16,572
+about when he was in space
+and I thought I could turn it
+
+202
+00:08:16,668 --> 00:08:18,020
+into a book for her and Michael.
+
+203
+00:08:18,108 --> 00:08:20,689
+Oh, well, I mean,
+I am an artist.
+
+204
+00:08:20,777 --> 00:08:22,965
+Uh, I-if you want,
+I could do the drawings.
+
+205
+00:08:23,053 --> 00:08:24,918
+- Really? That'd be amazing.
+- Yeah,
+
+206
+00:08:25,006 --> 00:08:26,819
+it'd be fun. And a,
+
+207
+00:08:26,907 --> 00:08:29,160
+a nice change of pace
+from what I usually draw.
+
+208
+00:08:29,248 --> 00:08:30,559
+What do you usually draw?
+
+209
+00:08:30,686 --> 00:08:32,035
+Well, good night.
+
+210
+00:08:36,340 --> 00:08:37,512
+(device chimes)
+
+211
+00:08:37,600 --> 00:08:39,246
+- Someone texting you?
+- Uh, no,
+
+212
+00:08:39,334 --> 00:08:41,551
+I just met my exercise
+goal for the day.
+
+213
+00:08:45,519 --> 00:08:46,910
+By doing the dishes?
+
+214
+00:08:46,998 --> 00:08:49,793
+Hey, you have your goals,
+I have mine.
+
+215
+00:08:51,751 --> 00:08:53,769
+- Hello.
+- What are you two doing?
+
+216
+00:08:53,857 --> 00:08:56,035
+Mm, just finishing a workout.
+
+217
+00:08:56,613 --> 00:08:57,696
+What's up?
+
+218
+00:08:57,798 --> 00:08:59,281
+Do you have any cookie dough?
+
+219
+00:08:59,517 --> 00:09:02,230
+Uh, I think so.
+Let me see.
+
+220
+00:09:02,707 --> 00:09:07,035
+Yeah, we've got, uh, chocolate
+chip and oatmeal raisin.
+
+221
+00:09:07,123 --> 00:09:08,476
+Oatmeal raisin?
+
+222
+00:09:08,564 --> 00:09:11,176
+I know at least two things wrong
+with that cookie.
+
+223
+00:09:11,884 --> 00:09:13,683
+It's for the Nobel Laureates.
+
+224
+00:09:13,779 --> 00:09:16,723
+We need them on our side,
+but unfortunately, Sheldon...
+
+225
+00:09:16,811 --> 00:09:19,824
+No. "Unfortunately, Sheldon..."
+that's all you got to say.
+
+226
+00:09:20,550 --> 00:09:22,697
+Well, that's... so you need
+these people's support
+
+227
+00:09:22,785 --> 00:09:24,361
+and you're sending
+them baked goods?
+
+228
+00:09:24,449 --> 00:09:25,535
+Yeah, they're pretty smart.
+
+229
+00:09:25,623 --> 00:09:27,565
+Don't you think they're gonna
+realize it's just a bribe?
+
+230
+00:09:27,652 --> 00:09:29,689
+No, you'd think,
+but sometimes brilliant people
+
+231
+00:09:29,777 --> 00:09:32,824
+can be painfully oblivious
+to social cues.
+
+232
+00:09:35,874 --> 00:09:38,512
+Thank you for pointing
+that out, Sheldon.
+
+233
+00:09:39,771 --> 00:09:41,331
+Anytime.
+
+234
+00:09:46,504 --> 00:09:48,634
+"Sheldon Cooper"? Hmm.
+
+235
+00:09:53,442 --> 00:09:54,955
+"Sheldon Cooper"?
+
+236
+00:09:55,149 --> 00:09:57,010
+(scoffs)
+Pass.
+
+237
+00:09:58,137 --> 00:10:00,949
+"Sheldon Cooper." Aw.
+
+238
+00:10:02,535 --> 00:10:04,448
+Ugh, oatmeal raisin?
+
+239
+00:10:04,536 --> 00:10:06,347
+Ugh.
+
+240
+00:10:07,704 --> 00:10:08,777
+(phone chimes)
+
+241
+00:10:09,753 --> 00:10:12,261
+Oh, it's from Saul Perlmutter.
+
+242
+00:10:12,349 --> 00:10:14,017
+(gasps)
+He sent me a picture.
+
+243
+00:10:14,105 --> 00:10:15,300
+Ooh, let me see.
+
+244
+00:10:15,387 --> 00:10:19,422
+Oh, he arranged the cookies
+to spell out "thank you."
+
+245
+00:10:20,902 --> 00:10:23,527
+Sheldon, that word
+isn't "thank."
+
+246
+00:10:29,940 --> 00:10:32,386
+Hi. I got you a surprise.
+
+247
+00:10:32,536 --> 00:10:35,081
+What... Oh. (chuckles)
+What's the occasion?
+
+248
+00:10:35,270 --> 00:10:37,540
+I heard you tell Halley
+that story the other night,
+
+249
+00:10:37,644 --> 00:10:39,212
+and I thought
+it was so sweet
+
+250
+00:10:39,300 --> 00:10:42,410
+that Stuart and I
+turned it into a book.
+
+251
+00:10:43,182 --> 00:10:45,971
+<i>The Frightened
+Little Astronaut?</i>
+
+252
+00:10:47,824 --> 00:10:50,589
+That looks
+just like you.
+
+253
+00:10:51,121 --> 00:10:54,057
+Look how tiny
+and scared you look.
+
+254
+00:10:54,805 --> 00:10:56,959
+And the best part is,
+Stuart showed it
+
+255
+00:10:57,047 --> 00:10:58,285
+to a publisher
+friend of his,
+
+256
+00:10:58,373 --> 00:10:59,586
+and they're interested in it.
+
+257
+00:10:59,747 --> 00:11:02,847
+That is so cool.
+Absolutely not.
+
+258
+00:11:03,614 --> 00:11:04,657
+Why?
+
+259
+00:11:04,745 --> 00:11:07,261
+Because I don't want
+the whole world to know
+
+260
+00:11:07,349 --> 00:11:09,549
+I was the frightened
+little astronaut!
+
+261
+00:11:12,924 --> 00:11:16,557
+Maybe you should've called it
+<i>The Bitchy Little Astronaut.</i>
+
+262
+00:11:20,894 --> 00:11:22,917
+You want to tell me
+what's going on?
+
+263
+00:11:23,457 --> 00:11:25,323
+Is my distress
+that obvious?
+
+264
+00:11:25,437 --> 00:11:27,461
+Sheldon, please don't
+take this the wrong way,
+
+265
+00:11:27,549 --> 00:11:29,125
+but when you're quiet
+even for a second,
+
+266
+00:11:29,213 --> 00:11:30,628
+something's wrong.
+
+267
+00:11:31,580 --> 00:11:33,120
+Well, it's true.
+
+268
+00:11:33,317 --> 00:11:35,706
+The fact is, I feel
+really bad for Amy.
+
+269
+00:11:35,794 --> 00:11:36,977
+Well, we all do.
+
+270
+00:11:37,100 --> 00:11:39,221
+But just for fun,
+why do<i> you?</i>
+
+271
+00:11:40,689 --> 00:11:42,377
+Well, she didn't
+do anything wrong,
+
+272
+00:11:42,465 --> 00:11:46,090
+but she's paying for my mistakes.
+Wow.
+
+273
+00:11:46,207 --> 00:11:47,285
+What?
+
+274
+00:11:47,402 --> 00:11:50,010
+No... I'm just
+honestly impressed.
+
+275
+00:11:50,097 --> 00:11:53,080
+When did you start caring
+about other people's feelings?
+
+276
+00:11:53,167 --> 00:11:55,650
+Well, I laughed when Amy
+got a shock from
+
+277
+00:11:55,737 --> 00:11:58,457
+the broken Christmas tree
+lights, so it was after that.
+
+278
+00:12:00,807 --> 00:12:03,613
+So none of them are
+coming to the reception?
+
+279
+00:12:03,701 --> 00:12:05,154
+I don't think so.
+
+280
+00:12:05,305 --> 00:12:08,660
+Okay, what did he say that was
+so insulting? (sighs) Well,
+
+281
+00:12:09,035 --> 00:12:10,930
+he may have suggested there was
+
+282
+00:12:11,017 --> 00:12:14,707
+an inelegance to the quadrupole
+normalization of Smoot's data.
+
+283
+00:12:15,027 --> 00:12:16,879
+Damn.
+
+284
+00:12:19,799 --> 00:12:22,252
+See, sometimes I wish I could
+invent a time machine,
+
+285
+00:12:22,340 --> 00:12:24,373
+so I could go back
+and prevent myself
+
+286
+00:12:24,461 --> 00:12:25,844
+from acting so rashly.
+
+287
+00:12:25,932 --> 00:12:29,515
+Or moving forward, you could
+think before you speak.
+
+288
+00:12:30,285 --> 00:12:31,629
+I suppose so.
+
+289
+00:12:31,717 --> 00:12:35,036
+But the time machine thing
+is probably more likely.
+
+290
+00:12:36,153 --> 00:12:38,659
+My problem is that
+I don't always know
+
+291
+00:12:38,747 --> 00:12:40,060
+when I've gone too far.
+
+292
+00:12:40,223 --> 00:12:42,958
+Well, uh, if you like,
+I could try to help you out.
+
+293
+00:12:43,046 --> 00:12:46,403
+You know, and maybe let you know
+if you're crossing a line.
+
+294
+00:12:46,700 --> 00:12:49,240
+Oh, you mean, like,
+with a code word? Sure.
+
+295
+00:12:49,489 --> 00:12:51,741
+How's "shut up"?
+
+296
+00:12:53,165 --> 00:12:55,222
+That's perfect.
+People say it to me all the time,
+
+297
+00:12:55,310 --> 00:12:56,677
+no one will suspect.
+
+298
+00:12:59,527 --> 00:13:02,661
+- Hey, got a minute?
+- Sure. What's up?
+
+299
+00:13:02,749 --> 00:13:04,606
+Uh, Bernadette said
+
+300
+00:13:04,694 --> 00:13:06,307
+you weren't crazy
+about the book.
+
+301
+00:13:06,394 --> 00:13:07,841
+No. (chuckles)
+It's great.
+
+302
+00:13:07,929 --> 00:13:09,436
+I just don't want anyone
+to ever see it
+
+303
+00:13:09,523 --> 00:13:11,096
+or read it or know it exists.
+
+304
+00:13:11,536 --> 00:13:13,708
+But this could be
+really good for me,
+
+305
+00:13:13,796 --> 00:13:16,278
+you know? Finally get
+my artwork published.
+
+306
+00:13:16,366 --> 00:13:18,747
+And-and come on,
+it's a, it's a cute story.
+
+307
+00:13:18,835 --> 00:13:20,349
+Oh, easy for you
+to say.
+
+308
+00:13:20,437 --> 00:13:22,396
+No one's gonna think
+you're a coward.
+
+309
+00:13:22,647 --> 00:13:24,396
+Are you kidding?
+The other day
+
+310
+00:13:24,484 --> 00:13:27,669
+in the comic book store,
+a balloon popped and I threw up.
+
+311
+00:13:30,576 --> 00:13:33,086
+Can't you just
+take my name off it?
+
+312
+00:13:33,189 --> 00:13:36,302
+No, uh, the only reason
+the publisher's interested
+
+313
+00:13:36,390 --> 00:13:38,543
+is 'cause a real astronaut
+wrote it.
+
+314
+00:13:38,631 --> 00:13:41,984
+Well, look, what if
+we made a few changes?
+
+315
+00:13:42,072 --> 00:13:43,609
+Uh, sure, yes.
+
+316
+00:13:43,697 --> 00:13:46,359
+- What-what do you have in mind?
+- Well, nothing major.
+
+317
+00:13:46,447 --> 00:13:47,663
+But see here on the
+cover, where it says
+
+318
+00:13:47,750 --> 00:13:49,712
+"frightened little,"
+what if, I don't know,
+
+319
+00:13:49,815 --> 00:13:51,734
+it didn't say that?
+
+320
+00:13:53,171 --> 00:13:56,265
+So, it would just be
+<i>The Astronaut?</i>
+
+321
+00:13:56,433 --> 00:13:58,839
+Yeah, you're right.
+That doesn't quite pop.
+
+322
+00:13:58,927 --> 00:14:02,036
+What about...
+<i>The Brave Astronaut?</i>
+
+323
+00:14:02,124 --> 00:14:04,554
+See, that's got
+some zip to it!
+
+324
+00:14:05,996 --> 00:14:06,996
+Okay.
+
+325
+00:14:07,084 --> 00:14:09,852
+And here on this page,
+where I'm crying.
+
+326
+00:14:09,940 --> 00:14:12,653
+What if, instead,
+I'm... punching a meteor
+
+327
+00:14:12,756 --> 00:14:15,053
+into the sun with
+my bare fists?
+
+328
+00:14:16,230 --> 00:14:17,951
+So you have superpowers?
+
+329
+00:14:18,803 --> 00:14:20,639
+I like the way
+you're thinking.
+
+330
+00:14:24,388 --> 00:14:25,583
+Professor Thorne?
+
+331
+00:14:25,671 --> 00:14:26,856
+Dr. Hofstadter.
+
+332
+00:14:26,944 --> 00:14:28,692
+Uh, you know
+my wife, Penny.
+
+333
+00:14:28,780 --> 00:14:29,825
+- Sure. Hi.
+- PENNY: Hi.
+
+334
+00:14:29,913 --> 00:14:33,109
+(laughs) Uh, we wanted to
+talk to you about Dr. Cooper.
+
+335
+00:14:33,197 --> 00:14:34,161
+Now, before you say no...
+
+336
+00:14:34,249 --> 00:14:35,536
+No.
+
+337
+00:14:36,998 --> 00:14:38,808
+Well, then, after you say no.
+
+338
+00:14:38,896 --> 00:14:40,239
+No.
+
+339
+00:14:41,098 --> 00:14:43,099
+Okay, look, Sheldon's
+a pain in the ass.
+
+340
+00:14:43,187 --> 00:14:44,716
+But Dr. Fowler's
+really nice.
+
+341
+00:14:44,804 --> 00:14:47,919
+So if you average
+them out... math...
+
+342
+00:14:48,702 --> 00:14:50,763
+...you got someone
+who's okay.
+
+343
+00:14:51,017 --> 00:14:51,960
+(stammers) But more
+
+344
+00:14:52,047 --> 00:14:54,505
+than the person,
+the Nobel is about the work.
+
+345
+00:14:54,593 --> 00:14:55,947
+You should understand that
+more than anyone.
+
+346
+00:14:56,034 --> 00:14:58,232
+Yes, because of your work
+on gravitational waves.
+
+347
+00:14:58,320 --> 00:14:59,463
+You know my work?
+
+348
+00:14:59,752 --> 00:15:02,239
+I do. But I'm-I'm really
+hogging this conversation.
+
+349
+00:15:02,327 --> 00:15:03,528
+Leonard?
+(clears throat)
+
+350
+00:15:03,726 --> 00:15:05,346
+Just give them a chance.
+
+351
+00:15:05,434 --> 00:15:07,942
+Uh, science has a history
+of difficult people.
+
+352
+00:15:08,030 --> 00:15:09,365
+Look at, uh,
+Newton, who was
+
+353
+00:15:09,453 --> 00:15:12,379
+a jerk to Leibniz, and Leibniz,
+who was a jerk to everyone.
+
+354
+00:15:12,467 --> 00:15:14,225
+Yeah, you know, and I
+don't need to tell you
+
+355
+00:15:14,313 --> 00:15:16,292
+that gravitational waves
+are disturbances
+
+356
+00:15:16,380 --> 00:15:18,108
+in the curvature
+of space-time.
+
+357
+00:15:18,196 --> 00:15:21,381
+Or that the... Hey, you worked
+on the movie<i> Interstellar?</i>
+
+358
+00:15:27,119 --> 00:15:28,506
+So what do you think?
+
+359
+00:15:29,310 --> 00:15:30,693
+I think if you were in space
+
+360
+00:15:30,781 --> 00:15:33,412
+without a shirt on, you'd die.
+
+361
+00:15:34,614 --> 00:15:35,685
+Oh.
+
+362
+00:15:35,773 --> 00:15:37,342
+No, I am wearing
+a shirt.
+
+363
+00:15:37,430 --> 00:15:40,686
+It's just skintight,
+so you can see my pecs.
+
+364
+00:15:41,427 --> 00:15:43,147
+When did you get pecs?
+
+365
+00:15:44,303 --> 00:15:46,811
+Yesterday, when I made
+Stuart add them.
+
+366
+00:15:47,767 --> 00:15:49,668
+Howie, what I liked
+about the other story
+
+367
+00:15:49,756 --> 00:15:50,850
+was that it was real.
+
+368
+00:15:50,937 --> 00:15:53,460
+I mean, nothing in this
+actually happened to you.
+
+369
+00:15:53,547 --> 00:15:55,897
+(chuckles):
+So, it's a children's book.
+
+370
+00:15:55,985 --> 00:15:57,545
+I mean, cats
+don't wear hats.
+
+371
+00:15:57,633 --> 00:15:59,526
+And if someone gives you
+green eggs, it ends
+
+372
+00:15:59,614 --> 00:16:02,162
+with you on the toilet
+trying to make a deal with God.
+
+373
+00:16:04,075 --> 00:16:06,295
+But the real story was so sweet.
+
+374
+00:16:06,383 --> 00:16:08,076
+The little astronaut
+was afraid,
+
+375
+00:16:08,164 --> 00:16:10,577
+but he still went to space,
+and that's what made him brave.
+
+376
+00:16:10,884 --> 00:16:14,477
+(scoffs) But in space,
+the other astronauts...
+
+377
+00:16:14,798 --> 00:16:17,397
+made fun of him,
+and that's a thing
+
+378
+00:16:17,485 --> 00:16:19,173
+he doesn't want to relive.
+
+379
+00:16:19,985 --> 00:16:21,391
+I get that.
+
+380
+00:16:23,033 --> 00:16:24,813
+I guess it would
+just take a really
+
+381
+00:16:24,901 --> 00:16:27,068
+brave man to put an embarrassing
+story like that
+
+382
+00:16:27,156 --> 00:16:29,384
+out into the world,
+just so it might help
+
+383
+00:16:29,472 --> 00:16:31,837
+some frightened children
+not feel so alone.
+
+384
+00:16:32,657 --> 00:16:35,805
+Wow. That is
+quite the guilt trip.
+
+385
+00:16:38,548 --> 00:16:40,462
+Are you sure you're not Jewish?
+
+386
+00:16:44,039 --> 00:16:46,977
+I'm just a wife that is
+so proud of her husband,
+
+387
+00:16:47,065 --> 00:16:48,625
+and doesn't think
+that he has anything
+
+388
+00:16:48,713 --> 00:16:50,726
+- to be embarrassed about.
+- Oh.
+
+389
+00:16:51,478 --> 00:16:53,580
+You're sounding
+less and less Jewish.
+
+390
+00:16:56,177 --> 00:16:58,057
+Hey, we just heard that
+you're the ones
+
+391
+00:16:58,145 --> 00:16:59,928
+who convinced
+the Nobel Laureates to come.
+
+392
+00:17:00,027 --> 00:17:01,081
+- Thank you.
+- You are welcome.
+
+393
+00:17:01,168 --> 00:17:02,305
+You guys deserve this.
+
+394
+00:17:02,393 --> 00:17:04,804
+Yeah, now get out of here,
+go talk to some smart people.
+
+395
+00:17:06,195 --> 00:17:08,660
+- Wait a minute.
+- Yeah, sorry. Sometimes I forget
+
+396
+00:17:08,721 --> 00:17:11,004
+you're smart because
+you're so sexy.
+
+397
+00:17:11,468 --> 00:17:13,351
+I can see that.
+Yeah.
+
+398
+00:17:14,379 --> 00:17:15,884
+Dr. Cooper.
+Dr. Fowler.
+
+399
+00:17:15,972 --> 00:17:18,320
+I was just telling Professor
+Arnold how you came up with
+
+400
+00:17:18,408 --> 00:17:20,151
+super-asymmetry
+at your wedding.
+
+401
+00:17:20,279 --> 00:17:21,953
+It's a wonderful story.
+
+402
+00:17:22,041 --> 00:17:23,351
+Ha, it really is.
+
+403
+00:17:23,439 --> 00:17:25,679
+I wouldn't say it was the
+highlight of the wedding,
+
+404
+00:17:25,767 --> 00:17:27,226
+because I've been
+told not to
+
+405
+00:17:27,314 --> 00:17:29,250
+for reasons I don't
+fully understand.
+
+406
+00:17:29,338 --> 00:17:32,086
+Uh, but what he does understand
+is how the universe works,
+
+407
+00:17:32,174 --> 00:17:33,265
+and that's
+what's important.
+
+408
+00:17:33,353 --> 00:17:35,578
+Not what comes out
+of his mouth. (laughs)
+
+409
+00:17:39,108 --> 00:17:40,218
+Uh-oh.
+
+410
+00:17:40,758 --> 00:17:42,622
+I haven't been to a lot of
+parties like this,
+
+411
+00:17:42,710 --> 00:17:45,444
+but what does a physics
+rumble look like?
+
+412
+00:17:46,164 --> 00:17:48,504
+- Kind of like angry chickens.
+- Hmm.
+
+413
+00:17:48,592 --> 00:17:51,989
+Or-or-or-or like, uh,
+when-when puppets fight.
+
+414
+00:17:52,980 --> 00:17:55,579
+Dr. Cooper, Dr. Fowler,
+good to see you.
+
+415
+00:17:55,667 --> 00:17:56,750
+What are you doing here?
+
+416
+00:17:56,837 --> 00:17:57,918
+Professor Smoot
+invited us.
+
+417
+00:17:58,006 --> 00:18:00,325
+- We're Facebook friends.
+- Smooty!
+
+418
+00:18:02,107 --> 00:18:05,249
+Well, this is our
+reception, so go away.
+
+419
+00:18:05,337 --> 00:18:06,260
+SHELDON:
+Actually, Amy,
+
+420
+00:18:06,347 --> 00:18:07,793
+I think we should
+let them stay.
+
+421
+00:18:07,881 --> 00:18:09,394
+Please, enjoy yourselves.
+
+422
+00:18:09,482 --> 00:18:11,059
+Try some pigs
+in blankets.
+
+423
+00:18:11,147 --> 00:18:13,100
+And yes, that
+is the plural.
+
+424
+00:18:13,351 --> 00:18:14,951
+Great.
+Thanks.
+
+425
+00:18:16,428 --> 00:18:17,751
+What are you doing?
+
+426
+00:18:17,839 --> 00:18:19,292
+If they stay,
+everyone will see
+
+427
+00:18:19,427 --> 00:18:20,638
+that their grasp
+on super-asymmetry
+
+428
+00:18:20,725 --> 00:18:21,918
+is tenuous at best.
+
+429
+00:18:22,286 --> 00:18:24,004
+Oh. That's clever.
+
+430
+00:18:24,092 --> 00:18:26,801
+Yeah, I don't just know
+the plurals of things, Amy.
+
+431
+00:18:28,189 --> 00:18:29,379
+Is this gonna be
+a problem?
+
+432
+00:18:29,475 --> 00:18:31,356
+Mm? No, no, no.
+We have a plan.
+
+433
+00:18:31,444 --> 00:18:33,249
+Uh, Dr. Campbell
+and Pemberton,
+
+434
+00:18:33,337 --> 00:18:35,379
+settle a bet for
+Dr. Fowler and me?
+
+435
+00:18:35,467 --> 00:18:37,520
+We were just discussing,
+under what conditions
+
+436
+00:18:37,608 --> 00:18:39,848
+the radiative corrections
+to super-asymmetry
+
+437
+00:18:39,936 --> 00:18:42,049
+could cause time
+variation of alpha E.M.?
+
+438
+00:18:42,223 --> 00:18:45,960
+AMY: I say active galactic
+nuclei at cosmological distances
+
+439
+00:18:46,047 --> 00:18:47,430
+show a part per
+million deviation.
+
+440
+00:18:47,517 --> 00:18:48,543
+Dr. Cooper says
+
+441
+00:18:48,631 --> 00:18:51,864
+this has been disproven recently
+with quasar observations.
+
+442
+00:18:52,014 --> 00:18:53,114
+What do<i> you</i> think?
+
+443
+00:18:58,052 --> 00:18:59,522
+I agree with<i> you.</i>
+
+444
+00:19:02,153 --> 00:19:03,423
+Good answer.
+
+445
+00:19:03,886 --> 00:19:05,754
+Hey, uh, if we haven't
+said it before,
+
+446
+00:19:05,891 --> 00:19:09,034
+we just want to say...
+thank you.
+
+447
+00:19:09,136 --> 00:19:11,973
+Yeah. We couldn't have proven
+super-asymmetry without you.
+
+448
+00:19:12,061 --> 00:19:13,504
+Wait-wait. You all
+heard them say it.
+
+449
+00:19:13,592 --> 00:19:15,293
+They didn't do anything.
+
+450
+00:19:16,317 --> 00:19:19,291
+Sheldon. Shut up.
+Yeah... Well, that's rude.
+
+451
+00:19:19,379 --> 00:19:20,161
+No. Shut up.
+
+452
+00:19:20,249 --> 00:19:21,965
+Oh, the code
+word, thank you.
+
+453
+00:19:22,837 --> 00:19:24,289
+You know, it's strange.
+A few months ago,
+
+454
+00:19:24,376 --> 00:19:26,385
+nobody paid any attention to us,
+and now all of a sudden,
+
+455
+00:19:26,472 --> 00:19:27,915
+we're getting all
+these accolades.
+
+456
+00:19:28,003 --> 00:19:29,548
+Yeah, have-have any
+of you ever felt like
+
+457
+00:19:29,635 --> 00:19:30,948
+maybe you didn't
+deserve it?
+
+458
+00:19:31,036 --> 00:19:32,649
+Leonard, there's
+something I need to say.
+
+459
+00:19:32,737 --> 00:19:34,422
+- Shut up.
+- Okay.
+
+460
+00:19:35,627 --> 00:19:38,210
+It's crazy. We conclusively
+proved super-asymmetry,
+
+461
+00:19:38,297 --> 00:19:41,220
+and yet somehow we,
+we still feel like imposters.
+
+462
+00:19:41,307 --> 00:19:42,820
+There should be
+a term for that.
+
+463
+00:19:42,907 --> 00:19:45,520
+Oh, for crying out loud,
+there<i> is</i> a term for that!
+
+464
+00:19:45,607 --> 00:19:47,391
+It's called
+"imposter syndrome"
+
+465
+00:19:47,479 --> 00:19:48,539
+and you don't have it!
+
+466
+00:19:48,627 --> 00:19:50,992
+Because you can't have it
+if you<i> are</i> imposters,
+
+467
+00:19:51,080 --> 00:19:52,210
+and you<i> are!</i>
+
+468
+00:19:52,298 --> 00:19:53,361
+We're the ones
+
+469
+00:19:53,449 --> 00:19:54,953
+who discovered super-asymmetry!
+
+470
+00:19:55,041 --> 00:19:56,210
+So if anyone's
+gonna feel like
+
+471
+00:19:56,298 --> 00:19:57,453
+they have
+imposter syndrome,
+
+472
+00:19:57,541 --> 00:20:00,906
+it's us, because we're not
+imposters!<i> They</i> are!
+
+473
+00:20:00,994 --> 00:20:04,070
+You're imposters
+and you're frauds!
+
+474
+00:20:09,872 --> 00:20:12,027
+- Is that what I would've sounded like?
+- Yeah.
+
+475
+00:20:12,115 --> 00:20:13,645
+Yikes!
+
+476
+00:20:17,664 --> 00:20:20,260
+A time,
+there was a little astronaut
+
+477
+00:20:20,347 --> 00:20:21,688
+<i>who was sitting in a rocket</i>
+
+478
+00:20:21,776 --> 00:20:24,982
+- <i>waiting to go to space."</i>
+- MAN (over radio): Three... two... one...
+
+479
+00:20:25,070 --> 00:20:26,730
+WOLOWITZ: <i>And while all
+the other astronauts</i>
+
+480
+00:20:26,791 --> 00:20:29,320
+<i>laughed and joked,
+he stayed quiet,</i>
+
+481
+00:20:29,408 --> 00:20:31,031
+<i>because he had a secret.</i>
+
+482
+00:20:31,156 --> 00:20:34,797
+<i>He was scared.
+He had another secret, too.</i>
+
+483
+00:20:34,914 --> 00:20:37,617
+<i>He was only pretending to be
+scared to trick the alien king.</i>
+
+484
+00:20:38,367 --> 00:20:40,227
+Ha-ha!
+
+485
+00:20:41,367 --> 00:20:42,687
+BERNADETTE:
+Howie.
+
+486
+00:20:43,585 --> 00:20:44,715
+Fine.
+
+487
+00:20:44,803 --> 00:20:47,007
+There was no alien.
+(chuckles)
+
+488
+00:20:49,514 --> 00:20:51,980
+There was a bossy wife, though.
+We'll get to her later.
+
+489
+00:20:52,068 --> 00:20:54,840
+<font color=#ffff00>Captioning sponsored by</font>
+<font color=#ffff00>CBS</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

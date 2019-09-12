@@ -1,0 +1,2167 @@
+﻿1
+00:00:04,657 --> 00:00:05,970
+What are you doing?
+
+2
+00:00:05,971 --> 00:00:08,772
+Pigeon check for Sheldon.
+
+3
+00:00:08,774 --> 00:00:10,807
+North side's all clear!
+
+4
+00:00:10,809 --> 00:00:13,110
+Great. Let's look
+at some planets!
+
+5
+00:00:13,112 --> 00:00:16,113
+Hey, why'd you lug your
+telescope all the way over here?
+
+6
+00:00:16,115 --> 00:00:17,748
+Leonard has one
+in our apartment.
+
+7
+00:00:17,750 --> 00:00:19,483
+Yeah, I'm gonna
+use Leonard's.
+
+8
+00:00:19,485 --> 00:00:23,020
+Might as well hold my hand
+up like this and squint.
+
+9
+00:00:23,022 --> 00:00:25,556
+I don't know.
+It seemed pretty good.
+
+10
+00:00:25,558 --> 00:00:27,524
+You know, once
+when the cable went out,
+
+11
+00:00:27,526 --> 00:00:29,326
+I watched an entire episode
+of <i>The Bachelor</i>
+
+12
+00:00:29,328 --> 00:00:32,162
+on a TV across the street.
+
+13
+00:00:32,164 --> 00:00:34,398
+This one's more
+of a professional model.
+
+14
+00:00:34,400 --> 00:00:36,033
+So was the girl he picked!
+
+15
+00:00:36,035 --> 00:00:40,837
+This baby's got a ten-inch
+diameter with f/10 ACF optics.
+
+16
+00:00:40,839 --> 00:00:42,272
+And tonight
+
+17
+00:00:42,274 --> 00:00:45,175
+Mercury is
+at its highest elongation.
+
+18
+00:00:45,177 --> 00:00:50,747
+It makes far-away things seem
+close, and Mercury is a planet.
+
+19
+00:00:50,749 --> 00:00:53,617
+I know Mercury is a planet.
+
+20
+00:00:53,619 --> 00:00:56,019
+But the-the other
+thing was helpful.
+
+21
+00:00:56,021 --> 00:00:58,422
+Oh. Look at that.
+
+22
+00:00:58,424 --> 00:01:01,024
+- Neil Gaiman tweeted about my store!
+- What did he say?
+
+23
+00:01:01,026 --> 00:01:02,659
+Uh, "Next time
+you're in Pasadena,
+
+24
+00:01:02,661 --> 00:01:04,228
+"check out The Comic Center.
+
+25
+00:01:04,230 --> 00:01:06,029
+"Great vibe,
+old school,
+
+26
+00:01:06,031 --> 00:01:08,065
+the owner really knows
+his stuff."
+
+27
+00:01:08,067 --> 00:01:09,933
+Isn't that amazing?
+
+28
+00:01:09,935 --> 00:01:12,202
+Well, uh, it's no <i>Sandman,</i>
+but I guess we can't expect
+
+29
+00:01:12,204 --> 00:01:14,738
+everything he writes
+to be a masterpiece.
+
+30
+00:01:14,740 --> 00:01:16,340
+When was he in your store?
+
+31
+00:01:16,342 --> 00:01:19,209
+I have no idea.
+I think I would remember that.
+
+32
+00:01:19,211 --> 00:01:22,646
+Obviously, vibranium is the
+most powerful metal in comics.
+
+33
+00:01:22,648 --> 00:01:24,681
+What, more powerful
+than adamantium?
+
+34
+00:01:24,683 --> 00:01:26,283
+He's right.
+
+35
+00:01:26,285 --> 00:01:28,885
+Wolverine's claws,
+Ultron's outer shell.
+
+36
+00:01:28,887 --> 00:01:30,354
+Need I go on?
+
+37
+00:01:30,356 --> 00:01:32,889
+You don't need to,
+but you probably will.
+
+38
+00:01:34,093 --> 00:01:36,860
+What about Wonder
+Woman's bracelets?
+
+39
+00:01:36,862 --> 00:01:38,161
+Good point.
+
+40
+00:01:38,163 --> 00:01:41,865
+Strong as a metal and
+fierce as a fashion choice.
+
+41
+00:01:41,867 --> 00:01:43,200
+You know,
+
+42
+00:01:43,202 --> 00:01:44,635
+Thor's hammer's
+pretty powerful,
+
+43
+00:01:44,637 --> 00:01:47,471
+and in the comics,
+it's made out of enchanted uru.
+
+44
+00:01:47,473 --> 00:01:49,706
+Uh, yeah, I think
+it's the enchantment
+
+45
+00:01:49,708 --> 00:01:51,708
+that's powerful,
+not the uru,
+
+46
+00:01:51,710 --> 00:01:54,745
+but, uh, thanks for playing.
+
+47
+00:01:56,548 --> 00:01:58,915
+Oh, man, I can't believe
+Neil Gaiman came in,
+
+48
+00:01:58,917 --> 00:01:59,990
+and we weren't even there.
+
+49
+00:01:59,991 --> 00:02:02,991
+<b><font color="#00FF00">♪ The Big Bang Theory 11x21 ♪</font></b>
+<font color="#00FFFF">The Comet Polarization</font>
+Original Air Date
+
+50
+00:02:02,992 --> 00:02:05,723
+♪ Our whole universe
+was in a hot, dense state ♪
+
+51
+00:02:05,724 --> 00:02:09,059
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+52
+00:02:09,061 --> 00:02:10,627
+♪ The Earth began to cool ♪
+
+53
+00:02:10,629 --> 00:02:13,230
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+54
+00:02:13,232 --> 00:02:15,866
+♪ We built the Wall ♪
+♪ <i>We built the pyramids</i> ♪
+
+55
+00:02:15,868 --> 00:02:18,535
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+56
+00:02:18,537 --> 00:02:20,470
+♪ That all started
+with a big bang ♪
+
+57
+00:02:20,472 --> 00:02:22,406
+♪ <i>Bang!</i> ♪
+
+58
+00:02:22,430 --> 00:02:27,030
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+59
+00:02:27,104 --> 00:02:29,705
+Can you see Mercury?
+Can you see it?
+
+60
+00:02:29,707 --> 00:02:31,573
+One second.
+
+61
+00:02:31,575 --> 00:02:34,376
+You know, the Greek
+version of Mercury, Hermes,
+
+62
+00:02:34,378 --> 00:02:36,145
+was worshipped
+in Athens
+
+63
+00:02:36,147 --> 00:02:38,981
+by the carving of
+giant wooden phalluses.
+
+64
+00:02:38,983 --> 00:02:40,616
+Please, Amy,
+
+65
+00:02:40,618 --> 00:02:43,352
+get your mind out
+of the ancient Athenian gutter.
+
+66
+00:02:44,388 --> 00:02:48,223
+Got another follower.
+I'm blowing up.
+
+67
+00:02:48,225 --> 00:02:49,491
+Great. How many does that make?
+
+68
+00:02:49,493 --> 00:02:50,526
+High double digits.
+
+69
+00:02:50,528 --> 00:02:53,028
+The nineties?
+Mid double digits.
+
+70
+00:02:53,030 --> 00:02:54,696
+Hey, uh,
+
+71
+00:02:54,698 --> 00:02:55,797
+Penny, do you want
+to check this out?
+
+72
+00:02:55,821 --> 00:02:57,133
+Yeah, sure.
+
+73
+00:02:57,134 --> 00:02:58,534
+All right, just, uh,
+look through here,
+
+74
+00:02:58,536 --> 00:03:00,736
+and if you want to take a
+picture, just push that button.
+
+75
+00:03:00,738 --> 00:03:02,538
+Okay.
+
+76
+00:03:02,540 --> 00:03:04,039
+Oh, what is that?
+
+77
+00:03:04,041 --> 00:03:06,842
+Is it Mercury? I'm really
+jonesing for Mercury.
+
+78
+00:03:07,945 --> 00:03:09,111
+I think it's a
+little early
+
+79
+00:03:09,113 --> 00:03:10,512
+for Mercury to
+be visible yet.
+
+80
+00:03:10,514 --> 00:03:12,047
+Playing hard to get.
+
+81
+00:03:12,049 --> 00:03:13,749
+I like that in a planet.
+
+82
+00:03:15,286 --> 00:03:17,553
+No, there's something fuzzy.
+
+83
+00:03:17,555 --> 00:03:20,322
+Is it your teen years?
+
+84
+00:03:20,324 --> 00:03:22,324
+No.
+
+85
+00:03:22,326 --> 00:03:24,226
+Yes. Shut up.
+
+86
+00:03:24,228 --> 00:03:26,628
+Look. Look at that.
+I think I see something.
+
+87
+00:03:26,630 --> 00:03:28,397
+It could just be your eyelash.
+
+88
+00:03:28,399 --> 00:03:29,765
+It's not an eyelash!
+
+89
+00:03:29,767 --> 00:03:31,633
+Okay, well, uh,
+take a picture. Let's see.
+
+90
+00:03:31,635 --> 00:03:34,403
+Okay. Here.
+
+91
+00:03:37,274 --> 00:03:40,008
+Hmm. I do see something.
+
+92
+00:03:40,010 --> 00:03:41,743
+Told you.
+What is it?
+
+93
+00:03:41,745 --> 00:03:43,212
+I don't know.
+
+94
+00:03:43,214 --> 00:03:45,113
+Maybe it's a comet.
+
+95
+00:03:45,115 --> 00:03:46,348
+That would be so cool.
+
+96
+00:03:46,350 --> 00:03:47,683
+You guys want
+
+97
+00:03:47,685 --> 00:03:49,751
+to see a real star,
+look over here.
+
+98
+00:03:49,753 --> 00:03:51,420
+What?
+
+99
+00:03:51,422 --> 00:03:56,124
+I just got retweeted...
+by Patton Oswalt's brother.
+
+100
+00:04:01,432 --> 00:04:03,599
+So, this is really
+where Neil Gaiman shops?
+
+101
+00:04:03,601 --> 00:04:06,568
+Neil Gaiman, Nicolas Cage,
+Natalie Portman.
+
+102
+00:04:06,570 --> 00:04:08,604
+The list goes on.
+
+103
+00:04:08,606 --> 00:04:09,605
+They all come here?
+
+104
+00:04:09,607 --> 00:04:13,075
+Unless I'm lying.
+
+105
+00:04:21,385 --> 00:04:24,086
+Who are all these people?
+
+106
+00:04:24,088 --> 00:04:26,355
+What? Is this
+a flash mob?
+
+107
+00:04:27,524 --> 00:04:29,524
+Are they dancing?
+
+108
+00:04:29,526 --> 00:04:33,061
+I don't know what today's
+dancing looks like.
+
+109
+00:04:33,063 --> 00:04:36,098
+Hey, guys. That tweet
+actually got people
+
+110
+00:04:36,100 --> 00:04:37,566
+to come in.
+Isn't that great?
+
+111
+00:04:37,568 --> 00:04:40,469
+No. I liked the way
+the store was before.
+
+112
+00:04:40,471 --> 00:04:42,971
+You mean empty and sad?
+
+113
+00:04:42,973 --> 00:04:45,674
+Yes, it was perfect.
+
+114
+00:04:45,676 --> 00:04:50,579
+Like a funeral home that
+sells Pokémon cards.
+
+115
+00:04:51,915 --> 00:04:53,248
+What am I supposed to do now
+
+116
+00:04:53,250 --> 00:04:55,317
+if I want to hang out
+and read a comic book?
+
+117
+00:04:55,319 --> 00:04:56,852
+Go sit on the couch.
+
+118
+00:04:58,989 --> 00:05:01,290
+Next to a stranger?
+
+119
+00:05:01,292 --> 00:05:03,859
+If I'm going to sit, read,
+and ignore a woman,
+
+120
+00:05:03,861 --> 00:05:06,528
+it's going to be my fiancée.
+
+121
+00:05:06,530 --> 00:05:08,430
+Why are you being
+such a baby about the crowds?
+
+122
+00:05:08,432 --> 00:05:09,831
+You go to Comic-Con.
+
+123
+00:05:09,833 --> 00:05:10,899
+You-- I'm sorry.
+
+124
+00:05:10,901 --> 00:05:13,402
+You're comparing this
+place to Comic-Con?
+
+125
+00:05:13,404 --> 00:05:16,305
+Well, can I go to the bathroom
+here next to a Wookiee
+
+126
+00:05:16,307 --> 00:05:18,573
+who got his zipper
+stuck in his fur?
+
+127
+00:05:18,575 --> 00:05:22,377
+Wow. We go to Comic-Con
+for different reasons.
+
+128
+00:05:22,379 --> 00:05:24,046
+You know what?
+
+129
+00:05:24,048 --> 00:05:27,215
+Just give me a copy
+of <i>Action Comics</i> 1000,
+
+130
+00:05:27,217 --> 00:05:28,750
+and I'll be on my way.
+
+131
+00:05:28,752 --> 00:05:30,018
+Sorry. All out.
+
+132
+00:05:30,020 --> 00:05:33,622
+Now you just let people
+come in and buy them?
+
+133
+00:05:33,624 --> 00:05:37,192
+I didn't realize
+your soul was also for sale.
+
+134
+00:05:37,194 --> 00:05:38,360
+Well,
+
+135
+00:05:38,362 --> 00:05:41,830
+it wasn't,
+but, uh, make me an offer.
+
+136
+00:05:44,101 --> 00:05:46,101
+Who is that?
+
+137
+00:05:46,103 --> 00:05:48,036
+Sheldon.
+Who is he mad at?
+
+138
+00:05:48,038 --> 00:05:49,471
+Neil Gaiman.
+Who's that?
+
+139
+00:05:49,473 --> 00:05:51,707
+Not us.
+Great.
+
+140
+00:05:52,676 --> 00:05:54,476
+Guys.
+
+141
+00:05:54,478 --> 00:05:55,777
+Hi.
+Hey.
+
+142
+00:05:55,779 --> 00:05:56,878
+So, guess what.
+
+143
+00:05:56,880 --> 00:06:00,549
+That indeed was
+a comet last night,
+
+144
+00:06:00,551 --> 00:06:02,684
+and it turns out,
+no one's seen it before.
+
+145
+00:06:02,686 --> 00:06:04,186
+Wow.
+Really?
+
+146
+00:06:04,188 --> 00:06:07,022
+Look at that!
+I discovered a comet! Oh!
+
+147
+00:06:07,024 --> 00:06:09,157
+What do you mean
+<i>you</i> discovered it?
+
+148
+00:06:09,159 --> 00:06:10,726
+Well, I'm the one who saw it.
+
+149
+00:06:10,728 --> 00:06:13,095
+In my telescope
+that I positioned.
+
+150
+00:06:13,097 --> 00:06:14,763
+All you did was look into it.
+
+151
+00:06:14,765 --> 00:06:16,765
+Well, you both discovered it.
+
+152
+00:06:16,767 --> 00:06:19,134
+You can put both your names
+on the registration form.
+
+153
+00:06:19,136 --> 00:06:21,203
+Actually, we can't.
+Why not?
+
+154
+00:06:21,205 --> 00:06:23,372
+Because when I filled it out,
+it asked for name of discoverer,
+
+155
+00:06:23,374 --> 00:06:26,274
+and I put
+"Rajesh Koothrappali" because...
+
+156
+00:06:26,276 --> 00:06:29,878
+because that's who I am,
+and that's what I did.
+
+157
+00:06:29,880 --> 00:06:31,179
+Are you kidding me?
+
+158
+00:06:31,181 --> 00:06:33,815
+Well, he is the one
+who knew it was a comet.
+
+159
+00:06:33,817 --> 00:06:36,118
+No, he didn't.
+He thought it was an eyelash!
+
+160
+00:06:36,120 --> 00:06:38,286
+And you thought
+it was a fuzzy streak.
+
+161
+00:06:38,288 --> 00:06:40,756
+I mean, do you even know
+what a comet is?
+
+162
+00:06:40,758 --> 00:06:42,657
+Yeah, the thing I saw first.
+
+163
+00:06:42,659 --> 00:06:46,495
+I honestly don't think that
+that qualifies as a discovery.
+
+164
+00:06:46,497 --> 00:06:47,696
+But I took the picture.
+
+165
+00:06:47,698 --> 00:06:48,797
+Because I told you to!
+
+166
+00:06:48,799 --> 00:06:50,532
+Like, if a monkey
+took the picture,
+
+167
+00:06:50,534 --> 00:06:51,700
+did it discover the comet?
+
+168
+00:06:51,702 --> 00:06:55,570
+Excuse me?!
+
+169
+00:06:55,572 --> 00:06:58,006
+Uh, he didn't mean monkey.
+
+170
+00:06:58,008 --> 00:07:00,208
+- Get the hell out of my apartment!
+- And she didn't mean that.
+
+171
+00:07:00,210 --> 00:07:02,711
+Actually, I think she did.
+You should go.
+
+172
+00:07:05,249 --> 00:07:07,215
+You look great.
+
+173
+00:07:07,217 --> 00:07:08,683
+Oh, thanks.
+
+174
+00:07:08,685 --> 00:07:10,385
+Would you believe
+this is actually a dress
+
+175
+00:07:10,387 --> 00:07:11,586
+from before I was pregnant?
+
+176
+00:07:11,588 --> 00:07:12,821
+Well, it's not a competition,
+
+177
+00:07:12,823 --> 00:07:16,191
+but I wore this suit
+to my Bar Mitzvah.
+
+178
+00:07:16,193 --> 00:07:17,659
+Where's Stuart?
+
+179
+00:07:17,661 --> 00:07:19,594
+I told him
+we had a 6:30 reservation.
+
+180
+00:07:19,596 --> 00:07:21,329
+Well, I'll call him.
+
+181
+00:07:23,734 --> 00:07:27,102
+Comic Center,
+where the real superhero is you.
+
+182
+00:07:27,104 --> 00:07:28,837
+Stuart, you're supposed
+to be babysitting.
+
+183
+00:07:28,839 --> 00:07:30,071
+Oh!
+
+184
+00:07:30,073 --> 00:07:32,140
+Shoot. That was tonight.
+I forgot.
+
+185
+00:07:32,142 --> 00:07:33,642
+The store's been really busy.
+
+186
+00:07:33,644 --> 00:07:36,144
+Well, when can you get here?
+
+187
+00:07:36,146 --> 00:07:38,180
+Um, I don't think I can.
+Listen to this.
+
+188
+00:07:38,182 --> 00:07:40,749
+I-I was ringing up a customer,
+and I heard someone say,
+
+189
+00:07:40,751 --> 00:07:43,819
+"Hey, there's a line,"
+and I looked, and there was.
+
+190
+00:07:44,655 --> 00:07:47,255
+Come on. You can't
+do this to us.
+
+191
+00:07:47,257 --> 00:07:49,591
+I am really sorry. I
+will make it up to you.
+
+192
+00:07:49,593 --> 00:07:52,294
+But it won't be with
+a Val Kilmer Batman figurine
+
+193
+00:07:52,296 --> 00:07:54,729
+because some sucker's
+buying that right now.
+
+194
+00:07:55,899 --> 00:07:58,667
+Not you. This is great.
+
+195
+00:07:59,570 --> 00:08:01,736
+He says he has to work.
+
+196
+00:08:01,738 --> 00:08:02,938
+Oh, it's okay.
+
+197
+00:08:02,940 --> 00:08:04,439
+We can have date night
+another night.
+
+198
+00:08:04,441 --> 00:08:06,174
+But you got all dressed up.
+
+199
+00:08:06,176 --> 00:08:09,277
+We were supposed to have
+dinner and romance.
+
+200
+00:08:09,279 --> 00:08:11,279
+We'll just have
+to divide and conquer.
+
+201
+00:08:11,281 --> 00:08:12,481
+I'll go to dinner,
+
+202
+00:08:12,483 --> 00:08:15,317
+and you can stay home with
+the Internet and have romance.
+
+203
+00:08:18,222 --> 00:08:19,921
+Okay, look, I Googled it.
+
+204
+00:08:19,923 --> 00:08:22,157
+I took the picture,
+so it's my discovery.
+
+205
+00:08:22,159 --> 00:08:23,625
+He stole my comet.
+
+206
+00:08:23,627 --> 00:08:26,127
+I know, but on the other hand,
+do you really care?
+
+207
+00:08:26,129 --> 00:08:28,463
+Yes, I care.
+This happens to me all the time.
+
+208
+00:08:28,465 --> 00:08:29,831
+People take one look at me
+
+209
+00:08:29,833 --> 00:08:31,666
+and assume I don't know
+what I'm talking about.
+
+210
+00:08:31,668 --> 00:08:33,034
+Oh, I'm sure that's not true.
+
+211
+00:08:33,036 --> 00:08:34,202
+I'm sorry. Are you saying
+
+212
+00:08:34,204 --> 00:08:36,304
+I don't know
+what I'm talking about?
+
+213
+00:08:36,306 --> 00:08:39,674
+No, I'm not saying anything...
+ever again.
+
+214
+00:08:39,676 --> 00:08:41,643
+Look, I'm serious.
+The other day at work,
+
+215
+00:08:41,645 --> 00:08:44,546
+I had this great idea, but
+no one was listening to me.
+
+216
+00:08:44,548 --> 00:08:46,848
+And then five minutes later,
+Paul said the same thing,
+
+217
+00:08:46,850 --> 00:08:48,717
+and they practically
+carried him around the room.
+
+218
+00:08:48,719 --> 00:08:49,851
+Oh, well, what was it?
+
+219
+00:08:49,853 --> 00:08:51,453
+Well, CPK for lunch,
+
+220
+00:08:51,455 --> 00:08:53,889
+but that's just one example.
+
+221
+00:08:53,891 --> 00:08:55,023
+It also happens
+with all
+
+222
+00:08:55,025 --> 00:08:56,324
+the doctors I have to deal with.
+
+223
+00:08:56,326 --> 00:08:57,626
+You know,
+they're so condescending.
+
+224
+00:08:57,628 --> 00:08:59,261
+I'm so sick
+of letting this stuff slide.
+
+225
+00:08:59,263 --> 00:09:01,997
+I found that comet. Why should
+I let Raj say he found it?
+
+226
+00:09:01,999 --> 00:09:03,598
+I know you're right,
+but he is our friend,
+
+227
+00:09:03,600 --> 00:09:05,433
+and this could be good
+for his career.
+
+228
+00:09:05,435 --> 00:09:08,336
+Okay, so you agree with me,
+but he still gets his way?
+
+229
+00:09:08,338 --> 00:09:10,639
+Ah, there you go.
+Everybody wins.
+
+230
+00:09:10,641 --> 00:09:12,874
+My God, you're such
+a people-pleaser.
+
+231
+00:09:12,876 --> 00:09:14,376
+You can't stand
+making anyone angry.
+
+232
+00:09:14,378 --> 00:09:16,378
+Why would I want
+to make anyone angry?
+
+233
+00:09:16,380 --> 00:09:18,146
+'Cause it would mean
+you were on my side.
+
+234
+00:09:18,148 --> 00:09:20,549
+Oh, I am on your side.
+Hey, hey.
+
+235
+00:09:20,551 --> 00:09:24,119
+Let's not forget who
+you're really mad at here-- Raj.
+
+236
+00:09:24,121 --> 00:09:27,188
+Oh, and Paul.
+Paul sucks, right?
+
+237
+00:09:28,759 --> 00:09:31,493
+But don't tell him I said that.
+
+238
+00:09:32,629 --> 00:09:35,997
+Hey, Howard,
+did you see that...?
+
+239
+00:09:42,606 --> 00:09:44,940
+I'm over here, Sheldon.
+
+240
+00:09:46,710 --> 00:09:48,677
+That was a close one.
+
+241
+00:09:48,679 --> 00:09:51,079
+I almost went home
+with that guy.
+
+242
+00:09:51,081 --> 00:09:54,149
+You doing okay?
+Do we need to go?
+
+243
+00:09:54,151 --> 00:09:56,017
+No, I'm fine.
+
+244
+00:09:56,019 --> 00:09:59,054
+I admit all these people did
+take me by surprise at first,
+
+245
+00:09:59,056 --> 00:10:01,623
+but I've learned
+that I can accept change.
+
+246
+00:10:01,625 --> 00:10:03,792
+S-Since when?
+
+247
+00:10:04,728 --> 00:10:06,795
+I managed it when Amy
+switched her shampoo
+
+248
+00:10:06,797 --> 00:10:09,264
+from Prell
+to Prell for oily hair. Hmm?
+
+249
+00:10:09,266 --> 00:10:10,865
+Although I do miss the way
+
+250
+00:10:10,867 --> 00:10:13,702
+her head used
+to slide off the pillow.
+
+251
+00:10:18,942 --> 00:10:20,542
+May I help you?
+
+252
+00:10:20,544 --> 00:10:21,943
+Who are you?
+
+253
+00:10:21,945 --> 00:10:24,346
+Oh, I'm Denise,
+the new assistant manager.
+
+254
+00:10:24,348 --> 00:10:26,014
+Nope.
+
+255
+00:10:31,651 --> 00:10:34,318
+Can you believe it?
+In the past decade,
+
+256
+00:10:34,320 --> 00:10:36,587
+I have spent thousands
+of dollars in that store,
+
+257
+00:10:36,589 --> 00:10:38,322
+and this is the thanks I get.
+
+258
+00:10:38,324 --> 00:10:41,826
+You're right. I mean,
+he could at least get you a mug.
+
+259
+00:10:42,662 --> 00:10:44,028
+He gave me a mug.
+
+260
+00:10:44,030 --> 00:10:46,230
+What do you think
+I'm drinking out of?
+
+261
+00:10:46,866 --> 00:10:49,066
+Do you even pay attention?
+
+262
+00:10:49,068 --> 00:10:51,369
+Honestly, less and less.
+
+263
+00:10:52,605 --> 00:10:55,239
+Amy, the comic
+book store
+
+264
+00:10:55,241 --> 00:10:58,843
+is like my version
+of the country in <i>Black Panther.</i>
+
+265
+00:10:58,845 --> 00:11:01,445
+Okay, I'm afraid this is
+gonna get really offensive
+
+266
+00:11:01,447 --> 00:11:02,980
+to certain groups.
+
+267
+00:11:05,418 --> 00:11:08,085
+The nation of Wakanda
+was a hidden gem,
+
+268
+00:11:08,087 --> 00:11:10,388
+and they wanted to
+keep it that way,
+
+269
+00:11:10,390 --> 00:11:13,524
+because they knew if they
+opened it up to the world,
+
+270
+00:11:13,526 --> 00:11:16,694
+everything that was special
+about it would get ruined.
+
+271
+00:11:16,696 --> 00:11:18,929
+Are you done?
+Yes.
+
+272
+00:11:18,931 --> 00:11:21,532
+Oh, okay.
+
+273
+00:11:21,534 --> 00:11:24,301
+That both made sense
+<i>and</i> wasn't offensive.
+
+274
+00:11:25,505 --> 00:11:28,539
+And to make things worse,
+Stuart hired some woman.
+
+275
+00:11:28,541 --> 00:11:31,108
+There we go.
+No...
+
+276
+00:11:31,110 --> 00:11:33,244
+I'm not annoyed
+that she's a woman.
+
+277
+00:11:33,246 --> 00:11:35,312
+I'm annoyed, and
+she's a woman.
+
+278
+00:11:35,314 --> 00:11:36,747
+No, I get that.
+
+279
+00:11:36,749 --> 00:11:39,650
+I'm annoyed and <i>I'm</i> a woman.
+
+280
+00:11:40,887 --> 00:11:43,020
+It's just, Stuart knows
+my likes and dislikes.
+
+281
+00:11:43,022 --> 00:11:45,189
+And I can count
+on his discretion
+
+282
+00:11:45,191 --> 00:11:47,224
+if I pick up the
+occasional back issue
+
+283
+00:11:47,226 --> 00:11:49,960
+of <i>Superman's Pal</i>
+<i>Jimmy Olsen.</i>
+
+284
+00:11:51,497 --> 00:11:54,031
+Which I don't.
+
+285
+00:11:54,033 --> 00:11:57,034
+Well, don't think of her
+as a stranger.
+
+286
+00:11:57,036 --> 00:11:59,236
+Just think of her as a...
+
+287
+00:11:59,238 --> 00:12:04,108
+a friend you haven't berated,
+lectured or condescended to yet.
+
+288
+00:12:04,110 --> 00:12:06,911
+I hadn't thought
+of it that way.
+
+289
+00:12:06,913 --> 00:12:08,345
+Thank you.
+
+290
+00:12:08,347 --> 00:12:10,748
+You're welcome.
+You're wise,
+
+291
+00:12:10,750 --> 00:12:12,716
+and you smell like books.
+
+292
+00:12:14,987 --> 00:12:16,854
+You really are
+the whole package.
+
+293
+00:12:20,827 --> 00:12:22,493
+Raj, just help me out.
+
+294
+00:12:22,495 --> 00:12:24,595
+Penny's pretty mad
+about this comet thing.
+
+295
+00:12:24,597 --> 00:12:26,197
+Well, I'm sorry she's upset.
+
+296
+00:12:26,199 --> 00:12:28,432
+But she didn't discover it.
+Oh, come on,
+
+297
+00:12:28,434 --> 00:12:30,167
+you know she was a part of it.
+
+298
+00:12:30,169 --> 00:12:31,869
+Just add her name
+to the registration.
+
+299
+00:12:31,871 --> 00:12:34,138
+But I already told
+everyone at work that I did it.
+
+300
+00:12:34,140 --> 00:12:35,272
+My boss was so excited,
+
+301
+00:12:35,274 --> 00:12:36,874
+he started calling me
+Captain Comet.
+
+302
+00:12:36,876 --> 00:12:38,409
+Which is better
+
+303
+00:12:38,411 --> 00:12:41,445
+than his last nickname for me:
+Dr. Doughnuts.
+
+304
+00:12:41,447 --> 00:12:43,781
+Because one time
+I had two doughnuts.
+
+305
+00:12:43,783 --> 00:12:46,417
+And two times
+I had three doughnuts.
+
+306
+00:12:47,787 --> 00:12:50,855
+I guess you're just gonna
+have to swallow your pride.
+
+307
+00:12:50,857 --> 00:12:52,923
+I, I, I can't do that.
+
+308
+00:12:52,925 --> 00:12:56,827
+Sure you can-- just pretend
+it's two or three doughnuts.
+
+309
+00:12:56,829 --> 00:12:58,162
+You don't understand.
+
+310
+00:12:58,164 --> 00:12:59,830
+Leonard, I need this.
+
+311
+00:12:59,832 --> 00:13:01,098
+My last big discovery was:
+
+312
+00:13:01,100 --> 00:13:03,300
+if you press
+your upper lip hard enough,
+
+313
+00:13:03,302 --> 00:13:06,036
+you can block a sneeze.
+
+314
+00:13:07,240 --> 00:13:09,573
+<i>I</i> told you that.
+
+315
+00:13:09,575 --> 00:13:11,742
+This is all my fault.
+
+316
+00:13:11,744 --> 00:13:14,144
+I brought this
+upon myself.
+
+317
+00:13:14,146 --> 00:13:16,447
+I'm a bad scientist.
+
+318
+00:13:16,449 --> 00:13:18,549
+I'm a selfish person.
+No, no,
+
+319
+00:13:18,551 --> 00:13:19,617
+don't get upset.
+
+320
+00:13:19,619 --> 00:13:20,918
+You're not a bad person.
+
+321
+00:13:20,920 --> 00:13:22,987
+Just let me... talk to Penny.
+
+322
+00:13:22,989 --> 00:13:24,088
+I'm-I'm sure I can
+
+323
+00:13:24,090 --> 00:13:25,656
+make her understand.
+
+324
+00:13:25,658 --> 00:13:28,058
+Thank you. You're
+a good friend, Leonard.
+
+325
+00:13:28,060 --> 00:13:31,629
+I'm glad you think so,
+'cause I may be living here soon.
+
+326
+00:13:39,105 --> 00:13:41,505
+Just look at her
+over there.
+
+327
+00:13:41,507 --> 00:13:43,107
+She just started,
+
+328
+00:13:43,109 --> 00:13:44,775
+and she gets to
+put up "Staff Picks."
+
+329
+00:13:44,777 --> 00:13:46,310
+I've been coming here
+for ten years--
+
+330
+00:13:46,312 --> 00:13:48,979
+I still can't put up
+"Sheldon Dislikes."
+
+331
+00:13:48,981 --> 00:13:50,481
+I talked to her yesterday.
+
+332
+00:13:50,483 --> 00:13:52,983
+She really seems
+to know her stuff.
+
+333
+00:13:53,819 --> 00:13:55,686
+Challenge accepted.
+
+334
+00:13:55,688 --> 00:13:58,689
+That is not what that was.
+
+335
+00:13:59,525 --> 00:14:01,325
+Excuse me.
+
+336
+00:14:01,327 --> 00:14:02,993
+I was wondering
+
+337
+00:14:02,995 --> 00:14:04,328
+if you could recommend
+something.
+
+338
+00:14:04,330 --> 00:14:06,163
+Oh, sure. You want
+to tell me what you like?
+
+339
+00:14:06,165 --> 00:14:07,965
+I would not.
+
+340
+00:14:11,771 --> 00:14:15,472
+All right, well, you're
+wearing a Green Lantern shirt,
+
+341
+00:14:15,474 --> 00:14:17,107
+so I'm guessing
+you're a DC fan.
+
+342
+00:14:17,109 --> 00:14:18,876
+Although that's from
+the Alan Scott era,
+
+343
+00:14:18,878 --> 00:14:20,711
+so you're probably not
+super into the current run.
+
+344
+00:14:20,713 --> 00:14:23,013
+How would you feel about
+an alternate history
+
+345
+00:14:23,015 --> 00:14:26,016
+where World War I was fought
+with dragons and magic?
+
+346
+00:14:26,018 --> 00:14:27,618
+That's what I wanted the theme
+
+347
+00:14:27,620 --> 00:14:29,720
+of my tenth birthday party
+to be!
+
+348
+00:14:29,722 --> 00:14:31,055
+Here.
+
+349
+00:14:31,057 --> 00:14:32,957
+Check this out.
+
+350
+00:14:32,959 --> 00:14:35,559
+- It's by Kurt Busiek.
+- You know, if you're interested
+
+351
+00:14:35,561 --> 00:14:36,994
+in alternate histories,
+
+352
+00:14:36,996 --> 00:14:39,396
+Neil Gaiman wrote one
+called <i>1602.</i>
+
+353
+00:14:39,398 --> 00:14:42,533
+I'm sorry, we're in the middle
+of something here.
+
+354
+00:14:44,503 --> 00:14:45,703
+It is pretty good, actually.
+
+355
+00:14:45,705 --> 00:14:46,937
+He takes
+the Marvel superheroes
+
+356
+00:14:46,939 --> 00:14:49,373
+and he puts them
+into Elizabethan England.
+
+357
+00:14:49,375 --> 00:14:53,777
+Let me guess-- everyone thinks
+the X-Men are witches.
+
+358
+00:14:54,614 --> 00:14:55,879
+Yeah.
+
+359
+00:14:58,417 --> 00:15:01,218
+Why don't you take this home,
+and if you don't like it,
+
+360
+00:15:01,220 --> 00:15:03,187
+return it and I'll give
+you your money back.
+
+361
+00:15:03,189 --> 00:15:04,288
+Just don't tell Stuart.
+
+362
+00:15:04,290 --> 00:15:06,657
+Stuart who?
+
+363
+00:15:09,629 --> 00:15:10,761
+Hey.
+
+364
+00:15:10,763 --> 00:15:14,231
+Where have you been?
+I went to yell at Raj.
+
+365
+00:15:14,233 --> 00:15:16,900
+And? Is he gonna
+give me back my comet?
+
+366
+00:15:16,902 --> 00:15:18,702
+Interesting thing.
+
+367
+00:15:18,704 --> 00:15:20,504
+Did you cave?
+
+368
+00:15:20,506 --> 00:15:21,939
+Maybe I did, or...
+
+369
+00:15:21,941 --> 00:15:23,874
+maybe I did.
+
+370
+00:15:25,444 --> 00:15:27,444
+But I did realize something.
+
+371
+00:15:27,446 --> 00:15:30,481
+I-I don't need
+to fight your battles.
+
+372
+00:15:30,483 --> 00:15:31,782
+You... you are
+
+373
+00:15:31,784 --> 00:15:33,317
+a strong and independent woman.
+
+374
+00:15:33,319 --> 00:15:35,052
+You have your own voice.
+
+375
+00:15:35,054 --> 00:15:36,920
+And, to quote
+another strong woman,
+
+376
+00:15:36,922 --> 00:15:39,823
+Katy Perry,
+it's time to hear you roar.
+
+377
+00:15:39,825 --> 00:15:43,260
+Did you just think of that
+on your way home?
+
+378
+00:15:43,262 --> 00:15:45,996
+What do you want from me?
+The song was on in the car.
+
+379
+00:15:45,998 --> 00:15:47,398
+But it doesn't mean
+
+380
+00:15:47,400 --> 00:15:49,199
+that it's not true.
+
+381
+00:15:49,201 --> 00:15:50,868
+Well, you make a good point.
+
+382
+00:15:50,870 --> 00:15:53,103
+I'm gonna go talk to Raj myself.
+
+383
+00:15:54,006 --> 00:15:55,973
+I know I don't say it enough,
+
+384
+00:15:55,975 --> 00:15:58,175
+but you go, girl.
+
+385
+00:15:58,177 --> 00:16:01,111
+That was enough.
+
+386
+00:16:03,449 --> 00:16:05,449
+What's all this?
+
+387
+00:16:05,451 --> 00:16:07,618
+Well, we missed
+our date night,
+
+388
+00:16:07,620 --> 00:16:09,987
+and Stuart's working again,
+so I thought we could have
+
+389
+00:16:09,989 --> 00:16:11,622
+a date night here at home.
+
+390
+00:16:11,624 --> 00:16:13,457
+Aw, that's so sweet.
+
+391
+00:16:13,459 --> 00:16:16,126
+Oh. So... is that
+really what you're wearing
+
+392
+00:16:16,128 --> 00:16:18,162
+to our date night?
+
+393
+00:16:18,164 --> 00:16:21,932
+Well, Stuart's not here
+and the kids are sleeping.
+
+394
+00:16:21,934 --> 00:16:23,901
+I could wear nothing.
+
+395
+00:16:23,903 --> 00:16:25,969
+You might want
+to hold off on that--
+
+396
+00:16:25,971 --> 00:16:28,005
+we're starting with soup.
+
+397
+00:16:29,375 --> 00:16:31,108
+Hey!
+
+398
+00:16:31,110 --> 00:16:33,410
+Wha...? I thought you
+were working late again.
+
+399
+00:16:33,412 --> 00:16:35,245
+I was, but Denise
+has got it covered.
+
+400
+00:16:35,247 --> 00:16:36,380
+Oh.
+Oh...
+
+401
+00:16:36,382 --> 00:16:37,848
+the funniest thing
+happened today.
+
+402
+00:16:37,850 --> 00:16:41,051
+You know the, uh, receipt tape
+in the cash register?
+
+403
+00:16:41,053 --> 00:16:42,252
+It ran out.
+
+404
+00:16:43,322 --> 00:16:45,322
+I didn't even know
+it could do that.
+
+405
+00:16:46,692 --> 00:16:48,587
+You know, we were just
+sitting down to dinner.
+
+406
+00:16:48,611 --> 00:16:49,728
+Oh. Perfect timing.
+
+407
+00:16:49,729 --> 00:16:51,195
+I'll go wash up.
+
+408
+00:16:52,531 --> 00:16:54,465
+There goes date night.
+
+409
+00:16:54,467 --> 00:16:56,633
+Are you kidding?
+Stuart's here! Get your purse.
+
+410
+00:16:56,635 --> 00:16:58,836
+We're going out.
+What about the dinner you made?
+
+411
+00:16:58,838 --> 00:17:00,671
+Right. Hey, Stuart!
+
+412
+00:17:00,673 --> 00:17:03,841
+That can of soup
+sitting by the stove, that's for you!
+
+413
+00:17:03,843 --> 00:17:06,176
+You made canned soup
+for date night?
+
+414
+00:17:06,178 --> 00:17:07,845
+And you wore sweatpants.
+Let's go.
+
+415
+00:17:11,217 --> 00:17:14,785
+Oh, <i>and</i> it turns out Denise
+is also really excited
+
+416
+00:17:14,787 --> 00:17:16,620
+for Dan Slott's run
+on <i>Iron Man,</i>
+
+417
+00:17:16,622 --> 00:17:19,289
+because he was her favorite
+Spider-Man writer, too.
+
+418
+00:17:19,291 --> 00:17:21,892
+How about that?
+
+419
+00:17:21,894 --> 00:17:26,130
+Oh! And guess who goes to art school
+right here in Pasadena.
+
+420
+00:17:26,132 --> 00:17:27,598
+Hmm. I don't know.
+
+421
+00:17:27,600 --> 00:17:29,800
+Denise?
+
+422
+00:17:30,903 --> 00:17:33,103
+You're a good guesser, Amy.
+
+423
+00:17:33,105 --> 00:17:35,472
+Not as good
+as Denise, though.
+
+424
+00:17:35,474 --> 00:17:37,641
+She thought I would like
+this comic, <i>Arrowsmith,</i>
+
+425
+00:17:37,643 --> 00:17:41,245
+and she was right.
+Well, was the store crowded?
+
+426
+00:17:41,247 --> 00:17:42,980
+I bet it was.
+I know you hate that.
+
+427
+00:17:42,982 --> 00:17:45,048
+It was. But if it
+weren't for the crowds,
+
+428
+00:17:45,050 --> 00:17:47,117
+Stuart never would
+have hired Denise,
+
+429
+00:17:47,119 --> 00:17:48,519
+and she's the best.
+
+430
+00:17:53,359 --> 00:17:54,858
+You must be Denise.
+
+431
+00:17:54,860 --> 00:17:56,727
+Oh, yeah. How
+can I help you?
+
+432
+00:17:56,729 --> 00:17:58,762
+I'm Amy, Sheldon's fiancée.
+
+433
+00:17:58,764 --> 00:18:00,597
+Oh. I got to be honest,
+
+434
+00:18:00,599 --> 00:18:03,600
+I wasn't a hundred percent
+sure you were real.
+
+435
+00:18:05,271 --> 00:18:08,772
+Oh, I am. And I heard you and
+Sheldon had a great time today
+
+436
+00:18:08,774 --> 00:18:10,140
+talking about comic books.
+
+437
+00:18:10,142 --> 00:18:11,475
+We did.
+Great.
+
+438
+00:18:11,477 --> 00:18:13,644
+Here's what's gonna happen.
+
+439
+00:18:13,646 --> 00:18:15,312
+You're gonna teach me
+how to do that.
+
+440
+00:18:15,314 --> 00:18:16,446
+Do what?
+
+441
+00:18:16,448 --> 00:18:18,315
+Pretend to like comic books.
+
+442
+00:18:18,317 --> 00:18:20,751
+Oh, no, I actually
+like comic books.
+
+443
+00:18:20,753 --> 00:18:22,519
+All right, let's not get
+hung up on semantics.
+
+444
+00:18:22,521 --> 00:18:24,588
+It's late, we got
+a lot of work to do.
+
+445
+00:18:34,600 --> 00:18:36,767
+I'm sorry.
+
+446
+00:18:36,769 --> 00:18:38,435
+I haven't even said
+anything yet.
+
+447
+00:18:38,437 --> 00:18:40,771
+I know, but I heard your
+footsteps coming up the stairs,
+
+448
+00:18:40,773 --> 00:18:42,272
+and they sounded angry.
+
+449
+00:18:42,274 --> 00:18:45,309
+They are angry.
+I'm mad at you.
+
+450
+00:18:45,311 --> 00:18:47,077
+And you have every
+right to be, okay?
+
+451
+00:18:47,079 --> 00:18:48,745
+I was being...
+I was being a jerk.
+
+452
+00:18:48,747 --> 00:18:52,416
+We did this together, and
+I hogged all of the credit.
+
+453
+00:18:52,418 --> 00:18:55,886
+And after you've been such a good friend
+to me over the years.
+
+454
+00:18:55,888 --> 00:18:59,256
+Like, I wouldn't even be able to talk
+to women if it wasn't for you, so...
+
+455
+00:18:59,258 --> 00:19:02,759
+so I'm... I'm gonna make sure
+that your name is on the comet.
+
+456
+00:19:02,761 --> 00:19:04,094
+Thank you.
+
+457
+00:19:04,096 --> 00:19:06,964
+Even if it's
+professionally embarrassing.
+
+458
+00:19:06,966 --> 00:19:11,168
+You know, or maybe put me
+on thin ice at work.
+
+459
+00:19:11,170 --> 00:19:13,570
+I may lose my funding.
+
+460
+00:19:13,572 --> 00:19:17,174
+I still, uh...
+still want to make this right.
+
+461
+00:19:17,176 --> 00:19:19,676
+Good. Bye.
+
+462
+00:19:22,229 --> 00:19:25,796
+That worked way better
+with Leonard.
+
+463
+00:19:32,826 --> 00:19:35,593
+- Hello.
+- Hi.
+
+464
+00:19:36,163 --> 00:19:38,630
+Why are you reading
+a comic book?
+
+465
+00:19:38,632 --> 00:19:40,666
+Denise recommended it to me.
+
+466
+00:19:40,668 --> 00:19:42,301
+It's the <i>Rebirth Omnibus.</i>
+
+467
+00:19:42,303 --> 00:19:45,070
+She thought it would be
+a good entry point for me
+
+468
+00:19:45,072 --> 00:19:47,139
+into the DC Universe--
+and I have to say,
+
+469
+00:19:47,141 --> 00:19:48,114
+- I really do like...
+- You know, Amy,
+
+470
+00:19:48,115 --> 00:19:50,345
+Amy, I've talked a lot about
+comic books lately,
+
+471
+00:19:50,369 --> 00:19:51,690
+can we talk about something else?
+
+472
+00:19:59,021 --> 00:20:05,921
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+<font color="#00FFFF">@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

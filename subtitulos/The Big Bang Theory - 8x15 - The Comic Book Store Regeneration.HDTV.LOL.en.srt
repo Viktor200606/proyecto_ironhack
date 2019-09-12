@@ -1,0 +1,2050 @@
+﻿1
+00:00:03,410 --> 00:00:06,384
+I've invented a science joke,
+would you like to hear it?
+
+2
+00:00:06,385 --> 00:00:07,564
+Sure.
+
+3
+00:00:07,565 --> 00:00:11,166
+How many Edisons does it take
+to screw in a light bulb?
+
+4
+00:00:11,168 --> 00:00:12,835
+How many?
+
+5
+00:00:12,837 --> 00:00:14,837
+Who cares?
+He stole the idea
+
+6
+00:00:14,839 --> 00:00:17,172
+and doesn't deserve
+his own joke.
+
+7
+00:00:17,174 --> 00:00:18,741
+Is that really true?
+
+8
+00:00:18,743 --> 00:00:21,410
+Of course, that's how you know
+it's a good joke.
+
+9
+00:00:21,412 --> 00:00:24,046
+It not only entertains,
+it informs.
+
+10
+00:00:25,515 --> 00:00:27,082
+Hey, sorry
+to interrupt.
+
+11
+00:00:27,084 --> 00:00:28,417
+Uh, Barry,
+
+12
+00:00:28,419 --> 00:00:31,620
+uh, how many Edisons does it
+take to screw in a light bulb?
+
+13
+00:00:31,622 --> 00:00:34,022
+Did you know Edison didn't
+actually invent the light bulb?
+
+14
+00:00:37,260 --> 00:00:39,595
+What do you want,
+Barry?
+
+15
+00:00:39,597 --> 00:00:42,598
+Just wanted to drop this off
+as a little thank you for Amy.
+
+16
+00:00:42,600 --> 00:00:43,932
+What's this for?
+
+17
+00:00:43,934 --> 00:00:45,734
+Your idea really
+helped me out.
+
+18
+00:00:45,736 --> 00:00:48,370
+My light-cone quantization
+paper's online already.
+
+19
+00:00:48,372 --> 00:00:50,873
+The response
+has been amazing.
+
+20
+00:00:50,875 --> 00:00:52,307
+Well, that's
+fascinating.
+
+21
+00:00:52,309 --> 00:00:53,776
+I can't wait to read it.
+
+22
+00:00:53,778 --> 00:00:55,110
+Oh, no, me as well.
+
+23
+00:00:55,112 --> 00:00:59,214
+Uh, please e-mail it
+to Sheldon@Bazinga.biz.
+
+24
+00:00:59,216 --> 00:01:00,549
+Why "dot-biz"?
+
+25
+00:01:00,551 --> 00:01:02,084
+Because I just gave
+you the business.
+
+26
+00:01:03,253 --> 00:01:05,254
+And also Bazinga.com
+was taken.
+
+27
+00:01:06,923 --> 00:01:08,924
+Anyway, thanks again.
+
+28
+00:01:08,926 --> 00:01:10,592
+Cooper, suck eggs.
+
+29
+00:01:13,096 --> 00:01:15,330
+Since when do you help out
+Barry Kripke?
+
+30
+00:01:15,332 --> 00:01:17,833
+Well, I'd been thinking about
+a cellular automata approach
+
+31
+00:01:17,835 --> 00:01:19,334
+to neuronal connectivity,
+
+32
+00:01:19,336 --> 00:01:21,170
+and I thought it might have
+some interesting applications
+
+33
+00:01:21,172 --> 00:01:22,738
+to string theory--
+it's not a big deal.
+
+34
+00:01:22,740 --> 00:01:24,640
+Oh, really?
+
+35
+00:01:24,642 --> 00:01:27,309
+When I was doing string theory
+and hit a dead end,
+
+36
+00:01:27,311 --> 00:01:29,077
+why didn't you try to help me?
+
+37
+00:01:29,079 --> 00:01:32,080
+I did-- you said the only
+math biologists know is
+
+38
+00:01:32,082 --> 00:01:34,249
+if you have three frogs
+and one hops away,
+
+39
+00:01:34,251 --> 00:01:36,485
+that leaves two frogs.
+
+40
+00:01:36,487 --> 00:01:39,755
+That's pretty funny,
+that does sound like me.
+
+41
+00:01:39,757 --> 00:01:40,923
+But that doesn't mean
+
+42
+00:01:40,925 --> 00:01:42,891
+that you should be
+standing on street corners
+
+43
+00:01:42,893 --> 00:01:46,128
+handing out your math
+to whatever guy comes along.
+
+44
+00:01:47,497 --> 00:01:49,164
+Sheldon, we're all scientists.
+
+45
+00:01:49,166 --> 00:01:50,833
+I helped out
+a fellow colleague.
+
+46
+00:01:50,835 --> 00:01:52,167
+You're being petty.
+
+47
+00:01:52,169 --> 00:01:53,769
+I'm being petty?
+
+48
+00:01:53,771 --> 00:01:57,105
+You know Barry and I
+have a professional rivalry.
+
+49
+00:01:57,107 --> 00:01:59,208
+You heard him--
+he told me to suck eggs.
+
+50
+00:01:59,210 --> 00:02:01,210
+If we were friends,
+he would have suggested
+
+51
+00:02:01,212 --> 00:02:02,611
+I suck something
+more pleasant.
+
+52
+00:02:05,782 --> 00:02:07,482
+Why are you laughing?
+
+53
+00:02:07,484 --> 00:02:08,984
+Did you learn
+something?
+
+54
+00:02:10,854 --> 00:02:14,489
+♪ Our whole universe
+was in a hot, dense state ♪
+
+55
+00:02:14,491 --> 00:02:17,793
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+56
+00:02:17,795 --> 00:02:19,461
+♪ The Earth began to cool
+
+57
+00:02:19,463 --> 00:02:22,164
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+58
+00:02:22,166 --> 00:02:24,666
+♪ We built the Wall
+♪ <i>We built the pyramids</i> ♪
+
+59
+00:02:24,668 --> 00:02:27,369
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+60
+00:02:27,371 --> 00:02:29,271
+♪ That all started
+with a big bang ♪
+
+61
+00:02:29,273 --> 00:02:29,929
+♪ <i>Bang!</i> ♪
+
+62
+00:02:29,930 --> 00:02:33,930
+<font color=#00FF00>♪ The Big Bang Theory 8x15 ♪</font>
+<font color=#00FFFF>The Comic Book Store Regeneration</font>
+Original Air Date on Fe
+
+63
+00:02:33,931 --> 00:02:39,531
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+64
+00:02:39,621 --> 00:02:40,955
+Okay, Ma.
+
+65
+00:02:40,957 --> 00:02:42,623
+Say hi to Aunt Gladys.
+
+66
+00:02:42,625 --> 00:02:43,891
+Yeah, I love you,
+too.
+
+67
+00:02:43,893 --> 00:02:44,893
+Bye.
+
+68
+00:02:44,894 --> 00:02:46,727
+Your mom having fun in Florida?
+
+69
+00:02:46,729 --> 00:02:48,062
+Mmm, she loves it.
+
+70
+00:02:48,064 --> 00:02:50,064
+She finally found a place
+where everyone talks about
+
+71
+00:02:50,066 --> 00:02:51,465
+how sweaty they are.
+
+72
+00:02:52,501 --> 00:02:54,502
+Anyway, she wants us
+to go to the house
+
+73
+00:02:54,504 --> 00:02:57,605
+and check in on Stuart
+because he might be "lonely."
+
+74
+00:02:57,607 --> 00:02:59,273
+She's just being nice.
+
+75
+00:02:59,275 --> 00:03:01,509
+Well, I'm her son, how come
+she doesn't send someone
+
+76
+00:03:01,511 --> 00:03:03,177
+to check on me if I'm lonely?
+
+77
+00:03:03,179 --> 00:03:05,179
+Because you have a wife.
+
+78
+00:03:08,250 --> 00:03:11,318
+Yeah, well, sometimes
+you work late.
+
+79
+00:03:11,320 --> 00:03:14,288
+I know you don't like
+Stuart being in the house,
+
+80
+00:03:14,290 --> 00:03:15,790
+but the store's
+about to reopen,
+
+81
+00:03:15,792 --> 00:03:17,158
+I'm sure he'll get
+back on his feet.
+
+82
+00:03:17,160 --> 00:03:18,693
+That would be great.
+
+83
+00:03:18,695 --> 00:03:21,095
+I'd love for things between me
+and Mom to get back to normal.
+
+84
+00:03:21,097 --> 00:03:24,732
+Well, normal's a
+strong word, but sure.
+
+85
+00:03:28,937 --> 00:03:31,338
+Hey.
+Hello.
+
+86
+00:03:31,340 --> 00:03:32,873
+You okay?
+
+87
+00:03:32,875 --> 00:03:35,209
+If I was okay,
+I would've said "hello"
+
+88
+00:03:35,211 --> 00:03:36,944
+and not the much more
+ominous "hello."
+
+89
+00:03:38,647 --> 00:03:39,647
+What's going on?
+
+90
+00:03:39,649 --> 00:03:41,115
+I'm mad at Amy.
+
+91
+00:03:41,117 --> 00:03:45,052
+Did she leave pit stains
+in your favorite crop top, too?
+
+92
+00:03:45,054 --> 00:03:47,722
+No.
+
+93
+00:03:47,724 --> 00:03:51,225
+She helped Barry Kripke make
+an advancement in string theory.
+
+94
+00:03:51,227 --> 00:03:53,360
+Oh, that sounds
+like a good thing.
+
+95
+00:03:53,362 --> 00:03:56,230
+Well, it would be,
+except that I left string theory
+
+96
+00:03:56,232 --> 00:03:58,165
+because I decided
+it was a dead end.
+
+97
+00:03:58,167 --> 00:04:00,334
+Yeah, and then she went
+behind my back
+
+98
+00:04:00,336 --> 00:04:02,203
+to help someone else
+prove me wrong.
+
+99
+00:04:02,205 --> 00:04:03,804
+My rival, no less.
+
+100
+00:04:15,417 --> 00:04:17,718
+I'm sorry you had to see that.
+
+101
+00:04:17,720 --> 00:04:21,088
+I'm sorry I didn't have
+a camera.
+
+102
+00:04:21,090 --> 00:04:23,090
+Why would she
+do this to me?
+
+103
+00:04:23,092 --> 00:04:25,760
+Well, I'm sure she didn't
+upset you on purpose.
+
+104
+00:04:25,762 --> 00:04:27,261
+Besides, aren't you
+the one who says
+
+105
+00:04:27,263 --> 00:04:29,864
+there's nothing more important
+than the advancement of science?
+
+106
+00:04:29,866 --> 00:04:32,366
+No, I said there's
+nothing more important
+
+107
+00:04:32,368 --> 00:04:34,702
+than <i>me</i> advancing science.
+
+108
+00:04:34,704 --> 00:04:36,670
+All right, well, if I'm
+understanding this right,
+
+109
+00:04:36,672 --> 00:04:39,006
+and all she did was help
+out another scientist,
+
+110
+00:04:39,008 --> 00:04:41,675
+I'm thinking you might
+have to let this one go.
+
+111
+00:04:41,677 --> 00:04:43,677
+Ugh, "let it go."
+
+112
+00:04:43,679 --> 00:04:46,046
+I have heard that
+my whole life.
+
+113
+00:04:46,048 --> 00:04:48,215
+Every time something upsets me
+somebody says, "let it go,"
+
+114
+00:04:48,217 --> 00:04:49,717
+you know,
+like it's my fault,
+
+115
+00:04:49,719 --> 00:04:51,719
+and it's not okay
+to feel the way I feel.
+
+116
+00:04:51,721 --> 00:04:53,120
+I don't know
+what to tell you.
+
+117
+00:04:53,122 --> 00:04:54,555
+I mean, why don't
+you talk to her?
+
+118
+00:04:54,557 --> 00:04:56,557
+Is that all you have?
+
+119
+00:04:56,559 --> 00:04:59,493
+Shopworn tidbits like
+"talk to her" and "let it go"?
+
+120
+00:04:59,495 --> 00:05:01,362
+Gee, Penny,
+life's giving me lemons.
+
+121
+00:05:01,364 --> 00:05:02,696
+What should I do?
+
+122
+00:05:02,698 --> 00:05:05,032
+Well, you could shove
+them somewhere.
+
+123
+00:05:07,402 --> 00:05:09,737
+Okay, now you're
+getting creative.
+
+124
+00:05:11,106 --> 00:05:12,773
+Thanks again
+for your help.
+
+125
+00:05:12,775 --> 00:05:14,108
+No problem.
+Our pleasure.
+
+126
+00:05:14,110 --> 00:05:15,576
+The place really
+looks great.
+
+127
+00:05:15,578 --> 00:05:18,045
+Yeah, you should have
+burned it down years ago.
+
+128
+00:05:18,047 --> 00:05:21,415
+I keep telling you
+I didn't burn it down.
+
+129
+00:05:21,417 --> 00:05:23,083
+We know, we know--
+because burning something down
+
+130
+00:05:23,085 --> 00:05:25,920
+for the insurance money
+is a "crime."
+
+131
+00:05:27,088 --> 00:05:30,157
+Stuart, this place
+looks amazing.
+
+132
+00:05:30,159 --> 00:05:31,125
+Thanks.
+
+133
+00:05:31,127 --> 00:05:33,394
+You really did
+a nice job.
+
+134
+00:05:33,396 --> 00:05:35,729
+And thank you
+for putting up with me
+
+135
+00:05:35,731 --> 00:05:37,398
+staying at your mom's
+through all this.
+
+136
+00:05:37,400 --> 00:05:39,400
+I-I couldn't have done it
+otherwise.
+
+137
+00:05:39,402 --> 00:05:42,403
+I appreciate that,
+and I'm glad you were able to...
+
+138
+00:05:44,272 --> 00:05:45,606
+Is that my mother's furniture?
+
+139
+00:05:48,944 --> 00:05:50,244
+Yeah, she said
+I could use it.
+
+140
+00:05:50,246 --> 00:05:51,612
+Doesn't it look
+great?
+
+141
+00:05:51,614 --> 00:05:54,748
+Not as great as it looks in
+the den where it belongs.
+
+142
+00:05:54,750 --> 00:05:56,450
+Howie.
+
+143
+00:05:56,452 --> 00:05:59,553
+Why don't you just clean out
+the whole room?
+
+144
+00:05:59,555 --> 00:06:01,889
+Take the string art clown
+I made her in third grade
+
+145
+00:06:01,891 --> 00:06:03,490
+and the ribbon I got
+in swim class
+
+146
+00:06:03,492 --> 00:06:04,925
+for putting my face
+in the water.
+
+147
+00:06:04,927 --> 00:06:06,260
+What is your problem?
+
+148
+00:06:06,262 --> 00:06:07,595
+She said it was okay.
+
+149
+00:06:07,597 --> 00:06:10,197
+Well, I'm her son,
+and I say it's not okay.
+
+150
+00:06:10,199 --> 00:06:13,567
+Some son-- looks like you spent
+ten minutes on that clown art.
+
+151
+00:06:15,503 --> 00:06:17,972
+Well, maybe I should've gone
+to a fancy art school like you.
+
+152
+00:06:17,974 --> 00:06:19,607
+Then I could run
+a failed comic shop
+
+153
+00:06:19,609 --> 00:06:20,908
+and mooch off
+some guy's mother.
+
+154
+00:06:22,277 --> 00:06:23,844
+Why don't we leave
+so you can cool off?
+
+155
+00:06:23,846 --> 00:06:25,846
+I think that's
+a good idea.
+
+156
+00:06:25,848 --> 00:06:27,114
+Take him out
+of my store.
+
+157
+00:06:27,116 --> 00:06:28,215
+Your store?!
+
+158
+00:06:28,217 --> 00:06:30,217
+My mother gave you
+the money to reopen.
+
+159
+00:06:30,219 --> 00:06:31,819
+I'm not going anywhere.
+
+160
+00:06:31,821 --> 00:06:33,520
+Why don't we go get
+the food for the party.
+
+161
+00:06:33,522 --> 00:06:34,622
+Thank you.
+
+162
+00:06:34,624 --> 00:06:36,624
+Smart-- looks like
+we're being helpful.
+
+163
+00:06:36,626 --> 00:06:38,292
+Mmm, when really
+we're just exiting
+
+164
+00:06:38,294 --> 00:06:39,960
+an uncomfortable
+situation.
+
+165
+00:06:43,064 --> 00:06:45,866
+Kripke, you know, of all
+the people-- Barry Kripke.
+
+166
+00:06:45,868 --> 00:06:48,035
+I'm so... Are you folding
+it like a crazy person
+
+167
+00:06:48,037 --> 00:06:49,703
+to get me to
+do it for you?!
+
+168
+00:06:50,839 --> 00:06:52,006
+No.
+
+169
+00:06:54,542 --> 00:06:55,876
+Oh, give me that.
+
+170
+00:07:01,483 --> 00:07:03,817
+Just out of curiosity,
+
+171
+00:07:03,819 --> 00:07:06,487
+if I were to let something go,
+
+172
+00:07:06,489 --> 00:07:07,888
+how would I do that?
+
+173
+00:07:07,890 --> 00:07:10,858
+I don't know-- just think
+about something else.
+
+174
+00:07:12,327 --> 00:07:14,328
+Can I think
+about the spiny anteater?
+
+175
+00:07:14,330 --> 00:07:15,496
+Sure.
+
+176
+00:07:15,498 --> 00:07:18,165
+The spiny anteater...
+
+177
+00:07:18,167 --> 00:07:21,168
+never went behind my back
+and worked with Barry Kripke.
+
+178
+00:07:22,871 --> 00:07:25,539
+That didn't help at all.
+
+179
+00:07:25,541 --> 00:07:28,509
+You know, some people
+try visualization.
+
+180
+00:07:28,511 --> 00:07:30,010
+How does that work?
+
+181
+00:07:32,047 --> 00:07:33,847
+Okay,
+
+182
+00:07:33,849 --> 00:07:36,884
+imagine your problems
+are a pen.
+
+183
+00:07:38,219 --> 00:07:39,753
+Okay.
+
+184
+00:07:39,755 --> 00:07:42,323
+Now imagine
+you're holding that pen.
+
+185
+00:07:46,962 --> 00:07:48,963
+Okay.
+
+186
+00:07:48,965 --> 00:07:52,199
+Now open your hand
+and let it go.
+
+187
+00:07:52,201 --> 00:07:54,268
+But I just got this pen.
+
+188
+00:07:55,637 --> 00:07:58,238
+It's got my initials on it
+and everything.
+
+189
+00:07:58,240 --> 00:07:59,907
+Look.
+
+190
+00:08:01,710 --> 00:08:04,445
+Sheldon, this isn't
+that hard.
+
+191
+00:08:06,815 --> 00:08:09,283
+I may have a better way
+that you can teach me.
+
+192
+00:08:09,285 --> 00:08:10,718
+How?
+
+193
+00:08:10,720 --> 00:08:14,388
+What if I told you
+that over the past few months
+
+194
+00:08:14,390 --> 00:08:17,391
+Amy has secretly been giving you
+little puzzles
+
+195
+00:08:17,393 --> 00:08:20,394
+to test your intelligence
+against chimpanzees in her lab?
+
+196
+00:08:22,597 --> 00:08:24,098
+What? She didn't
+give me any puzzles.
+
+197
+00:08:24,100 --> 00:08:26,233
+Are you sure?
+
+198
+00:08:29,137 --> 00:08:32,573
+Boy, I just can't seem to get
+these scissors back together.
+
+199
+00:08:32,575 --> 00:08:34,375
+Can you do it?
+
+200
+00:08:35,844 --> 00:08:37,177
+Darn it.
+
+201
+00:08:37,179 --> 00:08:38,579
+There's something
+in my eye,
+
+202
+00:08:38,581 --> 00:08:42,249
+and I need to sort
+these coins by size.
+
+203
+00:08:42,251 --> 00:08:43,584
+Can you help?
+
+204
+00:08:48,757 --> 00:08:51,025
+Penny?
+
+205
+00:08:51,027 --> 00:08:53,027
+I really want to
+eat this banana,
+
+206
+00:08:53,029 --> 00:08:56,030
+but it's stuck inside
+this bamboo puzzle box.
+
+207
+00:08:59,100 --> 00:09:02,169
+Son of a bitch!
+
+208
+00:09:02,171 --> 00:09:03,570
+Okay, that's great.
+
+209
+00:09:03,572 --> 00:09:05,406
+Now, let it go.
+
+210
+00:09:14,649 --> 00:09:17,718
+I can't believe you were
+testing me against a chimp!
+
+211
+00:09:17,720 --> 00:09:20,387
+Well, excuse me,
+Amy was testing you.
+
+212
+00:09:20,389 --> 00:09:22,656
+I was rooting for you.
+
+213
+00:09:23,992 --> 00:09:27,227
+Good job on that banana box,
+by the way.
+
+214
+00:09:27,229 --> 00:09:29,997
+Why would she
+even do this?
+
+215
+00:09:29,999 --> 00:09:31,999
+She's been conducting
+an experiment on apes
+
+216
+00:09:32,001 --> 00:09:33,901
+where they're given
+various puzzles to solve.
+
+217
+00:09:33,903 --> 00:09:36,570
+I was surprised
+at the complexity of the puzzles
+
+218
+00:09:36,572 --> 00:09:38,906
+and thought some humans wouldn't
+be able to solve them.
+
+219
+00:09:38,908 --> 00:09:42,276
+That's when Amy said,
+"Want to make this interesting?"
+
+220
+00:09:43,311 --> 00:09:44,812
+"Make this interesting"?
+
+221
+00:09:44,814 --> 00:09:46,413
+You bet money on me?
+
+222
+00:09:46,415 --> 00:09:47,748
+No, no.
+
+223
+00:09:47,750 --> 00:09:50,417
+We designed an experiment
+involving you.
+
+224
+00:09:50,419 --> 00:09:52,853
+See? Now, isn't that
+interesting?
+
+225
+00:09:52,855 --> 00:09:55,189
+It's not interesting.
+
+226
+00:09:55,191 --> 00:09:57,057
+It's incredibly insulting.
+
+227
+00:09:57,059 --> 00:09:59,393
+Okay,
+maybe this will help--
+
+228
+00:09:59,395 --> 00:10:01,795
+imagine you're holding a pen.
+
+229
+00:10:03,832 --> 00:10:06,333
+Before you go too far,
+not a special pen
+
+230
+00:10:06,335 --> 00:10:07,835
+with your initials
+engraved on it--
+
+231
+00:10:07,837 --> 00:10:09,403
+that'll make the next part
+really hard.
+
+232
+00:10:09,405 --> 00:10:10,405
+Oh...
+
+233
+00:10:10,406 --> 00:10:11,406
+That's it.
+
+234
+00:10:11,407 --> 00:10:12,407
+Get out!
+
+235
+00:10:12,408 --> 00:10:14,408
+I don't understand
+why you're mad at me.
+
+236
+00:10:14,410 --> 00:10:16,076
+You should be mad
+at Amy.
+
+237
+00:10:16,078 --> 00:10:18,045
+Like I was
+this afternoon.
+
+238
+00:10:18,047 --> 00:10:19,713
+Hey, look at that--
+I let it go.
+
+239
+00:10:19,715 --> 00:10:21,148
+Get out!
+
+240
+00:10:23,852 --> 00:10:25,219
+Penny?
+What?
+
+241
+00:10:25,221 --> 00:10:28,188
+I think I left
+my pen in there.
+
+242
+00:10:31,459 --> 00:10:33,460
+I understand
+why you're upset,
+
+243
+00:10:33,462 --> 00:10:35,929
+but he worked really hard
+to get the store ready.
+
+244
+00:10:35,931 --> 00:10:38,399
+And it's just furniture.
+
+245
+00:10:38,401 --> 00:10:40,234
+It's my mom's furniture.
+
+246
+00:10:40,236 --> 00:10:42,236
+It belongs in the house
+I grew up in--
+
+247
+00:10:42,238 --> 00:10:43,737
+next to that pile of <i>TV Guides</i>
+
+248
+00:10:43,739 --> 00:10:46,740
+and in plain view of what,
+for a ten-year-old, was
+
+249
+00:10:46,742 --> 00:10:48,409
+a quality piece
+of string art!
+
+250
+00:10:51,780 --> 00:10:54,314
+Howie, if the store succeeds,
+Stuart has a source of income,
+
+251
+00:10:54,316 --> 00:10:56,650
+and he can move out
+of your mother's house.
+
+252
+00:10:56,652 --> 00:10:58,585
+Seems like some old furniture
+is a reasonable price
+
+253
+00:10:58,587 --> 00:10:59,653
+to pay for that.
+
+254
+00:11:01,022 --> 00:11:02,423
+That is a good point.
+
+255
+00:11:02,425 --> 00:11:04,058
+But I didn't marry you
+for good points.
+
+256
+00:11:04,060 --> 00:11:05,492
+I married you
+to blindly support me
+
+257
+00:11:05,494 --> 00:11:07,461
+no matter how ridiculous
+I'm being!
+
+258
+00:11:09,497 --> 00:11:11,632
+This is why I had
+to rewrite our wedding vows.
+
+259
+00:11:16,104 --> 00:11:19,339
+Hi, we're here to pick up
+an order for Comic Center.
+
+260
+00:11:19,341 --> 00:11:20,808
+Sure, let me go check on that.
+
+261
+00:11:22,510 --> 00:11:25,779
+Dude, I-I think
+that's Nathan Fillion.
+
+262
+00:11:26,915 --> 00:11:28,916
+Oh yeah,
+look at that.
+
+263
+00:11:28,918 --> 00:11:31,351
+And he's picking
+the tomatoes out of his salad
+
+264
+00:11:31,353 --> 00:11:33,353
+just like I do.
+
+265
+00:11:33,355 --> 00:11:35,389
+I always did feel
+a connection with him.
+
+266
+00:11:37,358 --> 00:11:39,159
+Oh, I have got
+an idea.
+
+267
+00:11:39,161 --> 00:11:42,096
+We're not selling
+his tomatoes on eBay.
+
+268
+00:11:42,098 --> 00:11:46,100
+No, if we got Captain Reynolds
+from <i>Firefly</i>
+
+269
+00:11:46,102 --> 00:11:48,435
+to do a signing
+at Stuart's store,
+
+270
+00:11:48,437 --> 00:11:49,870
+that would be
+amazing.
+
+271
+00:11:49,872 --> 00:11:51,205
+That would be great.
+
+272
+00:11:51,207 --> 00:11:52,973
+So should we go
+talk to him?
+
+273
+00:11:52,975 --> 00:11:54,374
+I don't know.
+
+274
+00:11:54,376 --> 00:11:57,044
+I mean, if he's not nice,
+it's gonna make it hard for me
+
+275
+00:11:57,046 --> 00:11:59,213
+to watch him in anything again.
+What?!
+
+276
+00:11:59,215 --> 00:12:02,216
+The-the guy who plays
+Jon Snow was a jerk.
+
+277
+00:12:02,218 --> 00:12:03,684
+We still watch
+Game of Thrones.
+
+278
+00:12:03,686 --> 00:12:06,286
+He was a jerk because
+you rear-ended him.
+
+279
+00:12:07,322 --> 00:12:08,989
+I was distracted.
+
+280
+00:12:08,991 --> 00:12:10,991
+It's weird seeing a member
+of the Night's Watch
+
+281
+00:12:10,993 --> 00:12:12,526
+with a kayak strapped
+to his car.
+
+282
+00:12:14,229 --> 00:12:15,229
+Come on.
+
+283
+00:12:20,335 --> 00:12:22,136
+Hi,
+excuse me, s-s...
+
+284
+00:12:22,138 --> 00:12:23,470
+I-I don't mean
+to bother you,
+
+285
+00:12:23,472 --> 00:12:25,806
+but we're just really
+big fans of <i>Firefly.</i>
+
+286
+00:12:25,808 --> 00:12:27,374
+A-And <i>Dr. Horrible.</i>
+
+287
+00:12:27,376 --> 00:12:29,309
+Oh, uh, I think
+you made a mistake.
+
+288
+00:12:29,311 --> 00:12:30,644
+I'm not an actor.
+
+289
+00:12:30,646 --> 00:12:32,980
+Don't say that.
+
+290
+00:12:32,982 --> 00:12:34,481
+I mean, you're not
+Dame Judi Dench,
+
+291
+00:12:34,483 --> 00:12:36,150
+but you're
+pretty great.
+
+292
+00:12:39,387 --> 00:12:41,555
+Oh, yeah, I get it--
+you think I'm Nathan Fillion,
+
+293
+00:12:41,557 --> 00:12:43,056
+but I'm not.
+
+294
+00:12:43,058 --> 00:12:45,492
+So if you don't mind, I would
+just love to eat my lunch.
+
+295
+00:12:46,861 --> 00:12:47,861
+Come on.
+
+296
+00:12:47,863 --> 00:12:49,696
+Sorry to bother you.
+
+297
+00:12:49,698 --> 00:12:51,698
+Don't know why
+he's so grumpy.
+
+298
+00:12:51,700 --> 00:12:54,034
+I got mistaken for that guy
+in <i>Life of Pi</i> once,
+
+299
+00:12:54,036 --> 00:12:56,403
+and I'm still
+floating.
+
+300
+00:12:59,107 --> 00:13:01,909
+Sheldon, it's me.
+
+301
+00:13:01,911 --> 00:13:02,911
+Oh, hey.
+
+302
+00:13:02,912 --> 00:13:04,745
+D-Did you see that?
+
+303
+00:13:04,747 --> 00:13:08,315
+I-I figured out how to open
+the door all by myself.
+
+304
+00:13:09,951 --> 00:13:13,787
+Maybe I'll fling some feces
+around my cage to celebrate.
+
+305
+00:13:15,123 --> 00:13:17,291
+What are you talking about?
+
+306
+00:13:17,293 --> 00:13:19,560
+I know you've been giving me
+secret puzzle tests.
+
+307
+00:13:22,564 --> 00:13:24,231
+Sheldon, open
+the door.
+
+308
+00:13:24,233 --> 00:13:25,899
+I can't.
+
+309
+00:13:25,901 --> 00:13:28,902
+I'm naked.
+
+310
+00:13:28,904 --> 00:13:30,904
+I just saw you.
+
+311
+00:13:30,906 --> 00:13:33,207
+Hang on.
+
+312
+00:13:33,209 --> 00:13:35,776
+Open the door now.
+
+313
+00:13:35,778 --> 00:13:37,444
+- Oh, hey.
+- Pull up your pants!
+
+314
+00:13:40,615 --> 00:13:41,949
+It's not a big deal.
+
+315
+00:13:41,951 --> 00:13:45,152
+I run tests like this on
+undergrads all the time.
+
+316
+00:13:45,154 --> 00:13:46,820
+If you fill out some
+paperwork at the university,
+
+317
+00:13:46,822 --> 00:13:49,122
+I can get you $5.
+
+318
+00:13:49,124 --> 00:13:50,791
+I don't want $5.
+
+319
+00:13:50,793 --> 00:13:52,359
+I want my dignity.
+
+320
+00:13:53,728 --> 00:13:55,395
+So what are we talking,
+like, ten bucks?
+
+321
+00:13:57,865 --> 00:13:59,433
+Thank you.
+Thanks.
+
+322
+00:14:01,603 --> 00:14:03,503
+Sorry again.
+No problem.
+
+323
+00:14:03,505 --> 00:14:06,673
+A-Are you sure
+you're not him?
+
+324
+00:14:06,675 --> 00:14:07,841
+Uh, you can tell us.
+
+325
+00:14:07,843 --> 00:14:10,444
+We're scientists,
+not crazy fanboys.
+
+326
+00:14:12,480 --> 00:14:13,981
+All right, fine.
+
+327
+00:14:13,983 --> 00:14:15,449
+I'm him.
+
+328
+00:14:15,451 --> 00:14:18,785
+And you're eating
+alone at a deli.
+
+329
+00:14:18,787 --> 00:14:20,988
+I don't buy it--
+you're not him.
+
+330
+00:14:22,324 --> 00:14:24,157
+I just wanted
+to eat my lunch in peace.
+
+331
+00:14:24,159 --> 00:14:25,325
+But I really am him.
+
+332
+00:14:25,327 --> 00:14:27,427
+And thank you very much
+for being a fan.
+
+333
+00:14:27,429 --> 00:14:28,962
+If you want, uh,
+let's take a picture.
+
+334
+00:14:28,964 --> 00:14:30,297
+That would be great.
+
+335
+00:14:30,299 --> 00:14:31,431
+Great.
+Yeah, thank you.
+
+336
+00:14:31,433 --> 00:14:32,766
+You bet.
+
+337
+00:14:36,504 --> 00:14:38,839
+Wait, hang on.
+
+338
+00:14:38,841 --> 00:14:41,208
+If you're really
+Nathan Fillion,
+
+339
+00:14:41,210 --> 00:14:44,244
+what's the line from <i>Firefly</i>
+<i>about your bonnet?</i>
+
+340
+00:14:45,647 --> 00:14:47,981
+"I swear by my pretty floral
+bonnet, I will end you."
+
+341
+00:14:50,285 --> 00:14:51,785
+That's it,
+that's the line.
+
+342
+00:14:51,787 --> 00:14:53,787
+Although...
+
+343
+00:14:53,789 --> 00:14:56,490
+I knew the line--
+doesn't make me Nathan Fillion.
+
+344
+00:14:57,625 --> 00:14:59,893
+Do you want the picture or not?
+
+345
+00:14:59,895 --> 00:15:02,729
+I want a picture
+with Nathan Fillion.
+
+346
+00:15:02,731 --> 00:15:06,066
+How about a picture with a guy
+who looks like Nathan Fillion
+
+347
+00:15:06,068 --> 00:15:09,303
+but a little more annoyed
+than Nathan Fillion usually is?
+
+348
+00:15:11,906 --> 00:15:12,939
+What do you think?
+
+349
+00:15:14,309 --> 00:15:15,642
+Eh, it's good enough
+for Facebook.
+
+350
+00:15:23,651 --> 00:15:25,218
+I can't believe
+they did that.
+
+351
+00:15:25,220 --> 00:15:27,220
+I know-- it's so insulting.
+
+352
+00:15:27,222 --> 00:15:28,889
+At one point,
+they had me figure out
+
+353
+00:15:28,891 --> 00:15:31,858
+how to get a banana
+out of a puzzle box.
+
+354
+00:15:31,860 --> 00:15:34,861
+Wait, Sheldon gave me
+a banana in a box.
+
+355
+00:15:34,863 --> 00:15:37,064
+He was testing me, too.
+
+356
+00:15:37,066 --> 00:15:39,066
+Unbelievable.
+
+357
+00:15:39,068 --> 00:15:40,901
+And how could a chimp
+even solve that?
+
+358
+00:15:40,903 --> 00:15:42,402
+That was impossible.
+
+359
+00:15:42,404 --> 00:15:44,771
+Really? You couldn't get it out?
+
+360
+00:15:48,376 --> 00:15:49,710
+Thank you.
+
+361
+00:15:49,712 --> 00:15:51,712
+Wow, the
+store looks great.
+
+362
+00:15:51,714 --> 00:15:53,714
+So you guys were
+testing us both?
+
+363
+00:15:53,716 --> 00:15:54,748
+What is the
+matter with you?
+
+364
+00:15:54,750 --> 00:15:56,249
+Eh, what's
+the matter with them is
+
+365
+00:15:56,251 --> 00:15:57,851
+they think they're so smart
+they don't care
+
+366
+00:15:57,853 --> 00:15:59,519
+if they hurt
+other people's feelings.
+
+367
+00:15:59,521 --> 00:16:01,188
+Sounds like us.
+That's not true.
+
+368
+00:16:03,858 --> 00:16:06,526
+I still don't understand
+why you're upset.
+
+369
+00:16:06,528 --> 00:16:09,529
+You solved every puzzle faster
+than all of the chimps.
+
+370
+00:16:09,531 --> 00:16:12,199
+Well, except Barnabas,
+but he was on Adderall.
+
+371
+00:16:13,701 --> 00:16:16,203
+I'm sorry, but it's
+making me crazy.
+
+372
+00:16:16,205 --> 00:16:18,538
+Can you please
+just let it go?
+
+373
+00:16:18,540 --> 00:16:20,507
+Oh, I can help
+you with that.
+
+374
+00:16:21,876 --> 00:16:24,311
+Imagine you're holding
+an ordinary pen.
+
+375
+00:16:26,381 --> 00:16:29,383
+While your favorite pen is
+safe and secure in your pocket.
+
+376
+00:16:32,020 --> 00:16:33,787
+Hold that thought.
+
+377
+00:16:33,789 --> 00:16:34,789
+Hello?
+
+378
+00:16:34,790 --> 00:16:37,057
+How can I make this up
+to you?
+
+379
+00:16:37,059 --> 00:16:39,726
+The answer's
+in this puzzle box.
+
+380
+00:16:39,728 --> 00:16:41,895
+Let's see
+if you can open it.
+
+381
+00:16:45,199 --> 00:16:47,734
+You could have at least warned
+him about the furniture.
+
+382
+00:16:47,736 --> 00:16:49,803
+That's what I said
+when we moved it.
+
+383
+00:16:49,805 --> 00:16:51,304
+You helped him?!
+
+384
+00:16:51,306 --> 00:16:54,307
+No, Stuart picked out those
+throw pillows all on his own.
+
+385
+00:16:58,513 --> 00:17:00,514
+Hey, you okay?
+
+386
+00:17:00,516 --> 00:17:01,948
+Uh, no.
+
+387
+00:17:01,950 --> 00:17:03,116
+What's wrong?
+
+388
+00:17:03,118 --> 00:17:05,118
+Um...
+
+389
+00:17:05,120 --> 00:17:07,621
+my mom died.
+
+390
+00:17:07,623 --> 00:17:09,723
+What?
+
+391
+00:17:09,725 --> 00:17:12,058
+Uh...
+
+392
+00:17:12,060 --> 00:17:15,061
+that was my aunt.
+
+393
+00:17:15,063 --> 00:17:18,064
+Ma took a nap.
+
+394
+00:17:18,066 --> 00:17:19,399
+She never woke up.
+
+395
+00:17:20,435 --> 00:17:22,436
+Oh, my God, Howie.
+
+396
+00:17:24,939 --> 00:17:26,807
+I'm so sorry.
+
+397
+00:17:28,075 --> 00:17:29,409
+What can we do?
+
+398
+00:17:32,113 --> 00:17:34,114
+I don't know.
+
+399
+00:17:38,519 --> 00:17:40,320
+May I say something?
+
+400
+00:17:40,322 --> 00:17:41,655
+Not right
+now, Sheldon.
+
+401
+00:17:41,657 --> 00:17:42,989
+But I think it would
+be comforting.
+
+402
+00:17:42,991 --> 00:17:44,925
+Buddy...
+No, it's okay.
+
+403
+00:17:44,927 --> 00:17:46,827
+What?
+
+404
+00:17:47,862 --> 00:17:50,530
+When I lost my own father,
+
+405
+00:17:50,532 --> 00:17:52,732
+I didn't have any friends
+to help me through it.
+
+406
+00:17:54,001 --> 00:17:55,635
+You do.
+
+407
+00:18:01,142 --> 00:18:04,211
+I really thought
+he was gonna say, "Let it go."
+
+408
+00:18:16,095 --> 00:18:17,694
+Okay, thanks, Bernadette.
+
+409
+00:18:17,696 --> 00:18:19,362
+Travel safe.
+
+410
+00:18:19,364 --> 00:18:22,032
+Okay, bye.
+
+411
+00:18:23,368 --> 00:18:24,534
+They booked a flight.
+
+412
+00:18:24,536 --> 00:18:25,769
+They're heading
+to the airport now.
+
+413
+00:18:25,771 --> 00:18:27,571
+How's Howard holding up?
+
+414
+00:18:27,573 --> 00:18:28,905
+He's hanging in there.
+
+415
+00:18:28,907 --> 00:18:30,540
+How are you doing, Stuart?
+
+416
+00:18:32,577 --> 00:18:33,910
+Still can't believe she's gone.
+
+417
+00:18:33,912 --> 00:18:36,880
+I mean, that woman took me in.
+
+418
+00:18:36,882 --> 00:18:39,616
+If it wasn't for her,
+I-I would have been homeless.
+
+419
+00:18:39,618 --> 00:18:41,618
+One of us would
+have taken you in.
+
+420
+00:18:41,620 --> 00:18:43,920
+Yeah, I don't recall any offers.
+
+421
+00:18:45,723 --> 00:18:48,391
+But, you know, uh, I-I'm glad
+it worked out the way it did
+
+422
+00:18:48,393 --> 00:18:52,462
+because I got to know
+this wonderful person.
+
+423
+00:18:52,464 --> 00:18:54,131
+Yeah.
+
+424
+00:18:54,133 --> 00:18:56,032
+Mrs. Wolowitz was
+pretty special.
+
+425
+00:18:56,034 --> 00:18:58,301
+When I first moved to America,
+
+426
+00:18:58,303 --> 00:19:00,837
+Howard was my only friend.
+
+427
+00:19:00,839 --> 00:19:04,074
+She made me feel
+so welcome in her home.
+
+428
+00:19:04,076 --> 00:19:07,077
+Which says a lot,
+because, those first few years,
+
+429
+00:19:07,079 --> 00:19:09,746
+she thought I was the gardener.
+
+430
+00:19:10,882 --> 00:19:12,549
+Whenever I saw her,
+
+431
+00:19:12,551 --> 00:19:15,552
+she'd say I was too skinny
+and try and feed me.
+
+432
+00:19:17,156 --> 00:19:19,089
+She did that to me, too.
+
+433
+00:19:19,091 --> 00:19:21,458
+Don't take this away from me.
+
+434
+00:19:22,593 --> 00:19:25,095
+I didn't care
+for her yelling.
+
+435
+00:19:25,097 --> 00:19:28,098
+But now that I'm not going
+to hear it again,
+
+436
+00:19:28,100 --> 00:19:29,666
+I'm sad.
+
+437
+00:19:29,668 --> 00:19:31,668
+If you want,
+I can yell at you later.
+
+438
+00:19:34,505 --> 00:19:35,805
+It won't be as good.
+
+439
+00:19:38,843 --> 00:19:40,243
+Let's have a toast.
+
+440
+00:19:42,346 --> 00:19:44,014
+To Mrs. Wolowitz.
+
+441
+00:19:44,893 --> 00:19:46,859
+A loving mother...
+
+442
+00:19:49,863 --> 00:19:51,864
+...to all of us.
+
+443
+00:19:51,866 --> 00:19:53,733
+We'll miss you.
+
+444
+00:19:58,231 --> 00:20:04,731
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
